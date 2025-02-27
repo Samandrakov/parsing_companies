@@ -5,26 +5,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver import DriverManager
 import json
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
-
-class DriverManager:
-    def __init__(self):
-        self.driver = None
-
-    def start_driver(self):
-        options = webdriver.ChromeOptions()
-        options.add_argument('--headless')
-        service = Service(ChromeDriverManager().install())
-        self.driver = webdriver.Chrome(service=service, options=options)
-        logger.info("Chrome driver initialized.")
-
-    def quit_driver(self):
-        if self.driver:
-            self.driver.quit()
-            logger.info("Driver quit.")
 
 class ParsingLinks:
     def __init__(self, driver_manager):
@@ -95,7 +80,7 @@ class DatabaseManager:
     pass
 
 if __name__ == "__main__":
-    start_url = 'https://www.sgx.com/securities/corporate-information?page={page_num}&pagesize={page_size}'
+    start_url = 'https://www.sgpbusiness.com/'
     links_selector = 'a.article-list-result-item-title'
     output_file = 'output_data.json'
 

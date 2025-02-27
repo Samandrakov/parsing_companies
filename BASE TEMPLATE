@@ -1,0 +1,19 @@
+    bio_definitions_selector_dict = {
+        "Full Company Name": "",
+        "Incorporated in": "",
+        "Incorporated on": "",
+        "ISIN Code": "",
+        "Registered Office": "",
+        "Telephone": "",
+        "Fax": "",
+        "Email": "",
+        "Secretary": "",
+        "Link to Internet Website": "",
+        "LISTING": "",
+        "LISTING BOARD": "",
+        "OTHER STOCK EXCHANGE LISTINGS": "",
+        "REGISTRARS / TRANSFER AGENTS & ADDRESS": "",
+        "AUDITORS": "",
+        "DESCRIPTION" : "",
+        "CATEGORY" : ""
+    }
