@@ -8,12 +8,32 @@
         "Fax": "",
         "Email": "",
         "Secretary": "",
-        "Link to Internet Website": "",
+        "Website": "",
         "LISTING": "",
         "LISTING BOARD": "",
         "OTHER STOCK EXCHANGE LISTINGS": "",
-        "REGISTRARS / TRANSFER AGENTS & ADDRESS": "",
         "AUDITORS": "",
         "DESCRIPTION" : "",
-        "CATEGORY" : ""
+        "CATEGORY" : "",
+        "SECTOR" : "",
+        "YEAR FOUNDED" : "",
+        "TICKET" : ""
     }
+
+#mantine-6tzambcj7-region > div > div > div.m_6d731127.mantine-Stack-root > ul > li:nth-child(n) > div > span > div.w-full.m_8bffd616.mantine-Flex-root.__m__-r3d > p:nth-child(2)
+#mantine-93qg6rng0-region > div > div > div.m_6d731127.mantine-Stack-root > ul > li:nth-child(1) > div > span > div.w-full.m_8bffd616.mantine-Flex-root.__m__-r3e > p:nth-child(2)
+
+[id^="mantine-"] > div > div > div.m_6d731127.mantine-Stack-root > ul > li:nth-child(n) > div > span > div.w-full.m_8bffd616.mantine-Flex-root > p:nth-child(2)
+#mantine-kc7qndkvn-region > div > div > div.w-full.columns-1.gap-x-2\.5.\@sm\:columns-2.\@md\:columns-3 > div:nth-child(1) > ul > li:nth-child(5) > div > span > div.w-full.m_8bffd616.mantine-Flex-root.__m__-r55 > p.mantine-focus-auto.false.m_b6d8b162.mantine-Text-root
+#mantine-kc7qndkvn-region > div > div > div.w-full.columns-1.gap-x-2\.5.\@sm\:columns-2.\@md\:columns-3 > div:nth-child(1) > ul > li:nth-child(4) > div > span > div.w-full.m_8bffd616.mantine-Flex-root.__m__-r4v > p.mantine-focus-auto.false.m_b6d8b162.mantine-Text-root
+
+
+#mantine-kc7qndkvn-region > div > div > div.w-full.columns-1.gap-x-2\.5.\@sm\:columns-2.\@md\:columns-3 > div:nth-child(1) > ul > li:nth-child(5) > div > span > div.w-full.m_8bffd616.mantine-Flex-root.__m__-r55 > p.mantine-focus-auto.false.m_b6d8b162.mantine-Text-root
+[id^="mantine-"] > div > div > div.w-full.columns-1.gap-x-2\.5.\@sm\:columns-2.\@md\:columns-3 > div:nth-child(1) > ul > li:nth-child(5) > div > span > div.w-full.m_8bffd616.mantine-Flex-root.__m__-r54 > p.mantine-focus-auto.false.m_b6d8b162.mantine-Text-root
+
+[id^="mantine-"] >
+[id^="mantine-"] > div > div > div.w-full.columns-1.gap-x-2\.5.\@sm\:columns-2.\@md\:columns-3 > div:nth-child(1) > ul > li:nth-child(4) > div > span > div.w-full.m_8bffd616.mantine-Flex-root.__m__-r4u > p.mantine-focus-auto.false.m_b6d8b162.mantine-Text-root
+
+
+
+
