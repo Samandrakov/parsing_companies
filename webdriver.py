@@ -11,7 +11,7 @@ class DriverManager:
 
     def start_driver(self):
         options = webdriver.ChromeOptions()
-        options.add_argument('--headless')
+        # options.add_argument('--headless')
         service = Service(ChromeDriverManager().install())
         self.driver = webdriver.Chrome(service=service, options=options)
         logger.info("Chrome driver initialized.")
