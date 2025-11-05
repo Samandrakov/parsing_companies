@@ -1,0 +1,903 @@
+Ticker,Company_name,Market_Cap,Stock_price,Volume,Industry,Sector,Revenue,Rev. Growth,Net Income,Free_Cash_Flow
+BELI,PT Global Digital Niaga Tbk,53.28T,410.00,"5,351,600",Internet Retail,Consumer Discretionary,19.82T,28.83%,"-2,501.30B","-3,076.34B"
+AMFG,PT Asahimas Flat Glass Tbk,1.56T,"3,600.00","6,2",Building Materials,Materials,5.01T,-10.88%,138.64B,-76.46B
+JKON,PT Jaya Konstruksi Manggala Pratama Tbk,1.39T,84.00,"40,692,400",Conglomerates,Industrials,3.65T,-11.65%,116.69B,53.63B
+LIFE,PT MSIG Life Insurance Indonesia Tbk,17.96T,"8,550.00","8,3",Insurance - Life,Financials,3.68T,17.05%,310.47B,264.86B
+IPCC,PT Indonesia Kendaraan Terminal Tbk,2.15T,"1,195.00","1,256,200",Integrated Freight & Logistics,Industrials,899.01B,16.32%,254.49B,394.57B
+STAA,PT Sumber Tani Agung Resources Tbk,15.86T,"1,455.00","22,741,100",Farm Products,Consumer Staples,8.58T,46.42%,1.63T,1.16T
+BIKE,PT Sepeda Bersama Indonesia Tbk,1.18T,885.00,"3,649,600",Leisure,Consumer Discretionary,374.14B,3.03%,15.23B,15.67B
+CNMA,PT Nusantara Sejahtera Raya Tbk,9.72T,119.00,"23,206,900",Entertainment,Communication Services,5.73T,0.62%,644.09B,871.32B
+INPC,PT Bank Artha Graha Internasional Tbk,3.05T,151.00,"3,123,600",Banks - Regional,Financials,1.22T,2.03%,81.14B,979.57B
+HEAL,PT Medikaloka Hermina Tbk,23.28T,"1,425.00","25,180,800",Medical Care Facilities,Healthcare,6.98T,6.05%,423.80B,-812.51B
+DEPO,PT Caturkarda Depo Bangunan Tbk,1.83T,270.00,"504,6",Home Improvement,Consumer Discretionary,2.90T,6.22%,88.88B,74.25B
+SSMS,PT Sawit Sumbermas Sarana Tbk.,15.29T,"1,610.00","8,072,900",Farm Products,Consumer Staples,14.16T,32.38%,1.21T,655.97B
+KEEN,PT Kencana Energi Lestari Tbk,3.63T,995.00,"6,479,700",Utilities - Independent Power Producers,Utilities,547.20B,-26.11%,55.94B,162.20B
+OMED,PT Jayamas Medica Industri Tbk,5.41T,200.00,"2,957,400",Medical Instruments & Supplies,Healthcare,1.99T,8.51%,364.96B,260.24B
+PGUN,PT Pradiksi Gunatama Tbk,76.31T,"13,250.0","97,9",Farm Products,Consumer Staples,888.57B,38.52%,162.14B,210.58B
+FILM,PT.MD Entertainment Tbk,57.16T,"5,800.00","7,392,600",Entertainment,Communication Services,514.30B,21.29%,-135.62B,-326.64B
+MGLV,PT Panca Anugrah Wisesa Tbk,1.24T,715.00,"2,294,100","Furnishings, Fixtures & Appliances",Consumer Discretionary,171.01B,-32.40%,-942.17M,-25.17B
+EDGE,PT Indointernet Tbk.,8.71T,"4,310.00","31,3",Information Technology Services,Technology,842.16B,-17.57%,137.51B,-601.65B
+BOGA,PT Bintang Oto Global Tbk,1.86T,490.00,"2,521,800",Auto & Truck Dealerships,Consumer Discretionary,474.23B,-36.59%,-27.14B,-130.45B
+LIVE,PT Homeco Victoria Makmur Tbk,918.60B,204.00,"14,264,500","Furnishings, Fixtures & Appliances",Consumer Discretionary,281.88B,-4.75%,16.10B,-60.50B
+SUNI,PT Sunindo Pratama Tbk,1.93T,800.00,319,Oil & Gas Equipment & Services,Energy,961.79B,-11.43%,184.54B,-70.96B
+BLES,PT Superior Prima Sukses Tbk,1.43T,161.00,"4,590,400",Building Materials,Materials,1.50T,5.69%,83.50B,-165.49B
+TRIN,PT Perintis Triniti Properti Tbk,1.78T,412.00,"5,447,200",Real Estate - Development,Real Estate,291.88B,161.11%,-101.41B,-2.81B
+BBSS,PT Bumi Benowo Sukses Sejahtera Tbk,1.68T,350.00,"32,8",Engineering & Construction,Industrials,625.19M,20.68%,-1.04B,-
+HUMI,PT Humpuss Maritim Internasional Tbk,2.26T,124.00,"138,179,100",Marine Shipping,Industrials,2.21T,6.73%,176.58B,214.99B
+JAWA,PT Jaya Agra Wattie Tbk,2.58T,176.00,"22,666,000",Farm Products,Consumer Staples,1.79T,113.21%,24.64B,-75.24B
+KAEF,PT Kimia Farma Tbk,3.28T,590.00,"1,081,100",Medical Distribution,Healthcare,9.08T,-9.36%,-600.17B,294.23B
+NRCA,PT Nusa Raya Cipta Tbk,1.68T,680.00,"3,613,800",Engineering & Construction,Industrials,3.49T,1.90%,153.23B,208.52B
+AALI,PT Astra Agro Lestari Tbk,14.87T,"7,675.00","1,045,200",Farm Products,Consumer Staples,27.65T,29.49%,1.42T,4.36T
+MAIN,PT Malindo Feedmill Tbk,1.84T,825.00,"9,827,500",Packaged Foods,Consumer Staples,12.30T,-1.83%,264.70B,400.99B
+KETR,PT Ketrosden Triasmitra,1.17T,412.00,"12,869,400",Communication Equipment,Technology,809.45B,87.82%,136.26B,197.98B
+RAJA,PT Rukun Raharja Tbk,17.29T,"4,090.00","25,736,200",Utilities - Regulated Gas,Utilities,4.20T,2.06%,367.06B,362.69B
+AMMN,PT Amman Mineral Internasional Tbk,517.75T,"7,150.00","19,133,100",Other Precious Metals & Mining,Materials,11.92T,-78.85%,"-4,318.86B","-46,614.54B"
+CBDK,PT Bangun Kosambi Sukses Tbk,34.86T,"6,150.00","1,882,100",Real Estate Services,Real Estate,2.96T,52.60%,1.54T,1.13T
+PDPP,PT Primadaya Plastisindo Tbk,1.26T,404.00,539,Packaging & Containers,Consumer Discretionary,480.75B,7.87%,32.01B,-113.48B
+SCCO,PT Supreme Cable Manufacturing & Commerce Tbk,1.97T,"2,400.00",47,Electrical Equipment & Parts,Industrials,7.23T,2.01%,308.33B,377.64B
+BISI,PT BISI International Tbk,2.72T,905.00,"589,1",Agricultural Inputs,Materials,1.43T,-22.57%,144.54B,-369.70B
+SMMT,PT Golden Eagle Energy Tbk,5.70T,"1,720.00","425,6",Thermal Coal,Energy,1.45T,89.15%,62.17B,-48.33B
+LINK,PT Link Net Tbk,8.25T,"2,900.00","89,2",Telecom Services,Communication Services,3.03T,82.29%,"-1,594.70B",8.28B
+NETV,PT MDTV Media Technologies Tbk,4.38T,106.00,"4,968,400",Broadcasting,Communication Services,107.19B,-51.70%,-260.31B,-523.16B
+SMAR,PT Sinar Mas Agro Resources and Technology Tbk,14.94T,"5,200.00","48,4",Farm Products,Consumer Staples,88.20T,19.32%,1.84T,2.83T
+BPII,PT Batavia Prosperindo Internasional Tbk,5.44T,550.00,"114,3",Asset Management,Financials,1.10T,20.67%,126.64B,-502.20B
+MTMH,PT Murni Sadar Tbk,2.36T,"1,150.00","3,6",Medical Care Facilities,Healthcare,1.26T,20.22%,51.08B,-125.34B
+MSTI,PT Mastersystem Infotama Tbk,4.41T,"1,410.00","1,760,200",Information Technology Services,Technology,5.17T,-3.95%,528.63B,620.27B
+FORE,PT Fore Kopi Indonesia Tbk,4.55T,510.00,"4,911,500",Restaurants,Consumer Discretionary,1.35T,50.27%,75.98B,65.35B
+PSAT,PT Pancaran Samudera Transport Tbk,2.01T,"1,350.00","267,3",Marine Shipping,Industrials,1.08T,5.56%,116.34B,-149.46B
+UNIQ,PT Ulima Nitra Tbk,1.13T,354.00,"35,196,500",Thermal Coal,Energy,601.23B,-9.92%,54.15B,115.41B
+MDIA,PT Intermedia Capital Tbk,1.29T,33.00,"776,7",Broadcasting,Communication Services,669.87B,1.27%,-718.88B,22.53B
+PIPA,PT. Multi Makmur Lemindo,986.72B,278.00,"68,174,400",Building Products & Equipment,Industrials,33.05B,19.10%,3.67B,5.24B
+IRSX,PT Folago Global Nusantara Tbk,1.04T,188.00,-,Software - Application,Technology,461.33B,-24.46%,-3.42B,-
+SOCI,PT Soechi Lines Tbk,1.50T,212.00,"3,841,700",Marine Shipping,Industrials,2.72T,-0.70%,284.44B,-666.12B
+NEST,PT Esta Indonesia Tbk,1.47T,360.00,"14,093,500",Agricultural - Commodities/Milling,Materials,444.60B,-20.15%,23.27B,-79.96B
+NFCX,PT NFC Indonesia Tbk,1.18T,"1,710.00","128,9",Internet Content & Information,Communication Services,4.26T,-37.87%,-14.79B,-13.55B
+HERO,PT DFI Retail Nusantara Tbk,2.18T,530.00,"245,8",Department Stores,Consumer Discretionary,4.67T,3.81%,-118.89B,-
+GEMS,PT Golden Energy Mines Tbk,52.94T,"9,000.00","142,4",Thermal Coal,Energy,40.30T,-12.13%,5.01T,4.11T
+SILO,PT Siloam International Hospitals Tbk,27.27T,"2,110.00","2,882,500",Medical Care Facilities,Healthcare,12.51T,3.66%,1.03T,563.46B
+IPCM,PT Jasa Armada Indonesia Tbk,1.73T,328.00,"1,200,400",Marine Shipping,Industrials,1.49T,21.58%,186.41B,316.86B
+BTPS,PT Bank BTPN Syariah Tbk,10.55T,"1,380.00","3,025,100",Banks - Regional,Financials,3.92T,20.33%,1.24T,1.63T
+RANC,PT Supra Boga Lestari Tbk,1.39T,890.00,"511,2",Grocery Stores,Consumer Staples,2.89T,3.33%,-58.67B,81.81B
+PRDA,PT Prodia Widyahusada Tbk,2.40T,"2,550.00","43,5",Diagnostics & Research,Healthcare,2.23T,1.17%,190.36B,281.29B
+CBRE,PT Cakra Buana Resources Energi Tbk,5.31T,"1,170.00","80,401,200",Marine Shipping,Industrials,68.76B,52.50%,-52.27B,-7.16B
+ADES,PT Akasha Wira International Tbk,9.05T,"15,500.0","74,1",Beverages - Non-Alcoholic,Consumer Staples,2.47T,39.78%,665.73B,340.20B
+MARK,PT Mark Dynamics Indonesia Tbk,2.60T,685.00,"20,042,000",Medical Instruments & Supplies,Healthcare,806.55B,-5.83%,269.52B,265.04B
+POLI,PT Pollux Hotels Group Tbk,1.53T,760.00,"15,1",Real Estate - Development,Real Estate,689.47B,84.26%,89.59B,-37.84B
+WOOD,PT Integra Indocabinet Tbk,2.79T,442.00,"1,541,700","Furnishings, Fixtures & Appliances",Consumer Discretionary,2.81T,7.22%,168.69B,58.89B
+PNBS,PT Bank Panin Dubai Syariah Tbk,2.02T,52.00,"18,952,500",Banks - Regional,Financials,454.78B,-13.91%,38.50B,917.15B
+STTP,PT Siantar Top Tbk,13.23T,"10,075.0",9,Packaged Foods,Consumer Staples,5.12T,5.69%,1.18T,859.42B
+BEEF,PT Estika Tata Tiara Tbk,4.18T,515.00,"8,724,300",Packaged Foods,Consumer Staples,7.30T,154.26%,162.24B,-47.38B
+WIFI,PT Solusi Sinergi Digital Tbk,17.31T,"3,260.00","91,397,000",Information Technology Services,Technology,876.31B,66.03%,369.24B,"-1,719.44B"
+EMTK,PT Elang Mahkota Teknologi Tbk,74.29T,"1,215.00","89,036,900",Broadcasting,Communication Services,17.28T,54.31%,7.46T,712.65B
+BRPT,PT Barito Pacific Tbk,327.97T,"3,560.00","72,579,300",Chemicals,Materials,104.71T,169.82%,10.21T,"-3,627.92B"
+SRAJ,PT Sejahteraraya Anugrahjaya Tbk,144.01T,"12,000.0","449,7",Medical Care Facilities,Healthcare,3.07T,16.50%,-120.22B,-441.82B
+VKTR,PT VKTR Teknologi Mobilitas Tbk,15.49T,350.00,"70,612,900",Recreational Vehicles,Consumer Discretionary,1.07T,31.60%,-1.81B,-249.06B
+GGRP,PT Gunung Raja Paksi Tbk,2.49T,204.00,"300,1",Steel,Materials,3.84T,-43.09%,-278.06B,131.79B
+MKPI,PT Metropolitan Kentjana Tbk,23.25T,"24,525.0","7,1",Real Estate Services,Real Estate,2.52T,4.83%,1.07T,1.23T
+JIHD,PT Jakarta International Hotels & Development Tbk,1.36T,585.00,"271,9",Lodging,Consumer Discretionary,1.64T,3.63%,110.90B,358.53B
+AISA,PT FKS Food Sejahtera Tbk,1.36T,145.00,"4,927,000",Packaged Foods,Consumer Staples,1.94T,4.47%,93.06B,151.57B
+RMKE,PT RMK Energy Tbk,11.81T,"2,720.00","10,485,500",Thermal Coal,Energy,1.83T,-25.94%,227.44B,-42.76B
+BBKP,PT Bank KB Indonesia Tbk,12.59T,67.00,"78,838,200",Banks - Regional,Financials,775.13B,-,"-3,351.98B","-8,885.02B"
+HEXA,PT Hexindo Adiperkasa Tbk,3.91T,"4,660.00","122,7",Industrial Distribution,Industrials,9.00T,-0.96%,523.66B,711.83B
+DEWA,PT Darma Henwa Tbk,14.48T,356.00,"862,968,300",Thermal Coal,Energy,6.22T,-7.55%,170.10B,"-1,390.32B"
+SSIA,PT Surya Semesta Internusa Tbk,7.26T,"1,555.00","17,167,800",Engineering & Construction,Industrials,5.71T,6.07%,12.28B,"-1,055.10B"
+DMND,PT Diamond Food Indonesia Tbk,5.97T,630.00,"117,8",Packaged Foods,Consumer Staples,10.68T,10.77%,405.93B,130.65B
+SMIL,PT Sarana Mitra Luas Tbk,3.83T,440.00,"73,153,800",Rental & Leasing Services,Industrials,423.51B,13.61%,102.02B,-70.42B
+LSIP,PT Perusahaan Perkebunan London Sumatra Indonesia Tbk,9.58T,"1,405.00","8,112,900",Farm Products,Consumer Staples,5.60T,33.49%,1.92T,2.42T
+IMJS,PT Indomobil Multi Jasa Tbk,1.96T,226.00,"4,799,200",Conglomerates,Industrials,4.69T,2.05%,221.99B,-787.71B
+MCOL,PT Prima Andalan Mandiri Tbk,13.65T,"3,780.00","10,3",Thermal Coal,Energy,10.99T,-20.28%,817.89B,1.62T
+TLDN,PT Teladan Prima Agro Tbk,9.52T,715.00,"1,995,100",Farm Products,Consumer Staples,5.16T,29.22%,1.26T,1.09T
+INDO,PT Royalindo Investa Wijaya Tbk,1.01T,226.00,"4,303,200",Lodging,Consumer Discretionary,29.30B,6.22%,28.15B,-26.98B
+MPRO,PT Maha Properti Indonesia Tbk,69.85T,"7,025.00","121,6",Real Estate - Development,Real Estate,4.80B,-28.46%,-65.91B,-63.15B
+CSRA,PT Cisadane Sawit Raya Tbk,1.72T,815.00,"4,326,000",Farm Products,Consumer Staples,1.64T,71.47%,303.38B,169.67B
+INDR,PT. Indo-Rama Synthetics Tbk,1.96T,"3,000.00","65,2",Textile Manufacturing,Consumer Discretionary,12.96T,-5.74%,-278.02B,454.91B
+CMNT,PT Cemindo Gemilang Tbk,13.36T,780.00,"34,346,900",Building Materials,Materials,8.79T,-4.92%,-726.38B,1.28T
+MBSS,PT Mitrabahtera Segara Sejati Tbk,2.50T,"1,395.00","863,6",Marine Shipping,Industrials,888.69B,1.12%,405.38B,92.36B
+BDMN,PT Bank Danamon Indonesia Tbk,24.82T,"2,530.00","1,094,500",Banks - Regional,Financials,16.58T,4.18%,3.68T,"-11,782.18B"
+SSTM,PT Sunson Textile Manufacturer Tbk,1.02T,875.00,"2,096,500",Textile Manufacturing,Consumer Discretionary,259.63B,27.39%,-23.91B,-213.35M
+BBCA,PT Bank Central Asia Tbk,"1,072.25T","8,700.00","125,731,500",Banks - Regional,Financials,110.46T,5.92%,57.16T,"-28,046.31B"
+PPRO,PT Pembangunan Perumahan Properti Tbk,1.30T,21.00,"5,368,400",Real Estate - Development,Real Estate,401.67B,-55.38%,-406.30B,-490.76B
+YUPI,PT Yupi Indo Jelly Gum Tbk,14.31T,"1,675.00","136,3",Confectioners,Consumer Staples,2.93T,-6.41%,629.55B,540.78B
+IBST,PT Inti Bangun Sejahtera Tbk,6.82T,"5,000.00",500,Telecom Services,Communication Services,853.16B,-7.29%,395.29B,825.57B
+POLU,PT Golden Flower Tbk,18.81T,"25,025.0","39,7",Apparel Manufacturing,Consumer Discretionary,152.75B,12.38%,9.21B,32.16B
+YULE,PT Yulie Sekuritas Indonesia Tbk,4.29T,"2,690.00","61,3",Capital Markets,Financials,84.29B,-0.88%,51.25B,88.82B
+AREA,PT Dunia Virtual Online Tbk,1.41T,540.00,"947,2",Information Technology Services,Technology,63.87B,25.28%,8.73B,5.22B
+MIKA,PT Mitra Keluarga Karyasehat Tbk,36.02T,"2,590.00","7,018,300",Medical Care Facilities,Healthcare,5.24T,10.78%,1.29T,1.03T
+MAPA,PT Map Aktif Adiperkasa Tbk,22.66T,795.00,"151,627,600",Specialty Retail,Consumer Discretionary,18.71T,14.12%,1.41T,1.85T
+BWPT,PT Eagle High Plantations Tbk,4.36T,141.00,"63,085,800",Packaged Foods,Consumer Staples,5.57T,42.07%,352.66B,1.08T
+KRAS,PT Krakatau Steel (Persero) Tbk,6.50T,334.00,"14,337,100",Steel,Materials,16.74T,18.29%,879.45B,308.15B
+PMJS,PT Putra Mandiri Jembar Tbk,1.61T,117.00,"636,3",Auto & Truck Dealerships,Consumer Discretionary,8.98T,-5.17%,95.34B,70.21B
+BLTZ,PT Graha Layar Prima Tbk,2.10T,"2,400.00",300,Entertainment,Communication Services,1.20T,3.70%,-54.04B,125.14B
+ERAL,PT Sinar Eka Selaras Tbk,1.50T,288.00,"4,317,900",Specialty Retail,Consumer Discretionary,5.70T,27.71%,169.12B,-55.59B
+MERK,PT Merck Tbk,1.36T,"3,040.00","43,7",Drug Manufacturers - Specialty & Generic,Healthcare,1.10T,17.39%,178.51B,182.37B
+KONI,PT Perdana Bangun Pusaka Tbk,1.18T,"3,780.00","1,892,900",Specialty Retail,Consumer Discretionary,286.97B,2.50%,16.94B,-
+GOTO,PT GoTo Gojek Tokopedia Tbk,65.62T,62.00,"3,207,484,708",Software - Infrastructure,Technology,17.53T,9.98%,"-1,617.33B",-154.53B
+RSCH,PT Charlie Hospital Semarang Tbk,1.02T,384.00,"5,672,000",Medical Care Facilities,Healthcare,58.84B,23.25%,-18.17B,-101.68B
+ARTA,PT Arthavest Tbk,1.44T,"3,110.00","3,5",Lodging,Consumer Discretionary,92.64B,3.10%,4.77B,9.82B
+DSSA,PT Dian Swastatika Sentosa Tbk,569.41T,"88,200.0","1,749,500",Thermal Coal,Energy,45.78T,-15.75%,3.51T,794.99B
+INRU,PT Toba Pulp Lestari Tbk,993.05B,715.00,"9,4",Paper & Paper Products,Materials,1.55T,-13.76%,-524.53B,-19.13B
+AKRA,PT AKR Corporindo Tbk,25.15T,"1,235.00","36,271,600",Oil & Gas Refining & Marketing,Energy,42.51T,4.40%,2.41T,2.79T
+PGEO,PT Pertamina Geothermal Energy Tbk,53.10T,"1,270.00","32,903,900",Utilities - Renewable,Utilities,7.01T,3.92%,2.18T,2.67T
+PNLF,PT Panin Financial Tbk,7.62T,238.00,"30,811,000",Banks - Regional,Financials,10.70T,8.95%,1.68T,749.01B
+BNBA,PT Bank Bumi Arta Tbk,2.08T,615.00,"117,2",Banks - Regional,Financials,313.05B,-16.59%,19.39B,-276.83B
+BANK,PT Bank Aladin Syariah Tbk,11.76T,845.00,"5,196,200",Banks - Regional,Financials,740.75B,98.93%,133.43B,505.72B
+PNGO,PT PINAGO UTAMA Tbk,2.38T,"3,050.00","53,2",Farm Products,Consumer Staples,2.32T,24.45%,294.67B,264.25B
+ASII,PT Astra International Tbk,255.05T,"6,250.00","43,439,100",Conglomerates,Industrials,328.20T,1.93%,32.67T,27.24T
+BSSR,PT Baramulti Suksessarana Tbk,10.91T,"4,170.00","3,035,800",Thermal Coal,Energy,12.43T,-25.27%,1.37T,1.50T
+WINS,PT Wintermar Offshore Marine Tbk,1.93T,440.00,"1,922,600",Marine Shipping,Industrials,1.32T,-4.27%,200.81B,-173.49B
+MEDC,PT Medco Energi Internasional Tbk,33.08T,"1,340.00","34,003,500",Oil & Gas Exploration & Production,Energy,39.40T,1.97%,3.00T,8.34T
+STRK,PT Lovina Beach Brewery Tbk,1.76T,170.00,"21,252,400",Beverages - Brewers,Consumer Staples,12.93B,-50.24%,-20.39B,-13.80B
+PTPP,PT PP (Persero) Tbk,2.34T,378.00,"3,403,000",Engineering & Construction,Industrials,16.54T,-18.27%,153.92B,333.20B
+PPRE,PT PP Presisi Tbk,1.22T,117.00,"26,603,800",Engineering & Construction,Industrials,3.84T,8.35%,187.63B,571.74B
+HATM,PT Habco Trans Maritima Tbk,2.43T,280.00,"31,454,900",Marine Shipping,Industrials,966.02B,29.26%,138.36B,-606.91B
+DUTI,PT Duta Pertiwi Tbk,7.97T,"4,280.00","1,5",Real Estate - Development,Real Estate,2.92T,-29.79%,340.53B,-119.05B
+SURE,PT Super Energy Tbk,3.98T,"2,660.00",1,Oil & Gas Integrated,Energy,437.11B,29.29%,-112.03B,-234.02B
+TBIG,PT Tower Bersama Infrastructure Tbk,49.71T,"2,200.00","3,349,700",Telecom Services,Communication Services,6.90T,1.30%,1.30T,3.62T
+CAMP,"PT Campina Ice Cream Industry, Tbk.",1.29T,220.00,"1,889,900",Packaged Foods,Consumer Staples,1.17T,4.86%,84.96B,10.00B
+BYAN,PT Bayan Resources Tbk.,602.50T,"18,075.0","38,4",Thermal Coal,Energy,56.87T,3.16%,13.75T,15.51T
+HRTA,PT Hartadinata Abadi Tbk,5.60T,"1,245.00","79,152,200",Luxury Goods,Consumer Discretionary,30.13T,79.18%,716.02B,220.20B
+GZCO,PT Gozco Plantations Tbk,1.63T,272.00,"47,666,500",Farm Products,Consumer Staples,969.51B,55.67%,94.49B,383.54B
+SINI,PT Singaraja Putra Tbk,2.84T,"5,900.00","94,7",Lumber & Wood Production,Materials,405.22B,4.00%,-50.04B,-121.21B
+PWON,PT Pakuwon Jati Tbk,17.92T,372.00,"26,875,500",Real Estate - Diversified,Real Estate,7.00T,9.12%,2.14T,3.01T
+ANTM,PT Aneka Tambang Tbk,71.61T,"2,980.00","115,174,300",Gold,Materials,98.02T,83.73%,7.42T,6.98T
+TINS,PT TIMAH Tbk,21.75T,"2,920.00","230,432,900",Other Industrial Metals & Mining,Materials,9.21T,-10.32%,880.29B,-22.74B
+PORT,PT Nusantara Pelabuhan Handal Tbk,3.43T,"1,220.00",15,Marine Shipping,Industrials,1.28T,12.52%,135.70B,239.34B
+CYBR,PT ITSEC Asia Tbk,8.86T,"1,340.00","16,741,500",Software - Infrastructure,Technology,455.22B,91.44%,54.30B,-13.58B
+RELI,PT Reliance Sekuritas Indonesia Tbk,1.19T,655.00,31,Capital Markets,Financials,43.29B,-23.79%,3.75B,-84.36B
+DRMA,PT Dharma Polimetal Tbk,4.94T,"1,035.00","831,3",Auto Parts,Consumer Discretionary,5.88T,10.53%,587.09B,470.54B
+BBRI,PT Bank Rakyat Indonesia (Persero) Tbk,597.84T,"3,980.00","139,859,100",Banks - Regional,Financials,136.12T,0.55%,55.87T,2.05T
+MEGA,PT Bank Mega Tbk,38.63T,"3,290.00","24,3",Banks - Regional,Financials,6.58T,-3.48%,2.83T,"-23,910.15B"
+LTLS,PT Lautan Luas Tbk,1.27T,870.00,"95,9",Specialty Chemicals,Materials,8.41T,9.82%,157.49B,-100.63B
+DOOH,PT Era Media Sejahtera Tbk,1.05T,136.00,"142,474,200",Advertising Agencies,Communication Services,167.11B,5.13%,2.67B,-40.26B
+JPFA,PT Japfa Comfeed Indonesia Tbk,28.37T,"2,440.00","37,384,200",Farm Products,Consumer Staples,57.63T,5.37%,3.33T,3.29T
+CPIN,PT Charoen Pokphand Indonesia Tbk,77.56T,"4,810.00","7,050,100",Farm Products,Consumer Staples,68.36T,6.48%,4.69T,4.61T
+OMRE,PT Indonesia Prima Property Tbk,1.39T,472.00,100,Real Estate Services,Real Estate,31.89B,-22.47%,-142.48B,-
+UNVR,PT Unilever Indonesia Tbk,102.17T,"2,690.00","41,343,200",Household & Personal Products,Consumer Staples,35.33T,-0.53%,3.69T,3.53T
+FISH,PT FKS Multi Agro Tbk,8.64T,"1,800.00","66,7",Farm Products,Consumer Staples,19.68T,-13.99%,188.14B,352.71B
+ASGR,PT Astra Graphia Tbk,1.61T,"1,195.00","462,1",Specialty Business Services,Industrials,3.04T,3.71%,235.36B,474.16B
+CMNP,PT Citra Marga Nusaphala Persada Tbk,8.55T,"1,385.00","502,5",Infrastructure Operations,Industrials,4.79T,-33.46%,872.33B,512.31B
+PBID,PT Panca Budi Idaman Tbk,3.71T,492.00,"270,9",Packaging & Containers,Consumer Discretionary,5.25T,3.16%,401.23B,416.20B
+TRUE,PT Triniti Dinamik Tbk,946.36B,125.00,"58,889,400",Real Estate - Development,Real Estate,52.64B,-48.97%,-59.46B,-3.12B
+DOID,PT Buma Internasional Grup Tbk,2.43T,326.00,"6,131,000",Thermal Coal,Energy,26.48T,-10.90%,"-1,768.66B",-171.96B
+TSPC,PT Tempo Scan Pacific Tbk,13.35T,"2,960.00","1,221,200",Drug Manufacturers - Specialty & Generic,Healthcare,13.64T,1.00%,1.50T,1.20T
+SGER,PT Sumber Global Energy Tbk,8.34T,500.00,"42,516,500",Thermal Coal,Energy,9.09T,-33.53%,279.55B,-955.34B
+ARGO,PT Argo Pantes Tbk,3.24T,"1,050.00",15,Textile Manufacturing,Consumer Discretionary,108.52B,8.35%,-15.42B,54.19B
+ULTJ,PT Ultrajaya Milk Industry & Trading Company Tbk,16.22T,"1,550.00","6,405,500",Beverages - Non-Alcoholic,Consumer Staples,8.53T,-2.72%,1.22T,149.03B
+ROTI,PT Nippon Indosari Corpindo Tbk,4.47T,795.00,"107,8",Packaged Foods,Consumer Staples,3.70T,-6.52%,250.48B,317.57B
+CENT,PT Centratama Telekomunikasi Indonesia Tbk,4.18T,134.00,"6,114,900",Telecom Services,Communication Services,2.52T,1.68%,"-2,461.11B",1.31T
+UNIC,PT Unggul Indah Cahaya Tbk,3.56T,"9,300.00","112,8",Chemicals,Materials,6.58T,19.86%,462.74B,1.07T
+SMBR,PT Semen Baturaja (Persero) Tbk,2.84T,288.00,"6,058,300",Building Materials,Materials,2.47T,23.30%,239.95B,246.53B
+ACST,PT Acset Indonusa Tbk,2.32T,131.00,"3,067,800",Engineering & Construction,Industrials,2.88T,0.04%,-365.64B,"-1,665.75B"
+BSIM,PT Bank Sinarmas Tbk,17.35T,880.00,"32,9",Banks - Regional,Financials,3.02T,11.60%,312.60B,1.39T
+HRUM,PT Harum Energy Tbk,14.20T,"1,030.00","58,701,600",Thermal Coal,Energy,22.52T,7.65%,357.85B,"-10,353.17B"
+CASS,PT Cahaya Aero Services Tbk.,5.91T,"2,830.00","31,8",Airports & Air Services,Industrials,3.09T,17.67%,472.84B,788.15B
+ATIC,PT Anabatic Technologies Tbk,1.81T,820.00,"17,194,700",Information Technology Services,Technology,9.09T,-25.00%,234.84B,348.21B
+INDF,PT Indofood Sukses Makmur Tbk,62.56T,"7,125.00","10,041,400",Packaged Foods,Consumer Staples,119.82T,4.41%,7.76T,11.52T
+SHID,PT Hotel Sahid Jaya International Tbk,973.81B,870.00,"10,1",Lodging,Consumer Discretionary,124.18B,-18.48%,-51.64B,-88.89B
+MTEL,PT Dayamitra Telekomunikasi Tbk.,45.25T,560.00,"3,364,900",Telecom Services,Communication Services,9.30T,-0.07%,2.12T,4.06T
+AMAR,PT Bank Amar Indonesia Tbk,4.07T,226.00,"423,8",Banks - Regional,Financials,904.75B,16.02%,237.37B,-668.78B
+BMAS,PT Bank Maspion Indonesia Tbk,12.04T,670.00,"7,9",Banks - Regional,Financials,405.91B,-33.11%,-270.77B,1.11T
+AUTO,PT Astra Otoparts Tbk,12.34T,"2,560.00","6,893,100",Auto Parts,Consumer Discretionary,19.71T,5.25%,2.07T,1.05T
+MAYA,PT Bank Mayapada Internasional Tbk,2.75T,234.00,"4,528,800",Banks - Regional,Financials,2.78T,28.76%,17.60B,"-6,069.58B"
+BSBK,PT Wulandari Bangun Laksana Tbk,1.73T,70.00,"31,068,400",Real Estate - Development,Real Estate,375.69B,-0.02%,341.60B,-287.71M
+BHIT,PT MNC Asia Holding Tbk,2.67T,33.00,"14,595,800",Entertainment,Communication Services,14.86T,-1.44%,175.27B,1.96T
+BREN,PT Barito Renewables Energy Tbk,"1,304.36T","9,750.00","53,216,800",Utilities - Renewable,Utilities,10.23T,3.72%,2.38T,1.41T
+TFCO,PT Tifico Fiber Indonesia Tbk,2.41T,500.00,200,Textile Manufacturing,Consumer Discretionary,3.21T,4.37%,91.90B,278.69B
+MYOR,PT Mayora Indah Tbk,47.25T,"2,120.00","22,832,100",Packaged Foods,Consumer Staples,37.59T,9.82%,2.83T,1.22T
+BJTM,PT Bank Pembangunan Daerah Jawa Timur Tbk,8.26T,550.00,"9,054,100",Banks - Regional,Financials,6.07T,16.46%,1.41T,"-4,241.70B"
+GJTL,PT. Gajah Tunggal Tbk,3.64T,"1,045.00","4,587,100",Auto Parts,Consumer Discretionary,17.71T,-0.73%,988.06B,-852.86B
+LPCK,PT Lippo Cikarang Tbk,3.11T,605.00,"141,7",Real Estate - Development,Real Estate,4.30T,256.49%,256.67B,-773.44B
+PACK,PT Abadi Nusantara Hijau Investama Tbk,4.23T,"2,660.00","1,335,700",Packaging & Containers,Consumer Discretionary,45.70B,-19.26%,2.20B,-14.33B
+PNBN,PT Bank Pan Indonesia Tbk,24.67T,"1,030.00","3,644,600",Banks - Regional,Financials,9.45T,11.82%,2.84T,820.69B
+BMRI,PT Bank Mandiri (Persero) Tbk,445.20T,"4,770.00","102,878,900",Banks - Regional,Financials,140.00T,4.71%,51.50T,"-123,987.69B"
+CUAN,PT Petrindo Jaya Kreasi Tbk,233.82T,"2,080.00","65,119,400",Thermal Coal,Energy,17.56T,85.46%,2.45T,"-9,295.65B"
+TUGU,PT Asuransi Tugu Pratama Indonesia Tbk,3.66T,"1,025.00","1,947,400",Insurance - Diversified,Financials,3.41T,19.31%,569.35B,97.07B
+BNII,PT Bank Maybank Indonesia Tbk,15.55T,204.00,"744,2",Banks - Regional,Financials,8.70T,12.47%,1.55T,-621.02B
+BCIC,PT Bank JTrust Indonesia Tbk,2.55T,141.00,"252,9",Banks - Regional,Financials,1.13T,1.06%,-94.65B,-408.63B
+BUAH,PT Segar Kumala Indonesia Tbk,1.42T,700.00,"1,492,900",Food Distribution,Consumer Staples,3.03T,50.75%,60.77B,59.16B
+PALM,PT Provident Investasi Bersama Tbk,6.20T,388.00,"1,341,400",Asset Management,Financials,200.84B,-,-304.02B,1.47T
+JSPT,PT Jakarta Setiabudi Internasional Tbk,7.93T,"3,420.00","12,1",Real Estate Services,Real Estate,2.48T,11.84%,255.98B,731.27B
+BIPI,PT Astrindo Nusantara Infrastruktur Tbk,5.10T,80.00,"277,597,900",Infrastructure Operations,Industrials,5.67T,-41.00%,-41.01B,"-2,000.09B"
+LPKR,PT Lippo Karawaci Tbk,6.17T,87.00,"39,414,000",Medical Care Facilities,Healthcare,8.56T,-37.22%,395.84B,-758.53B
+MDLA,PT Medela Potentia Tbk,3.28T,234.00,"2,220,000",Medical Distribution,Healthcare,14.87T,27.18%,380.49B,320.35B
+TRST,PT Trias Sentosa Tbk,1.34T,478.00,"7,9",Packaging & Containers,Consumer Discretionary,3.60T,4.31%,38.83B,-24.62B
+CFIN,PT. Clipan Finance Indonesia Tbk,1.27T,318.00,"2,469,700",Credit Services,Financials,567.01B,-29.23%,189.80B,668.94B
+ERAA,PT Erajaya Swasembada Tbk,6.63T,420.00,"17,209,600",Specialty Retail,Consumer Discretionary,69.04T,4.71%,1.03T,1.48T
+ADMR,PT Alamtri Minerals Indonesia Tbk,56.01T,"1,375.00","41,985,300",Coking Coal,Materials,16.50T,-18.07%,5.14T,"-5,827.14B"
+BBLD,PT Buana Finance Tbk,1.50T,905.00,6,Credit Services,Financials,794.31B,79.14%,43.33B,-784.35B
+VOKS,PT Voksel Electric Tbk,1.14T,274.00,"337,1",Electrical Equipment & Parts,Industrials,1.98T,-18.49%,-110.38B,99.15B
+MPMX,PT Mitra Pinasthika Mustika Tbk,4.20T,960.00,"1,589,900",Auto & Truck Dealerships,Consumer Discretionary,15.41T,1.41%,548.37B,128.59B
+IPTV,PT MNC Vision Networks Tbk,1.69T,40.00,"2,657,800",Entertainment,Communication Services,1.63T,4.55%,-187.73B,367.59B
+DMMX,PT Digital Mediatama Maxima Tbk,2.73T,376.00,"1,114,100",Advertising Agencies,Communication Services,755.61B,-42.84%,23.65B,26.01B
+WIRG,PT WIR ASIA Tbk,1.23T,105.00,"179,526,400",Information Technology Services,Technology,2.61T,3.86%,78.78B,33.76B
+TOTL,PT Total Bangun Persada Tbk,3.10T,905.00,"1,153,600",Engineering & Construction,Industrials,3.65T,15.25%,380.34B,578.45B
+BEST,PT Bekasi Fajar Industrial Estate Tbk,1.04T,108.00,"4,074,400",Real Estate Services,Real Estate,389.35B,-12.99%,7.66B,77.96B
+ISAT,PT Indosat Ooredoo Hutchison Tbk,62.73T,"1,945.00","8,165,900",Telecom Services,Communication Services,55.24T,-0.62%,4.62T,5.81T
+CDIA,PT Chandra Daya Investasi TBK.,200.54T,"1,805.00","78,146,500",Electric Services,-,2.22T,61.21%,1.45T,"-2,525.26B"
+BUKA,PT Bukalapak.com Tbk.,15.50T,164.00,"134,925,500",Internet Retail,Consumer Discretionary,5.79T,28.64%,1.96T,266.04B
+CTBN,PT Citra Tubindo Tbk,4.18T,"5,225.00",400,Oil & Gas Equipment & Services,Energy,5.07T,33.25%,485.36B,619.17B
+SFAN,PT Surya Fajar Capital Tbk,2.60T,"1,920.00","88,7",Asset Management,Financials,7.58B,60.83%,-19.07B,-30.08B
+RATU,PT Raharja Energi Cepu Tbk,21.99T,"8,125.00","14,727,200",Oil & Gas Exploration & Production,Energy,891.78B,-13.47%,229.27B,315.33B
+COIN,PT Indokripto Koin Semesta Tbk,36.91T,"3,130.00","296,214,000",Financial Data & Stock Exchanges,Financials,296.12B,"822,449.37%",91.65B,65.05B
+JTPE,PT Jasuindo Tiga Perkasa Tbk,2.54T,370.00,"1,000,800",Specialty Business Services,Industrials,2.25T,20.69%,271.37B,538.61B
+PTBA,PT Bukit Asam Tbk,27.40T,"2,380.00","10,530,900",Thermal Coal,Energy,43.57T,10.95%,3.90T,2.40T
+BBNI,PT Bank Negara Indonesia (Persero) Tbk,165.79T,"4,460.00","43,447,700",Banks - Regional,Financials,50.08T,1.35%,20.27T,"-79,206.14B"
+PTRO,PT Petrosea Tbk,76.65T,"7,600.00","76,693,400",Other Industrial Metals & Mining,Materials,13.10T,17.35%,229.80B,"-7,088.67B"
+SMGR,PT Semen Indonesia (Persero) Tbk,18.66T,"2,800.00","3,999,100",Building Materials,Materials,35.38T,-6.96%,258.26B,3.20T
+OASA,PT Maharaksa Biru Energi Tbk,1.32T,206.00,"23,383,600",Utilities - Renewable,Utilities,46.83B,-27.31%,-76.82B,-86.19B
+WIKA,PT Wijaya Karya (Persero) Tbk,8.13T,204.00,"19,976,800",Engineering & Construction,Industrials,15.79T,-15.59%,"-6,220.01B",-827.41B
+LPGI,PT Lippo General Insurance Tbk,2.30T,765.00,"14,5",Insurance - Diversified,Financials,3.26T,15.53%,137.80B,335.12B
+IFII,PT Indonesia Fibreboard Industry Tbk,2.15T,226.00,"113,1",Lumber & Wood Production,Materials,1.35T,11.37%,214.41B,297.91B
+FASW,PT Fajar Surya Wisesa Tbk,13.50T,"5,450.00",100,Packaging & Containers,Consumer Discretionary,7.94T,3.57%,"-1,030.58B","-1,209.58B"
+FPNI,PT Lotte Chemical Titan Tbk,1.78T,354.00,"168,833,300",Specialty Chemicals,Materials,5.35T,-12.77%,3.05B,344.65B
+DVLA,PT Darya-Varia Laboratoria Tbk,1.85T,"1,650.00","25,2",Drug Manufacturers - Specialty & Generic,Healthcare,2.12T,-0.51%,173.09B,82.66B
+SDRA,PT Bank Woori Saudara Indonesia 1906 Tbk,4.14T,292.00,"390,4",Banks - Regional,Financials,1.47T,-17.71%,76.89B,2.34T
+BIRD,PT Blue Bird Tbk,4.50T,"1,800.00","4,591,900",Railroads,Industrials,5.50T,13.15%,631.49B,-797.03B
+GOOD,PT Garudafood Putra Putri Jaya Tbk,13.42T,366.00,"178,4",Packaged Foods,Consumer Staples,12.77T,9.97%,603.76B,519.09B
+MAPB,PT Map Boga Adiperkasa Tbk,3.86T,"1,630.00","17,8",Restaurants,Consumer Discretionary,3.16T,-5.61%,-175.71B,299.31B
+ESSA,PT ESSA Industries Indonesia Tbk.,10.59T,620.00,"12,738,800",Chemicals,Materials,4.53T,-20.68%,549.46B,1.31T
+UCID,PT Uni-Charm Indonesia Tbk,1.85T,442.00,"1,021,500",Household & Personal Products,Consumer Staples,8.90T,-7.79%,20.66B,-229.62B
+SGRO,PT Sampoerna Agro Tbk,9.18T,"5,050.00",856,Farm Products,Consumer Staples,6.72T,25.79%,1.13T,1.17T
+FOLK,PT Multi Garam Utama Tbk,1.17T,284.00,"7,462,100",Internet Retail,Consumer Discretionary,19.88B,-15.20%,-15.55B,-1.88B
+FUTR,PT Lini Imaji Kreasi Ekosistem Tbk,4.94T,745.00,"155,248,900",Utilities - Renewable,Utilities,64.49B,-35.58%,7.76B,21.58B
+SCMA,PT Surya Citra Media Tbk,23.10T,360.00,"52,574,200",Broadcasting,Communication Services,6.96T,1.38%,677.08B,644.24B
+CBUT,PT Citra Borneo Utama Tbk,4.13T,"1,310.00","14,7",Packaged Foods,Consumer Staples,13.28T,33.18%,99.89B,-804.97B
+PANS,PT Panin Sekuritas Tbk,1.03T,"1,450.00",90,Capital Markets,Financials,356.79B,1.57%,96.67B,109.33B
+ADHI,PT Adhi Karya (Persero) Tbk,2.25T,266.00,"8,215,400",Engineering & Construction,Industrials,9.84T,-44.65%,187.60B,877.43B
+GMTD,PT Gowa Makassar Tourism Development Tbk,2.26T,"2,210.00",300,Real Estate - Development,Real Estate,272.07B,-45.71%,23.91B,119.52B
+PSSI,PT IMC Pelita Logistik Tbk,1.83T,344.00,"192,8",Marine Shipping,Industrials,1.06T,-25.86%,27.74B,126.35B
+FUJI,PT Fuji Finance Indonesia Tbk,936.00B,700.00,"1,152,300",Credit Services,Financials,18.93B,107.96%,12.70B,21.26B
+ENAK,PT Champ Resto Indonesia Tbk,1.46T,680.00,"2,035,400",Restaurants,Consumer Discretionary,1.46T,-6.42%,-38.93B,-24.53B
+BUKK,PT Bukaka Teknik Utama Tbk.,2.61T,990.00,"197,5",Engineering & Construction,Industrials,2.94T,-21.91%,560.58B,-37.14B
+BBHI,PT Allo Bank Indonesia Tbk,32.05T,"1,475.00","833,7",Banks - Regional,Financials,1.50T,23.17%,544.40B,"-3,289.77B"
+MINA,PT Sanurhasta Mitra Tbk,1.74T,176.00,"39,829,700",Lodging,Consumer Discretionary,10.14B,24.88%,-7.06B,-2.37B
+TKIM,PT Pabrik Kertas Tjiwi Kimia Tbk,21.79T,"7,025.00","718,1",Paper & Paper Products,Materials,16.10T,-5.47%,6.81T,1.85T
+MFMI,PT Multifiling Mitra Indonesia Tbk,984.86B,"1,300.00","3,7",Specialty Business Services,Industrials,177.32B,-0.62%,15.82B,-399.32B
+MSJA,PT Multi Spunindo Jaya Tbk,1.72T,292.00,"6,273,900",Textile Manufacturing,Consumer Discretionary,1.10T,-2.91%,81.43B,38.06B
+BOLA,PT Bali Bintang Sejahtera Tbk,1.08T,179.00,"152,2",Entertainment,Communication Services,363.15B,10.77%,30.15B,-56.12B
+TEBE,PT Dana Brata Luhur Tbk,2.87T,"2,280.00","8,746,700",Infrastructure Operations,Industrials,497.75B,-11.99%,127.73B,183.73B
+MORA,PT Mora Telematika Indonesia Tbk,46.47T,"1,965.00","909,7",Telecom Services,Communication Services,3.79T,-4.10%,278.82B,556.31B
+MMLP,PT Mega Manunggal Property Tbk,3.86T,560.00,"4,223,700",Real Estate Services,Real Estate,373.88B,-0.30%,244.65B,118.50B
+AMOR,PT Ashmore Asset Management Indonesia Tbk,923.44B,420.00,"652,8",Asset Management,Financials,266.67B,-17.77%,72.39B,66.22B
+SKLT,PT Sekar Laut Tbk,1.35T,216.00,"555,9",Packaged Foods,Consumer Staples,2.57T,23.37%,132.79B,-50.86B
+NSSS,PT Nusantara Sawit Sejahtera Tbk,11.85T,498.00,"3,451,500",Farm Products,Consumer Staples,2.03T,62.47%,723.36B,709.35B
+TOWR,PT Sarana Menara Nusantara Tbk.,31.43T,540.00,"9,186,400",Telecom Services,Communication Services,12.97T,4.04%,3.44T,6.68T
+CARE,PT Metro Healthcare Indonesia Tbk,10.84T,326.00,"24,643,200",Medical Care Facilities,Healthcare,315.90B,2.33%,-8.60B,-196.72B
+MLPT,PT Multipolar Technology Tbk,148.88T,"79,775.0","6,6",Information Technology Services,Technology,3.98T,16.49%,315.34B,237.26B
+TGKA,PT Tigaraksa Satria Tbk,4.87T,"5,300.00","1,7",Food Distribution,Consumer Staples,12.81T,-4.75%,385.14B,416.40B
+BVIC,PT Bank Victoria International Tbk,1.84T,102.00,"4,385,000",Banks - Regional,Financials,788.36B,22.01%,165.06B,"-1,303.44B"
+RISE,PT Jaya Sukses Makmur Sentosa Tbk,91.39T,"8,000.00","1,904,400",Real Estate - Development,Real Estate,438.59B,54.73%,61.80B,14.12B
+WIIM,PT Wismilak Inti Makmur Tbk,3.16T,"1,530.00","33,392,800",Tobacco,Consumer Staples,3.34T,25.09%,376.14B,116.73B
+BUMI,PT Bumi Resources Tbk,51.99T,142.00,"835,782,800",Thermal Coal,Energy,23.40T,3.76%,48.23B,-451.78B
+ADMF,PT Adira Dinamika Multi Finance Tbk,10.97T,"8,850.00","48,1",Credit Services,Financials,7.09T,-6.54%,1.23T,1.64T
+MAPI,PT. Mitra Adiperkasa Tbk,23.41T,"1,410.00","68,055,700",Department Stores,Consumer Discretionary,40.26T,10.32%,1.84T,3.26T
+KIJA,PT Kawasan Industri Jababeka Tbk,3.95T,192.00,"9,293,100",Real Estate - Development,Real Estate,4.91T,11.93%,152.01B,1.93T
+BUDI,PT Budi Starch & Sweetener Tbk,1.01T,224.00,"1,046,700",Packaged Foods,Consumer Staples,3.20T,-14.24%,88.64B,-621.67B
+GOLF,PT Intra Golflink Resorts Tbk,3.90T,199.00,"247,6",Leisure,Consumer Discretionary,208.15B,18.72%,71.06B,-153.30B
+MMIX,PT Multi Medika Internasional Tbk,1.22T,254.00,"8,020,000","Drugs, Drug Proprietaries, and Druggists' Sundries",-,236.80B,84.29%,21.89B,9.44B
+NIKL,PT Pelat Timah Nusantara Tbk,963.92B,382.00,"20,459,100",Manufacturing - Metal Fabrication,Industrials,2.26T,-15.04%,21.47B,444.27B
+BABY,PT Multitrend Indo Tbk,1.26T,408.00,"39,394,700",Apparel Retail,Consumer Discretionary,1.07T,2.00%,-42.34B,138.18B
+UDNG,PT Agro Bahari Nusantara Tbk,6.09T,"3,820.00","880,2",Farm Products,Consumer Staples,14.65B,158.37%,-588.37M,-4.07B
+SHIP,PT Sillo Maritime Perdana Tbk,14.62T,"5,350.00","21,8",Oil & Gas Equipment & Services,Energy,3.00T,3.37%,333.86B,794.82B
+MGRO,PT Mahkota Group Tbk,2.69T,770.00,"6,048,500",Packaged Foods,Consumer Staples,6.42T,45.14%,19.03B,-198.94B
+ARCI,PT Archi Indonesia Tbk,28.81T,"1,150.00","136,878,900",Gold,Materials,6.69T,37.04%,1.42T,401.70B
+BJBR,PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk,8.47T,805.00,"3,042,800",Banks - Regional,Financials,8.38T,5.11%,997.16B,"-6,745.41B"
+DGWG,PT Delta Giri Wacana Tbk,2.44T,414.00,"4,376,400",Agricultural Inputs,Materials,3.61T,14.94%,188.83B,-277.35B
+CARS,PT Industri dan Perdagangan Bintraco Dharma Tbk,1.92T,128.00,"12,144,600",Auto & Truck Dealerships,Consumer Discretionary,5.09T,-20.93%,208.59B,88.33B
+INTP,PT Indocement Tunggal Prakarsa Tbk,20.85T,"6,225.00","1,284,200",Building Materials,Materials,18.14T,-1.08%,2.02T,2.82T
+BRIS,PT Bank Syariah Indonesia Tbk,115.32T,"2,500.00","27,036,100",Banks - Regional,Financials,23.21T,17.45%,7.47T,7.44T
+CPRO,PT Central Proteina Prima Tbk,3.63T,61.00,"65,927,800",Farm Products,Consumer Staples,9.73T,6.34%,404.22B,356.81B
+MTDL,PT Metrodata Electronics Tbk,7.37T,600.00,"3,260,700",Electronics & Computer Distribution,Technology,26.71T,10.27%,754.01B,-198.20B
+RDTX,PT Roda Vivatex Tbk,3.25T,"12,400.0","1,3",Real Estate Services,Real Estate,558.95B,5.52%,350.05B,240.17B
+CITY,PT Natura City Developments Tbk,929.69B,172.00,"4,404,900",Real Estate - Development,Real Estate,140.20B,-0.20%,16.66B,-59.96B
+NCKL,PT Trimegah Bangun Persada Tbk,71.30T,"1,130.00","159,802,400",Other Industrial Metals & Mining,Materials,28.99T,6.95%,7.99T,6.46T
+MTLA,PT Metropolitan Land Tbk,3.29T,430.00,"6,5",Real Estate Services,Real Estate,1.85T,7.00%,387.87B,62.39B
+TOBA,PT TBS Energi Utama Tbk,6.73T,815.00,"70,675,600",Thermal Coal,Energy,6.63T,-15.05%,"-2,232.34B",-608.96B
+HILL,PT Hillcon Tbk,2.37T,160.00,"1,586,500",Other Industrial Metals & Mining,Materials,4.01T,3.09%,-110.61B,-495.48B
+PRAY,PT Famon Awal Bros Sedaya Tbk,11.45T,820.00,"86,5",Medical Care Facilities,Healthcare,2.30T,12.81%,147.92B,-662.36B
+SAMF,"PT Saraswanti Anugerah Makmur, Tbk",3.22T,310.00,"161,8",Agricultural Inputs,Materials,4.06T,-5.65%,265.99B,540.51B
+BSDE,PT Bumi Serpong Damai Tbk,19.97T,955.00,"8,333,200",Real Estate - Development,Real Estate,12.49T,-12.63%,3.02T,"-1,467.60B"
+PGAS,PT Perusahaan Gas Negara Tbk,41.33T,"1,705.00","36,438,900",Utilities - Regulated Gas,Utilities,65.01T,3.25%,5.24T,7.85T
+GDST,PT Gunawan Dianjaya Steel Tbk,1.08T,117.00,"1,159,300",Steel,Materials,2.32T,-13.37%,102.04B,-229.04B
+CLEO,PT Sariguna Primatirta Tbk,12.36T,520.00,"4,251,200",Beverages - Non-Alcoholic,Consumer Staples,2.77T,14.75%,442.85B,69.65B
+GHON,PT Gihon Telekomunikasi Indonesia Tbk,935.00B,"1,715.00","11,2",Telecom Services,Communication Services,210.40B,-1.53%,85.46B,63.51B
+TAMU,PT Pelayaran Tamarin Samudra Tbk,1.13T,33.00,"16,065,200",Marine Shipping,Industrials,-145.09B,-54.71%,-227.15B,-183.89B
+CITA,PT Cita Mineral Investindo Tbk,19.01T,"4,720.00","155,1",Other Industrial Metals & Mining,Materials,2.60T,3.58%,2.97T,300.98B
+PANI,PT Pantai Indah Kapuk Dua Tbk,241.44T,"14,300.0","3,521,900",Real Estate - Development,Real Estate,3.84T,52.26%,928.61B,570.92B
+SMDM,PT Suryamas Dutamakmur Tbk,3.96T,815.00,"164,3",Real Estate - Development,Real Estate,348.88B,-50.09%,17.21B,-138.95B
+TCPI,PT Transcoal Pacific Tbk,41.38T,"8,350.00","6,477,600",Marine Shipping,Industrials,1.93T,3.14%,190.55B,236.94B
+BHAT,PT Bhakti Multi Artha Tbk,4.95T,990.00,"1,460,600",Insurance - Life,Financials,171.78B,-53.27%,-349.52M,-23.95B
+INCO,PT Vale Indonesia Tbk,49.12T,"4,660.00","9,263,100",Other Industrial Metals & Mining,Materials,15.81T,-5.56%,986.44B,"-3,787.04B"
+NICE,PT Adhi Kartiko Pratama Tbk,2.51T,412.00,"2,803,200",Other Industrial Metals & Mining,Materials,1.00T,26.49%,137.23B,-130.27B
+BNBR,PT Bakrie & Brothers Tbk,6.94T,39.00,"11,379,200",Conglomerates,Industrials,3.86T,7.54%,243.63B,144.50B
+GMFI,PT Garuda Maintenance Facility Aero Asia Tbk,3.23T,86.00,"7,768,700",Aerospace & Defense,Industrials,6.23T,-9.24%,362.78B,319.79B
+BCAP,PT MNC Kapital Indonesia Tbk,2.34T,55.00,"9,977,500",Financial Conglomerates,Financials,2.49T,25.20%,133.26B,2.45T
+BLOG,PT Trimitra Trans Persada Tbk,1.69T,500.00,905,Integrated Freight & Logistics,Industrials,1.25T,29.16%,132.73B,-109.01B
+ADCP,PT Adhi Commuter Properti Tbk,1.18T,54.00,"17,247,100",Real Estate - Development,Real Estate,185.63B,-62.17%,7.70B,-
+MLIA,PT Mulia Industrindo Tbk,2.28T,340.00,"1,647,100",Construction,Industrials,4.15T,-9.08%,68.45B,-205.73B
+APIC,PT Pacific Strategic Financial Tbk,13.30T,"1,130.00","5,339,900",Insurance - Life,Financials,2.10T,16.50%,96.55B,-406.39B
+IMPC,PT Impack Pratama Industri Tbk,141.10T,"2,600.00","45,775,000",Building Products & Equipment,Industrials,3.98T,-1.27%,562.27B,551.77B
+POWR,PT Cikarang Listrindo Tbk,11.08T,700.00,"7,686,700",Utilities - Independent Power Producers,Utilities,9.18T,0.49%,1.00T,1.47T
+TMAS,PT Temas Tbk.,7.39T,130.00,"1,238,700",Marine Shipping,Industrials,4.31T,0.08%,634.12B,-704.53B
+MNCN,PT. Media Nusantara Citra Tbk,3.49T,264.00,"23,585,500",Advertising Agencies,Communication Services,7.90T,2.53%,909.04B,342.87B
+KEJU,PT Mulia Boga Raya Tbk,4.19T,745.00,"864,4",Packaged Foods,Consumer Staples,1.41T,15.29%,181.23B,146.31B
+JARR,PT Jhonlin Agro Raya Tbk,34.25T,"3,700.00","13,085,200",Farm Products,Consumer Staples,4.32T,8.49%,329.38B,247.86B
+APLN,PT Agung Podomoro Land Tbk,2.22T,97.00,"6,990,200",Real Estate - Development,Real Estate,5.38T,14.61%,552.81B,1.20T
+SIPD,PT Sreeya Sewu Indonesia Tbk,1.31T,710.00,100,Farm Products,Consumer Staples,5.29T,-3.94%,22.01B,-62.35B
+CSAP,PT Catur Sentosa Adiprana Tbk,1.86T,324.00,"1,075,300",Industrial Distribution,Industrials,17.42T,2.04%,121.00B,478.69B
+MCOR,PT Bank China Construction Bank Indonesia Tbk,2.81T,74.00,"1,392,900",Banks - Regional,Financials,959.34B,7.35%,305.29B,"-1,333.18B"
+NISP,PT Bank OCBC NISP Tbk,31.55T,"1,375.00","1,733,900",Banks - Regional,Financials,12.89T,7.24%,4.87T,"-27,458.69B"
+PSKT,PT Red Planet Indonesia Tbk,1.38T,128.00,"4,299,800",Lodging,Consumer Discretionary,53.47B,-0.43%,-9.42B,3.01B
+AMRT,PT Sumber Alfaria Trijaya Tbk,78.90T,"1,935.00","50,367,700",Grocery Stores,Consumer Staples,124.49T,8.12%,3.06T,4.60T
+EURO,PT Estee Gold Feet Tbk,912.48B,358.00,"74,5",Household & Personal Products,Consumer Staples,23.20B,-13.92%,1.52B,10.01B
+SMMA,PT Sinar Mas Multiartha Tbk,82.94T,"13,025.0","29,4",Insurance - Diversified,Financials,28.02T,6.06%,3.00T,4.22T
+MBAP,PT Mitrabara Adiperdana Tbk,1.96T,"1,600.00","206,4",Thermal Coal,Energy,2.83T,-23.56%,57.06B,-736.79B
+GWSA,PT Greenwood Sejahtera Tbk,1.13T,145.00,"313,3",Real Estate - Development,Real Estate,67.07B,-15.90%,71.04B,-110.40B
+IFSH,PT Ifishdeco Tbk,1.49T,775.00,"61,1",Other Industrial Metals & Mining,Materials,932.23B,-18.58%,62.09B,-4.48B
+DNET,PT Indoritel Makmur Internasional Tbk.,127.66T,"8,950.00","6,3",Telecom Services,Communication Services,1.59T,12.32%,1.17T,-781.64B
+DLTA,PT Delta Djakarta Tbk,1.69T,"2,120.00","118,6",Beverages - Brewers,Consumer Staples,648.26B,-4.19%,141.74B,170.02B
+TRIM,PT Trimegah Sekuritas Indonesia Tbk,3.80T,530.00,"1,020,100",Financial - Capital Markets,Financials,1.29T,33.20%,480.59B,"-1,525.92B"
+MBMA,PT Merdeka Battery Materials Tbk.,69.66T,645.00,"162,917,800",Other Precious Metals & Mining,Materials,25.17T,-18.34%,133.81B,"-1,401.81B"
+CMRY,PT Cisarua Mountain Dairy Tbk,47.61T,"6,000.00","10,382,800",Packaged Foods,Consumer Staples,10.26T,18.39%,1.96T,1.58T
+BMTR,PT Global Mediacom Tbk,2.32T,142.00,"19,843,300",Entertainment,Communication Services,9.81T,1.22%,524.87B,735.56B
+ARKO,PT. Arkora Hydro Tbk,4.70T,"1,605.00","502,2",Utilities - Renewable,Utilities,332.84B,63.56%,48.92B,-108.40B
+SONA,PT Sona Topas Tourism Industry Tbk,1.78T,"2,680.00","59,4",Travel Services,Consumer Discretionary,882.17B,6.03%,72.37B,162.22B
+DAYA,PT Duta Intidaya Tbk,3.07T,"1,260.00","10,1",Specialty Retail,Consumer Discretionary,2.59T,37.03%,71.89B,76.38B
+WOMF,PT Wahana Ottomitra Multiartha Tbk,1.16T,334.00,"150,7",Credit Services,Financials,1.37T,3.62%,215.01B,-17.17B
+MKTR,PT Menthobi Karyatama Raya Tbk,1.78T,148.00,"958,1",Farm Products,Consumer Staples,1.19T,25.58%,70.87B,17.80B
+CLAY,PT Citra Putra Realty Tbk,7.20T,"2,810.00","118,7",Lodging,Consumer Discretionary,176.72B,-25.90%,-1.41B,47.26B
+JRPT,"PT Jaya Real Property, Tbk.",11.10T,860.00,807,Real Estate - Development,Real Estate,3.13T,15.51%,1.21T,1.04T
+PNIN,PT Paninvest Tbk,3.28T,805.00,"900,9",Insurance - Life,Financials,10.38T,-0.73%,1.01T,2.85T
+ANJT,PT Austindo Nusantara Jaya Tbk,7.25T,"2,160.00","1,358,800",Farm Products,Consumer Staples,4.28T,12.13%,523.87B,340.51B
+UANG,PT Pakuan Tbk,2.37T,"1,955.00","1,245,000",Leisure,Consumer Discretionary,140.15B,329.27%,-33.64B,-62.61B
+NOBU,PT Bank Nationalnobu Tbk,3.81T,505.00,"2,713,100",Banks - Regional,Financials,1.43T,34.51%,462.63B,"-5,340.85B"
+LPPF,PT Matahari Department Store Tbk,3.81T,"1,720.00","2,531,600",Department Stores,Consumer Discretionary,5.91T,-8.76%,806.53B,1.39T
+BUVA,PT Bukit Uluwatu Villa Tbk,15.44T,745.00,"66,332,400",Lodging,Consumer Discretionary,371.79B,1.90%,102.78B,84.58B
+SIDO,PT Industri Jamu dan Farmasi Sido Muncul Tbk,16.97T,580.00,"18,913,500",Drug Manufacturers - Specialty & Generic,Healthcare,4.02T,4.96%,1.21T,1.22T
+ABMM,PT ABM Investama Tbk,8.26T,"3,000.00","1,502,900",Thermal Coal,Energy,18.16T,-13.14%,1.17T,2.70T
+SMRA,PT Summarecon Agung Tbk,6.50T,394.00,"55,627,400",Real Estate - Development,Real Estate,9.53T,2.05%,1.12T,560.37B
+SMGA,PT Sumber Mineral Global Abadi Tbk,1.13T,129.00,"68,879,800",Industrial Materials,Materials,1.65T,114.82%,53.21B,-233.37B
+HDFA,PT Radana Bhaskara Finance Tbk,955.20B,145.00,"8,503,300",Credit Services,Financials,332.47B,196.44%,-56.75B,-537.91B
+SPTO,PT Surya Pertiwi Tbk,1.77T,665.00,"655,4","Furnishings, Fixtures & Appliances",Consumer Discretionary,2.81T,-1.45%,263.00B,104.31B
+BACA,PT Bank Capital Indonesia Tbk,2.77T,140.00,841,Banks - Regional,Financials,1.07T,20.69%,91.49B,"-3,492.13B"
+MIDI,PT Midi Utama Indonesia Tbk,13.51T,406.00,"7,985,000",Grocery Stores,Consumer Staples,20.48T,7.13%,670.28B,909.24B
+DILD,PT Intiland Development Tbk,1.36T,131.00,"4,645,600",Real Estate - Development,Real Estate,2.27T,-10.28%,-197.62B,589.67B
+AMAG,PT Asuransi Multi Artha Guna Tbk,1.88T,376.00,"244,3",Insurance - Property & Casualty,Financials,1.13T,-37.71%,243.32B,-
+PLIN,PT Plaza Indonesia Realty Tbk,8.87T,"2,510.00",700,Real Estate Services,Real Estate,1.41T,3.58%,993.55B,698.03B
+CASA,PT Capital Financial Indonesia Tbk,59.65T,"1,085.00","3,906,000",Insurance - Life,Financials,5.90T,-10.89%,109.54B,"-4,889.07B"
+SUPR,PT Solusi Tunas Pratama Tbk,49.88T,"43,850.0",200,Real Estate Services,Real Estate,1.81T,-2.20%,1.17T,843.03B
+AVIA,PT Avia Avian Tbk,27.56T,458.00,"138,352,400",Specialty Chemicals,Materials,7.99T,10.15%,1.69T,1.15T
+EMAS,PT Merdeka Gold Resources Tbk,59.51T,"4,090.00","17,325,100",Gold,Materials,1.36B,25.49%,-407.29B,"-2,659.79B"
+MYOH,PT Samindo Resources Tbk,3.50T,"1,585.00","2,3",Thermal Coal,Energy,2.77T,33.81%,151.25B,505.58B
+ARNA,PT Arwana Citramulia Tbk,3.88T,550.00,"1,704,900",Building Products & Equipment,Industrials,2.88T,14.10%,412.25B,407.38B
+BKSL,PT Sentul City Tbk,19.12T,112.00,"180,783,100",Real Estate - Development,Real Estate,1.15T,-34.70%,61.78B,350.87B
+NATO,PT Surya Permata Andalan Tbk,1.18T,149.00,"160,8",Lodging,Consumer Discretionary,16.53B,-6.04%,-400.88M,1.45B
+KINO,PT Kino Indonesia Tbk,1.76T,"1,275.00",10,Beverages - Non-Alcoholic,Consumer Staples,4.34T,-1.35%,137.12B,329.11B
+SMSM,PT Selamat Sempurna Tbk,11.03T,"1,915.00","1,613,300",Auto Parts,Consumer Discretionary,5.27T,2.12%,1.12T,1.01T
+CEKA,PT Wilmar Cahaya Indonesia Tbk.,1.48T,"2,490.00","20,2",Packaged Foods,Consumer Staples,9.44T,31.19%,266.93B,-199.01B
+BALI,PT Bali Towerindo Sentra Tbk,4.90T,"1,185.00","49,3",Telecom Services,Communication Services,1.21T,21.53%,178.04B,294.14B
+BEKS,"PT. Bank Pembangunan Daerah Banten, Tbk",1.40T,27.00,"42,814,400",Banks - Regional,Financials,355.01B,12.51%,42.57B,"-1,939.63B"
+ASRI,PT Alam Sutera Realty Tbk,3.20T,162.00,"13,154,400",Real Estate - Development,Real Estate,2.57T,-35.70%,50.57B,1.27T
+MAHA,PT Mandiri Herindo Adiperkasa Tbk,2.30T,140.00,"3,435,300",Trucking,Industrials,2.70T,10.06%,156.81B,628.24B
+CTRA,PT Ciputra Development Tbk,16.50T,900.00,"15,428,800",Real Estate - Development,Real Estate,12.46T,27.51%,2.47T,896.02B
+DMAS,PT Puradelta Lestari Tbk,6.41T,133.00,"16,264,700",Real Estate - Development,Real Estate,1.12T,-57.28%,735.63B,-159.67B
+BBMD,PT Bank Mestika Dharma Tbk,8.42T,"2,090.00",700,Banks - Regional,Financials,981.03B,-8.41%,342.87B,82.07B
+BGTG,PT Bank Ganesha Tbk,2.66T,110.00,"15,325,800",Banks - Regional,Financials,562.41B,17.77%,241.16B,"-1,558.13B"
+RONY,PT Aesler Grup Internasional Tbk,4.58T,"3,380.00","14,3",Engineering & Construction,Industrials,1.91B,-54.18%,151.14M,689.26M
+KPIG,PT MNC Tourism Indonesia Tbk,14.15T,145.00,"91,646,800",Real Estate Services,Real Estate,2.60T,59.54%,717.88B,98.14B
+MDKA,PT Merdeka Copper Gold Tbk,59.08T,"2,430.00","34,457,700",Other Industrial Metals & Mining,Materials,32.46T,-12.31%,-958.76B,"-2,095.68B"
+BOLT,PT Garuda Metalindo Tbk,2.65T,"1,120.00","6,2",Tools & Accessories,Industrials,1.63T,12.76%,136.32B,185.86B
+ABDA,PT Asuransi Bina Dana Arta Tbk,1.68T,"2,700.00",200,Insurance - Property & Casualty,Financials,1.04T,21.36%,105.36B,-39.94B
+INDY,PT. Indika Energy Tbk,10.15T,"1,950.00","25,953,600",Thermal Coal,Energy,35.14T,-16.19%,-398.01B,-554.40B
+EPMT,PT Enseval Putera Megatrading Tbk.,6.37T,"2,340.00","55,4",Medical Distribution,Healthcare,32.20T,5.36%,758.02B,703.35B
+ALII,PT Ancara Logistics Indonesia Tbk,8.78T,565.00,"12,696,100",Marine Shipping,Industrials,981.94B,6.92%,372.88B,194.23B
+DWGL,PT Dwi Guna Laksana Tbk,3.28T,354.00,"28,282,900",Thermal Coal,Energy,3.35T,-2.61%,167.73B,259.62B
+DSNG,PT Dharma Satya Nusantara Tbk,19.19T,"1,810.00","45,097,900",Farm Products,Consumer Staples,11.89T,17.67%,1.60T,1.04T
+BESS,PT Batulicin Nusantara Maritim Tbk,5.68T,"1,650.00","635,3",Marine Shipping,Industrials,387.39B,31.38%,94.77B,117.81B
+MLPL,PT Multipolar Tbk,2.03T,130.00,"100,855,500",Department Stores,Consumer Discretionary,11.57T,3.99%,-121.44B,286.15B
+BFIN,PT BFI Finance Indonesia Tbk,11.73T,780.00,"19,425,900",Credit Services,Financials,4.60T,5.04%,1.62T,484.10B
+ICBP,PT Indofood CBP Sukses Makmur Tbk,98.83T,"8,700.00","7,693,000",Packaged Foods,Consumer Staples,73.38T,1.79%,6.04T,9.74T
+JSMR,PT Jasa Marga (Persero) Tbk,25.69T,"3,540.00","6,052,400",Infrastructure Operations,Industrials,27.33T,-7.95%,3.96T,5.24T
+BRAM,PT Indo Kordsa Tbk,2.27T,"5,000.00","1,8",Auto Parts,Consumer Discretionary,2.41T,-39.64%,-9.46B,149.78B
+ASLI,PT Asri Karya Lestari Tbk,1.06T,178.00,"63,540,500",Engineering & Construction,Industrials,311.37B,57.72%,-3.20B,-4.87B
+SMCB,PT Solusi Bangun Indonesia Tbk,6.99T,775.00,"10,8",Building Materials,Materials,10.95T,-6.93%,797.08B,720.07B
+AGII,PT Samator Indo Gas Tbk,3.47T,"1,120.00","2,097,600",Chemicals,Materials,2.99T,3.87%,84.58B,-61.07B
+FAST,PT Fast Food Indonesia Tbk,2.85T,630.00,"66,461,900",Restaurants,Consumer Discretionary,4.85T,-1.17%,-479.21B,-662.34B
+AADI,PT Adaro Andalan Indonesia Tbk,64.44T,"8,225.00","8,047,500",Thermal Coal,Energy,81.43T,-9.32%,12.07T,8.07T
+DKFT,PT Central Omega Resources Tbk,4.05T,730.00,"17,895,200",Industrial Materials,Materials,1.74T,36.66%,519.01B,838.45B
+TLKM,Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk,350.67T,"3,540.00","182,624,300",Telecom Services,Communication Services,147.37T,-1.89%,21.76T,41.55T
+DNAR,PT Bank Oke Indonesia Tbk,2.03T,118.00,"1,096,200",Banks - Regional,Financials,480.83B,45.39%,140.32B,"-1,562.17B"
+MLBI,PT Multi Bintang Indonesia Tbk,12.22T,"5,800.00","312,2",Beverages - Brewers,Consumer Staples,3.43T,1.43%,1.10T,1.28T
+ISSP,PT Steel Pipe Industry of Indonesia Tbk,3.00T,418.00,"709,7",Steel,Materials,5.97T,-0.42%,541.24B,581.68B
+GIAA,PT. Garuda Indonesia (Persero) Tbk,9.97T,109.00,"94,041,900",Airlines,Industrials,54.16T,-0.63%,"-2,070.05B",2.45T
+DATA,PT Remala Abadi Tbk,6.60T,"4,800.00","17,187,800",Telecom Services,Communication Services,356.25B,12.23%,95.22B,-81.67B
+TRGU,PT Cerestar Indonesia Tbk,1.44T,185.00,"202,6",Packaged Foods,Consumer Staples,3.79T,-37.52%,-32.51B,244.95B
+MITI,PT Mitra Investindo Tbk,1.06T,300.00,"5,291,300",Oil & Gas Exploration & Production,Energy,242.95B,-13.94%,8.74B,30.14B
+ADRO,PT Alamtri Resources Indonesia Tbk,55.10T,"1,890.00","109,993,300",Thermal Coal,Energy,14.93T,-2.66%,8.32T,"-27,309.86B"
+ALDO,PT Alkindo Naratama Tbk,1.42T,515.00,"1,121,900",Paper & Paper Products,Materials,2.05T,12.11%,2.98B,5.59B
+HGII,PT Hero Global Investment Tbk,1.03T,159.00,"7,435,400",Electric Services,-,71.12B,-26.99%,23.06B,43.26B
+TPMA,PT Trans Power Marine Tbk,2.03T,580.00,"1,589,200",Marine Shipping,Industrials,1.85T,-17.14%,390.73B,-334.05B
+MKAP,PT Multikarya Asia Pasifik Raya Tbk,1.13T,348.00,"138,7",Oil & Gas Equipment & Services,Energy,411.95B,38.09%,53.13B,97.91B
+KKGI,PT Resource Alam Indonesia Tbk,1.58T,326.00,"5,463,900",Thermal Coal,Energy,2.99T,-43.16%,53.17B,-302.63B
+ELPI,PT Pelayaran Nasional Ekalya Purnamasari Tbk,3.93T,660.00,"11,605,400",Marine Shipping,Industrials,1.07T,-8.07%,262.37B,270.65B
+MTWI,PT Malacca Trust Wuwungan Insurance Tbk,1.04T,354.00,"54,4",Insurance - Diversified,Financials,494.76B,98.70%,89.31B,-40.17B
+BBSI,PT Krom Bank Indonesia Tbk,14.66T,"3,990.00","1,4",Banks - Regional,Financials,463.47B,33.51%,143.02B,-
+BBYB,PT Bank Neo Commerce Tbk,5.42T,390.00,"99,102,500",Banks - Regional,Financials,1.21T,17.52%,302.09B,1.81T
+NICL,PT PAM Mineral Tbk,10.48T,950.00,"4,500,900",Other Industrial Metals & Mining,Materials,1.97T,59.66%,545.70B,823.65B
+TBMS,PT Tembaga Mulia Semanan Tbk,999.16B,"1,360.00","19,4",Metal Fabrication,Industrials,14.68T,19.51%,130.05B,484.51B
+KLBF,PT Kalbe Farma Tbk.,55.51T,"1,320.00","113,133,900",Drug Manufacturers - General,Healthcare,34.38T,7.01%,3.49T,2.69T
+BKSW,PT Bank QNB Indonesia Tbk,2.21T,63.00,"4,112,600",Banks - Regional,Financials,495.02B,-15.78%,2.32B,"-2,749.10B"
+BMHS,PT Bundamedik Tbk,1.34T,155.00,"1,667,000",Medical Care Facilities,Healthcare,1.55T,0.41%,12.40B,-87.05B
+BNGA,PT Bank CIMB Niaga Tbk,43.87T,"1,745.00","2,936,100",Banks - Regional,Financials,17.48T,3.05%,6.96T,-
+ITMA,PT Sumber Energi Andalan Tbk,1.19T,"1,260.00","1,309,900",Other Industrial Metals & Mining,Materials,29.24B,641.39%,19.13B,210.67B
+WSBP,PT Waskita Beton Precast Tbk,1.27T,23.00,"32,891,200",Building Materials,Materials,1.81T,0.99%,-680.86B,-19.33B
+SPMA,PT Suparma Tbk,1.16T,370.00,"4,727,100","Paper, Lumber & Forest Products",Materials,2.76T,3.36%,58.40B,629.97B
+NIRO,PT City Retail Developments Tbk,6.17T,280.00,"930,1",Real Estate Services,Real Estate,1.46T,16.85%,-274.61B,-156.21B
+BNLI,PT Bank Permata Tbk,190.86T,"5,275.00","38,4",Banks - Regional,Financials,10.79T,8.56%,3.66T,"-2,636.75B"
+TCID,PT. Mandom Indonesia Tbk,1.25T,"3,140.00",6,Household & Personal Products,Consumer Staples,2.10T,8.11%,-4.53B,-188.34B
+ELSA,PT Elnusa Tbk,3.76T,515.00,"65,529,900",Oil & Gas Equipment & Services,Energy,14.22T,7.44%,688.99B,794.13B
+DAAZ,PT Daaz Bara Lestari Tbk,5.07T,"2,490.00","228,3",Other Industrial Metals & Mining,Materials,12.95T,68.99%,340.18B,"-1,120.27B"
+RAAM,PT Tripar Multivision Plus Tbk,1.69T,250.00,"9,576,600",Entertainment,Communication Services,207.94B,-39.96%,-86.48B,14.98B
+ACES,PT Aspirasi Hidup Indonesia Tbk,7.53T,440.00,"41,866,000",Specialty Retail,Consumer Discretionary,8.69T,3.99%,798.92B,1.14T
+IMAS,PT Indomobil Sukses Internasional Tbk,4.61T,"1,155.00","300,3",Auto & Truck Dealerships,Consumer Discretionary,30.32T,5.74%,409.84B,"-2,140.69B"
+RALS,PT Ramayana Lestari Sentosa Tbk,2.56T,444.00,"10,147,700",Department Stores,Consumer Discretionary,2.52T,-7.11%,334.29B,514.21B
+PBSA,PT Paramita Bangun Sarana Tbk,2.76T,920.00,"606,1",Engineering & Construction,Industrials,1.47T,61.14%,232.31B,650.11B
+BINA,PT Bank Ina Perdana Tbk,27.67T,"4,510.00","4,2",Banks - Regional,Financials,554.18B,-12.40%,4.47B,"-4,000.36B"
+ARII,PT Atlas Resources Tbk,933.23B,272.00,"387,4",Thermal Coal,Energy,6.30T,31.63%,123.01B,-10.40B
+DCII,PT DCI Indonesia Tbk,621.08T,"260,55",500,Information Technology Services,Technology,2.63T,81.53%,1.17T,125.75B
+SKRN,PT Superkrane Mitra Utama Tbk,5.73T,760.00,"5,116,500",Rental & Leasing Services,Industrials,888.48B,-15.90%,224.53B,350.22B
+BSWD,PT Bank of India Indonesia Tbk,3.69T,"1,000.00",100,Banks - Regional,Financials,172.60B,12.15%,36.80B,-237.04B
+SRTG,PT Saratoga Investama Sedaya Tbk,22.89T,"1,645.00","6,854,200",Asset Management,Financials,"-4,246.72B",-,"-4,359.35B",60.57B
+GTSI,PT GTS Internasional Tbk,1.96T,124.00,"143,266,700",Marine Shipping,Industrials,589.46B,-9.16%,89.14B,67.62B
+INPP,PT Indonesian Paradise Property Tbk,7.66T,695.00,"14,2",Real Estate Services,Real Estate,1.75T,51.71%,447.11B,28.54B
+TOTO,PT Surya Toto Indonesia Tbk,2.95T,288.00,"912,4",Building Products & Equipment,Industrials,2.42T,5.78%,373.68B,256.13B
+BBTN,PT Bank Tabungan Negara (Persero) Tbk,17.12T,"1,220.00","31,664,300",Banks - Regional,Financials,15.02T,5.08%,3.23T,"-15,877.59B"
+EXCL,PT XLSMART Telecom Sejahtera Tbk,46.18T,"2,710.00","7,618,400",Telecom Services,Communication Services,36.43T,8.41%,-429.43B,7.94T
+TBLA,PT Tunas Baru Lampung Tbk,4.54T,750.00,"1,580,200",Packaged Foods,Consumer Staples,21.31T,33.65%,828.66B,"-3,754.92B"
+MINE,PT SINAR TERANG MANDIRI Tbk,1.99T,490.00,"3,182,800",Other Industrial Metals & Mining,Materials,2.25T,56.70%,278.17B,-13.17B
+FMII,PT Fortune Mate Indonesia Tbk,2.29T,358.00,"38,1",Real Estate - Development,Real Estate,48.09B,75.29%,23.39B,2.53B
+INET,PT Sinergi Inti Andalan Prima Tbk,2.16T,286.00,"261,803,900",Telecom Services,Communication Services,60.28B,94.49%,8.09B,-37.03B
+MASB,PT Bank Multiarta Sentosa Tbk,4.57T,"3,260.00",300,Banks - Regional,Financials,901.55B,8.60%,212.38B,"-1,470.33B"
+BABP,PT Bank MNC Internasional Tbk,2.40T,54.00,"3,029,000",Banks - Regional,Financials,617.70B,2.54%,87.09B,1.08T
+SOHO,PT Soho Global Health Tbk,25.89T,"2,040.00","708,7",Medical Distribution,Healthcare,10.35T,13.44%,527.42B,344.74B
+PSAB,PT J Resources Asia Pasifik Tbk,15.08T,570.00,"72,510,600",Gold,Materials,4.74T,13.07%,513.60B,2.13T
+ASSA,PT Adi Sarana Armada Tbk,4.00T,"1,085.00","13,301,100",Rental & Leasing Services,Industrials,5.73T,24.01%,379.67B,447.25B
+PTSN,PT Sat Nusapersada Tbk,1.97T,370.00,"6,694,500",Electronic Components,Technology,3.47T,74.16%,191.02B,-391.69B
+TIFA,PT KDB Tifa Finance Tbk,1.43T,410.00,"1,2",Credit Services,Financials,145.18B,-0.70%,59.22B,65.22B
+VICI,PT Victoria Care Indonesia Tbk,4.26T,630.00,"155,9",Household & Personal Products,Consumer Staples,1.39T,0.98%,162.32B,153.38B
+BRMS,PT Bumi Resources Minerals Tbk,144.62T,"1,020.00","1,165,650,700",Other Industrial Metals & Mining,Materials,3.96T,94.04%,778.83B,221.30B
+GSMF,PT Equity Development Investment Tbk,1.37T,98.00,"14,646,400",Insurance - Diversified,Financials,1.28T,2.60%,39.83B,4.62B
+KOKA,PT Koka Indonesia Tbk,1.17T,410.00,"327,015,600",Engineering & Construction,Industrials,33.31B,-78.55%,-11.55B,-570.35M
+FITT,PT Hotel Fitra International Tbk,1.37T,940.00,"2,674,300",Lodging,Consumer Discretionary,10.57B,-19.99%,-7.59B,-16.68B
+KMTR,PT Kirana Megatara Tbk,2.23T,272.00,"281,3",Auto Parts,Consumer Discretionary,13.17T,23.76%,275.03B,983.53B
+BTPN,PT Bank SMBC Indonesia Tbk,22.68T,"2,180.00","14,7",Banks - Regional,Financials,13.53T,13.99%,2.29T,"-11,179.07B"
+IATA,PT MNC Energy Investments Tbk,2.25T,71.00,"2,416,600",Thermal Coal,Energy,1.32T,-43.95%,18.49B,-489.82B
+AGRS,PT Bank IBK Indonesia Tbk,3.35T,70.00,"1,216,800",Banks - Regional,Financials,719.51B,11.76%,206.15B,"-1,236.53B"
+UNTR,PT United Tractors Tbk,98.79T,"27,000.0","4,335,300",Other Industrial Metals & Mining,Materials,135.33T,3.67%,15.41T,14.07T
+TPIA,PT Chandra Asri Pacific Tbk,607.69T,"7,025.00","4,810,900",Specialty Chemicals,Materials,97.34T,219.30%,21.49T,"-1,988.03B"
+PANR,PT Panorama Sentrawisata Tbk,936.56B,680.00,"4,825,400",Travel Services,Consumer Discretionary,3.38T,13.06%,347.30B,194.22B
+AGRO,PT Bank Raya Indonesia Tbk,5.53T,224.00,"10,046,100",Banks - Regional,Financials,707.62B,0.31%,58.99B,-180.73B
+INDS,PT Indospring Tbk,1.48T,226.00,"336,9",Auto Parts,Consumer Discretionary,3.22T,-1.72%,68.91B,23.35B
+ARTO,PT Bank Jago Tbk,29.52T,"2,110.00","9,250,200",Banks - Regional,Financials,1.83T,23.30%,241.82B,"-5,038.36B"
+PSGO,PT Palma Serasih Tbk,4.18T,224.00,"359,1",Farm Products,Consumer Staples,2.41T,20.47%,392.49B,383.18B
+PYFA,PT Pyridam Farma Tbk,5.57T,496.00,"33,020,400",Drug Manufacturers - Specialty & Generic,Healthcare,2.82T,109.85%,-484.05B,-679.65B
+KBLI,PT KMI Wire and Cable Tbk,1.34T,336.00,"242,6",Electrical Equipment & Parts,Industrials,3.65T,8.97%,219.57B,120.93B
+TAPG,PT Triputra Agro Persada Tbk,36.63T,"1,845.00","8,066,600",Farm Products,Consumer Staples,11.64T,36.43%,4.18T,2.86T
+VICO,PT Victoria Investama Tbk,2.80T,184.00,"3,940,400",Asset Management,Financials,1.36T,61.42%,468.97B,"-4,827.31B"
+BULL,PT Buana Lintas Lautan Tbk,3.01T,208.00,"355,572,600",Marine Shipping,Industrials,2.42T,1.34%,232.66B,369.19B
+HMSP,PT Hanjaya Mandala Sampoerna Tbk,105.85T,875.00,"255,194,500",Tobacco,Consumer Staples,48.88T,-54.42%,5.93T,773.65B
+SAME,PT Sarana Meditama Metropolitan Tbk,5.04T,294.00,"1,462,100",Medical Care Facilities,Healthcare,1.79T,6.31%,48.17B,-28.10B
+GGRM,PT Gudang Garam Tbk,33.96T,"17,100.0","4,556,300",Tobacco,Consumer Staples,92.09T,-17.11%,1.10T,3.49T
+ASLC,PT Autopedia Sukses Lestari Tbk,1.15T,91.00,"56,885,400",Auto & Truck Dealerships,Consumer Discretionary,971.35B,21.50%,34.86B,78.42B
+SIMP,PT Salim Ivomas Pratama Tbk,9.92T,635.00,"7,359,600",Packaged Foods,Consumer Staples,19.65T,27.36%,2.16T,2.90T
+FAPA,PT FAP Agri Tbk,21.52T,"6,200.00","3,4",Farm Products,Consumer Staples,7.04T,25.42%,990.82B,829.17B
+INKP,PT Indah Kiat Pulp & Paper Tbk,40.76T,"7,450.00","5,703,300",Paper & Paper Products,Materials,51.24T,0.18%,5.02T,"-9,203.43B"
+ENRG,PT Energi Mega Persada Tbk,23.14T,890.00,"114,422,600",Oil & Gas Exploration & Production,Energy,8.50T,14.66%,1.33T,-219.96B
+MSIN,PT MNC Digital Entertainment Tbk,30.64T,498.00,"26,913,300",Entertainment,Communication Services,4.06T,40.53%,454.08B,265.54B
+CHIP,PT Pelita Teknologi Global Tbk,1.09T,"1,360.00","156,4",Telecom Services,Communication Services,127.95B,-35.97%,4.72B,9.02B
+CMPP,PT AirAsia Indonesia Tbk,1.02T,95.00,"314,6",Airlines,Industrials,8.07T,6.18%,"-1,914.40B",848.27B
+MDIY,PT Daya Intiguna Yasa Tbk,27.46T,"1,085.00","2,373,500",Department Stores,Consumer Discretionary,7.64T,24.88%,1.08T,302.59B
+ITMG,PT Indo Tambangraya Megah Tbk,26.21T,"23,600.0","2,653,100",Thermal Coal,Energy,35.30T,2.34%,5.45T,6.78T
+SMDR,PT Samudera Indonesia Tbk,5.14T,314.00,"14,462,500",Marine Shipping,Industrials,13.01T,6.52%,875.33B,744.38B
+LUCK,PT Sentral Mitra Informatika Tbk,75.87B,105.00,"12,876,700",Computer Hardware,Technology,84.30B,-16.78%,-7.02B,-11.15B
+MTFN,PT Capitalinc Investment Tbk,477.63B,15.00,"48,316,400",Oil & Gas Exploration & Production,Energy,523.85B,-1.83%,-67.16B,-10.99B
+LION,PT Lion Metal Works Tbk,212.23B,408.00,"117,5",Business Equipment & Supplies,Industrials,375.78B,-1.31%,-17.82B,20.19B
+ATAP,PT Trimitra Prawara Goldland Tbk,105.00B,85.00,"898,8",Residential Construction,Consumer Discretionary,11.71B,-45.09%,-4.10B,-940.99M
+CRSN,PT Carsurin Tbk,318.12B,112.00,883,Specialty Business Services,Industrials,491.61B,11.60%,15.33B,-6.99B
+ASJT,PT Asuransi Jasa Tania Tbk,184.80B,129.00,"1,422,200",Insurance - Property & Casualty,Financials,156.50B,-7.62%,17.52B,-
+BPTR,PT Batavia Prosperindo Trans Tbk,325.13B,92.00,"269,4",Rental & Leasing Services,Industrials,592.35B,18.03%,18.15B,-403.70B
+FIMP,PT Fimperkasa Utama Tbk,27.60B,69.00,"35,8",Engineering & Construction,Industrials,9.87B,338.49%,2.68B,-
+NZIA,PT Nusantara Almazia Tbk,243.93B,111.00,"2,293,300",Real Estate - Development,Real Estate,55.38B,-4.59%,-9.66B,8.89B
+TYRE,PT King Tire Indonesia Tbk,445.51B,128.00,"68,2",Auto Parts,Consumer Discretionary,615.71B,8.60%,22.70B,-35.77B
+SCNP,PT Selaras Citra Nusantara Perkasa Tbk,380.76B,165.00,"4,614,500",Consumer Electronics,Technology,215.03B,-27.03%,15.33B,-31.13B
+NASI,PT Wahana Inti Makmur Tbk,83.97B,105.00,"17,541,900",Farm Products,Consumer Staples,65.31B,-34.37%,-3.13B,-3.09B
+MEJA,PT Harta Djaya Karya Tbk,310.64B,162.00,"100,668,600",Engineering & Construction,Industrials,55.53B,29.89%,1.11B,4.40B
+JAST,PT. Jasnita Telekomindo Tbk,102.84B,93.00,"22,511,600",Telecom Services,Communication Services,197.49B,40.32%,-2.89B,4.36B
+BAJA,PT Saranacentral Bajatama Tbk,282.60B,157.00,"2,712,800",Steel,Materials,804.13B,2.03%,-58.01B,22.28B
+ISAP,PT Isra Presisi Indonesia Tbk.,108.54B,27.00,"68,155,500",Metal Fabrication,Industrials,17.45B,-57.79%,-1.66B,699.33M
+KDSI,PT Kedawung Setia Industrial Tbk,764.64B,472.00,"48,4",Packaging & Containers,Consumer Discretionary,2.13T,4.15%,33.89B,-992.22M
+AMMS,PT Agung Menjangan Mas Tbk,590.64B,492.00,"25,348,500",Farm Products,Consumer Staples,8.84B,-32.78%,153.92M,-5.09B
+GLOB,PT Globe Kita Terang Tbk,172.22B,155.00,124,Specialty Retail,Consumer Discretionary,75.87B,-61.71%,-92.53B,11.56B
+GLVA,PT Galva Technologies Tbk,522.00B,360.00,"28,4",Electronics & Computer Distribution,Technology,2.03T,-10.29%,47.84B,975.54B
+BIMA,"PT. Primarindo Asia Infrastructure, Tbk.",47.44B,71.00,"81,7",Footwear & Accessories,Consumer Discretionary,104.40B,10.54%,-26.36B,2.72B
+SWID,PT Saraswanti Indoland Development Tbk,473.88B,88.00,"1,057,900",Real Estate - Development,Real Estate,168.53B,21.52%,37.40B,-6.28B
+RUNS,PT Global Sukses Solusi Tbk,96.13B,99.00,"1,663,400",Software - Application,Technology,24.86B,-11.22%,77.26M,8.01B
+PEGE,PT Panca Global Kapital Tbk,354.18B,127.00,"1,408,100",Capital Markets,Financials,27.52B,-,-25.15B,-61.89B
+BAPI,PT Bhakti Agung Propertindo Tbk,117.43B,21.00,"991,8",Real Estate - Development,Real Estate,1.59B,-30.59%,-6.58B,-
+MARI,PT Mahaka Radio Integra Tbk,173.34B,31.00,"2,668,900",Broadcasting,Communication Services,88.65B,-3.45%,-24.23B,-14.05B
+ATLA,PT Atlantis Subsea Indonesia Tbk,390.57B,64.00,"117,566,600",Oil & Gas Equipment & Services,Energy,90.06B,27.96%,2.58B,-22.98B
+TAMA,PT Lancartama Sejati Tbk,40.80B,34.00,39,Real Estate - Development,Real Estate,21.66B,-7.93%,-10.48B,-5.68B
+MPIX,PT Mitra Pedagang Indonesia Tbk,104.69B,67.00,"7,331,400",Software - Infrastructure,Technology,1.73T,67.93%,17.00B,2.68B
+CRAB,PT Toba Surimi Industries Tbk,565.50B,290.00,"2,642,300",Packaged Foods,Consumer Staples,608.51B,1.31%,29.71B,115.54B
+CHEK,PT Diastika Biotekindo Tbk,769.19B,190.00,"11,576,400",Medical Devices,Healthcare,171.94B,33.19%,19.96B,-10.95B
+GPSO,PT Geoprima Solusi Tbk,550.06B,815.00,"1,434,800",Scientific & Technical Instruments,Technology,8.37B,-35.92%,-6.42B,-2.20B
+DPNS,PT Duta Pertiwi Nusantara Tbk,102.65B,310.00,"272,5",Specialty Chemicals,Materials,29.90B,-65.74%,8.31B,-16.40B
+ECII,PT Electronic City Indonesia Tbk,218.68B,180.00,"455,8",Specialty Retail,Consumer Discretionary,2.34T,-4.08%,-24.87B,73.69B
+SULI,PT SLJ Global Tbk,859.63B,135.00,"1,059,500",Lumber & Wood Production,Materials,185.17B,-6.00%,-98.97B,-91.94B
+MANG,PT Manggung Polahraya Tbk,209.69B,55.00,"11,531,700",Engineering & Construction,Industrials,60.10B,20.03%,-6.36B,-3.74B
+IBOS,PT Indo Boga Sukses Tbk,443.62B,54.00,"20,072,100",Restaurants,Consumer Discretionary,33.18B,-54.34%,-640.08M,-
+WEGE,PT Wijaya Karya Bangunan Gedung Tbk,631.75B,64.00,"10,886,300",Engineering & Construction,Industrials,3.20T,-14.29%,49.67B,-117.98B
+BEBS,PT Berkah Beton Sadaya Tbk,225.00B,5.00,"24,293,900",Building Materials,Materials,90.16B,-76.26%,-37.61B,-123.61B
+MENN,PT Menn Teknologi Indonesia Tbk,76.00B,53.00,-,Electrical Equipment & Parts,Industrials,5.86B,-12.14%,-3.76B,-1.39B
+KIAS,PT Keramika Indonesia Assosiasi Tbk,313.51B,21.00,"41,1",Building Products & Equipment,Industrials,602.30B,1.33%,-12.70B,28.08B
+ASMI,PT Asuransi Maximus Graha Persada Tbk,223.96B,26.00,"320,6",Insurance - Property & Casualty,Financials,410.19B,12.43%,26.03B,-
+KRYA,PT Bangun Karya Perkasa Jaya Tbk,296.18B,179.00,"5,548,800",Engineering & Construction,Industrials,143.10B,-31.44%,-72.88B,-13.59B
+KDTN,PT Puri Sentul Permai Tbk,186.25B,148.00,"6,907,300",Restaurants,Consumer Discretionary,32.44B,2.38%,1.36B,-12.09B
+TRUK,PT Guna Timur Raya Tbk,132.24B,350.00,"16,093,000",Trucking,Industrials,42.01B,-18.13%,-6.43B,-1.94B
+FOOD,PT Sentra Food Indonesia Tbk,243.10B,402.00,"1,545,500",Packaged Foods,Consumer Staples,88.96B,13.45%,-17.35B,-8.56B
+TRON,PT Teknologi Karya Digital Nusa Tbk,215.45B,73.00,"6,384,700",Information Technology Services,Technology,94.63B,6.35%,-36.59B,-39.26B
+TRUS,PT Trust Finance Indonesia Tbk,347.20B,432.00,600,Credit Services,Financials,46.72B,-14.08%,19.76B,121.55B
+MIRA,PT Mitra International Resources Tbk,118.84B,33.00,"9,857,500",Oil & Gas Equipment & Services,Energy,65.53B,-3.70%,-6.76B,12.65B
+KLAS,PT Pelayaran Kurnia Lautan Semesta Tbk,466.49B,128.00,"3,639,900",Marine Shipping,Industrials,219.08B,42.19%,48.36B,-72.77B
+CHEM,PT Chemstar Indonesia Tbk,161.50B,95.00,"16,583,200",Specialty Chemicals,Materials,206.93B,17.11%,334.86M,-9.17B
+IKAI,PT Intikeramik Alamasri Industri Tbk,186.28B,14.00,"42,334,400",Building Products & Equipment,Industrials,127.97B,-32.81%,-71.61B,40.76B
+SEMA,PT Semacom Integrated Tbk,138.77B,103.00,"1,204,800",Specialty Industrial Machinery,Industrials,140.57B,-22.58%,9.16B,-2.04B
+CNKO,PT Exploitasi Energi Indonesia Tbk,609.03B,64.00,"29,744,400",Thermal Coal,Energy,1.83T,2.42%,181.93B,262.85B
+LAND,PT Trimitra Propertindo Tbk,89.36B,30.00,"4,165,500",Real Estate Services,Real Estate,46.25B,16.47%,329.10M,-11.60B
+NICK,PT Charnic Capital Tbk,794.40B,"1,220.00","15,5",Real Estate Services,Real Estate,124.99B,-,111.16B,65.85B
+INTD,PT Inter Delta Tbk,125.47B,218.00,"566,1",Paper & Paper Products,Materials,32.37B,-4.14%,-1.87B,11.60B
+MAXI,PT Maxindo Karya Anugerah Tbk,528.56B,56.00,"24,458,600",Miscellaneous Food Preparations And Kindred Products,-,117.84B,11.89%,-1.73B,-151.49B
+DGNS,PT Diagnos Laboratorium Utama Tbk,178.75B,142.00,"315,9",Diagnostics & Research,Healthcare,157.99B,-1.65%,-2.37B,-6.14B
+SOTS,PT Satria Mega Kencana Tbk,326.00B,326.00,"42,6",Lodging,Consumer Discretionary,21.05B,-6.42%,-17.18B,-6.62B
+APII,PT Arita Prima Indonesia Tbk,200.09B,186.00,"257,5",Manufacturing - Tools & Accessories,Industrials,301.28B,-2.11%,9.66B,-117.95M
+KLIN,PT Klinko Karya Imaji Tbk,234.05B,170.00,"164,9",Home Improvement Retail,Consumer Discretionary,13.66B,-38.15%,-2.64B,2.14B
+MHKI,PT Multi Hanna Kreasindo Tbk,907.50B,242.00,"7,830,500",Waste Management,Industrials,195.18B,24.74%,38.29B,-13.75B
+LMSH,PT Lionmesh Prima Tbk,24.58B,256.00,100,Metal Fabrication,Industrials,93.17B,-7.89%,-5.05B,3.14B
+KAQI,PT Jantra Grupo Indonesia Tbk,159.84B,69.00,"266,230,000",Auto Parts,Consumer Discretionary,61.64B,"1,302.80%",8.16B,-31.08B
+CCSI,PT Communication Cable Systems Indonesia Tbk,472.00B,348.00,"175,2",Communication Equipment,Technology,293.30B,0.59%,3.67B,28.39B
+ASPI,PT Andalan Sakti Primaindo Tbk,529.95B,780.00,"1,284,500",Residential Construction,Consumer Discretionary,17.33B,-36.62%,-170.29M,-6.17B
+TFAS,PT Telefast Indonesia Tbk,404.26B,242.00,"1,416,200",Staffing & Employment Services,Industrials,323.65B,-26.44%,225.66M,-8.26B
+CLPI,PT Colorpak Indonesia Tbk,444.19B,"1,450.00","191,2",Specialty Chemicals,Materials,934.63B,7.85%,60.51B,44.01B
+RIGS,PT Rig Tenders Indonesia Tbk,481.21B,790.00,"16,3",Marine Shipping,Industrials,355.76B,5.15%,90.56B,117.91B
+PJAA,PT Pembangunan Jaya Ancol Tbk,832.00B,515.00,"158,9",Leisure,Consumer Discretionary,1.18T,-5.57%,135.82B,77.83B
+KOCI,PT Kokoh Exa Nusantara Tbk,366.49B,83.00,"2,059,300",Real Estate - Development,Real Estate,61.05B,-30.65%,16.78B,13.62B
+KSIX,PT Kentanix Supra International Tbk,722.59B,344.00,"926,6",Real Estate - Development,Real Estate,137.69B,-46.39%,17.67B,27.38B
+AYLS,PT Agro Yasa Lestari Tbk,213.36B,250.00,"110,101,200",Food Distribution,Consumer Staples,1.03B,2.62%,-2.44B,-
+IKBI,PT Sumi Indo Kabel Tbk,648.72B,530.00,"737,4",Electrical Equipment & Parts,Industrials,4.29T,5.76%,125.53B,25.02B
+KREN,PT Quantum Clovera Investama Tbk,273.06B,15.00,"5,947,100",Asset Management,Financials,4.78T,-41.75%,-134.50B,-67.32B
+JMAS,PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk,153.00B,148.00,"7,295,400",Insurance - Life,Financials,77.24B,-1.75%,5.43B,48.02B
+GPRA,PT Perdana Gapuraprima Tbk,560.24B,132.00,"12,897,500",Real Estate - Development,Real Estate,480.80B,-8.93%,114.95B,-47.92B
+NPGF,PT Nusa Palapa Gemilang Tbk,194.41B,60.00,"16,692,100",Agricultural Inputs,Materials,199.13B,49.21%,3.65B,-57.16B
+MBTO,PT Martina Berto Tbk,203.30B,180.00,"12,000,600",Household & Personal Products,Consumer Staples,398.99B,-6.21%,-24.09B,12.51B
+AGAR,PT Asia Sejahtera Mina Tbk,240.00B,240.00,"38,2",Farm Products,Consumer Staples,283.63B,-1.74%,2.16B,14.04B
+TNCA,PT Trimuda Nuansa Citra Tbk,102.88B,244.00,"1,367,100",Integrated Freight & Logistics,Industrials,73.31B,9.74%,468.71M,2.41B
+PEHA,PT Phapros Tbk,277.20B,330.00,"441,6",Drug Manufacturers - Specialty & Generic,Healthcare,835.11B,2.28%,-233.22B,88.54B
+OPMS,PT Optima Prima Metal Sinergi Tbk,78.56B,110.00,"275,322,300",Waste Management,Industrials,8.63B,-80.17%,-7.98B,4.86B
+BATA,PT Sepatu Bata Tbk.,104.00B,80.00,"1,207,800",Footwear & Accessories,Consumer Discretionary,333.64B,-32.77%,-70.46B,10.46B
+RSGK,PT Kedoya Adyaraya Tbk,911.08B,980.00,"2,8",Medical Care Facilities,Healthcare,448.65B,2.96%,33.83B,21.83B
+UNSP,PT Bakrie Sumatera Plantations Tbk,430.03B,172.00,"453,8",Farm Products,Consumer Staples,2.38T,5.41%,728.19B,198.69B
+TGRA,PT. Terregra Asia Energy Tbk,74.25B,27.00,"84,6",Utilities - Renewable,Utilities,-,-,-26.22B,-987.71M
+IPPE,PT Indo Pureco Pratama Tbk,64.40B,14.00,"2,621,200",Packaged Foods,Consumer Staples,27.24B,35.11%,1.84B,-277.40M
+IKPM,PT Ikapharmindo Putramas Tbk,384.10B,226.00,"4,446,300",Pharmaceutical Retailers,Healthcare,379.27B,-10.74%,-27.76B,6.64B
+VRNA,PT Mizuho Leasing Indonesia Tbk,489.11B,86.00,"552,7",Credit Services,Financials,158.92B,-18.76%,-12.45B,60.14B
+YPAS,PT Yanaprima Hastapersada Tbk,315.30B,472.00,"4,8",Packaging & Containers,Consumer Discretionary,353.16B,2.46%,-3.86B,43.06B
+LRNA,PT Eka Sari Lorena Transport Tbk,62.30B,176.00,"1,184,200",Railroads,Industrials,62.88B,-28.46%,-15.20B,-6.91B
+NINE,PT Techno9 Indonesia Tbk,668.67B,310.00,-,Information Technology Services,Technology,8.83B,96.87%,-6.64B,-
+YOII,PT Asuransi Digital Bersama Tbk,345.89B,102.00,"1,800,500",Insurance - Diversified,Financials,625.87B,109.93%,32.98B,29.45B
+VINS,PT Victoria Insurance Tbk,219.09B,151.00,"12,771,600",Insurance - Property & Casualty,Financials,75.80B,-23.66%,14.21B,11.24B
+JGLE,PT Graha Andrasentra Propertindo Tbk,406.47B,18.00,"8,959,400",Leisure,Consumer Discretionary,162.20B,4.40%,-5.85B,-5.09B
+MOLI,PT Madusari Murni Indah Tbk,795.42B,292.00,"1,368,500",Chemicals,Materials,1.45T,5.15%,23.80B,98.84B
+IPAC,PT Era Graharealty Tbk,246.97B,260.00,"1,167,800",Real Estate Services,Real Estate,54.42B,32.35%,1.05B,3.65B
+SBMA,PT Surya Biru Murni Acetylene Tbk,119.96B,129.00,"1,129,000",Chemicals,Materials,137.81B,7.73%,13.67B,20.57B
+PSDN,PT Prasidha Aneka Niaga Tbk,148.32B,102.00,"941,6",Packaged Foods,Consumer Staples,21.41B,-92.56%,-19.40B,-18.48B
+INAF,PT Indofarma Tbk,390.51B,126.00,-,Drug Manufacturers - Specialty & Generic,Healthcare,206.24B,-4.41%,-295.10B,-
+SKBM,PT Sekar Bumi Tbk,854.67B,494.00,"757,5",Packaged Foods,Consumer Staples,2.78T,25.19%,26.73B,-16.24B
+ERTX,PT Eratex Djaja Tbk,217.43B,172.00,"9,728,500",Apparel Manufacturing,Consumer Discretionary,1.96T,5.34%,43.72B,57.69B
+HBAT,PT Minahasa Membangun Hebat Tbk,205.03B,197.00,"2,184,100","Land Subdividers and Developers, Except Cemeteries",-,33.98B,-16.92%,6.34B,2.45B
+BSML,PT Bintang Samudera Mandiri Lines Tbk,342.29B,186.00,"32,326,400",Marine Shipping,Industrials,113.50B,-58.84%,3.67B,-14.31B
+GRIA,PT Ingria Pratama Capitalindo Tbk,715.44B,101.00,"4,101,600",Real Estate - Development,Real Estate,74.04B,30.40%,6.77B,19.67B
+TOPS,PT Totalindo Eka Persada Tbk,33.33B,1.000,-,Engineering & Construction,Industrials,109.36B,-77.00%,-284.97B,-11.32B
+RMKO,PT Royaltama Mulia Kontraktorindo Tbk,260.00B,210.00,"2,979,700",Thermal Coal,Energy,284.15B,10.27%,-59.82B,-90.70B
+INCI,PT Intanwijaya Internasional Tbk,139.13B,650.00,"320,7",Specialty Chemicals,Materials,387.93B,2.85%,28.40B,26.05B
+VISI,PT Satu Visi Putra Tbk,615.00B,202.00,"6,571,300",Industrial Distribution,Industrials,379.57B,-21.39%,4.29B,18.52B
+BLTA,PT Berlian Laju Tanker Tbk,725.46B,28.00,"3,773,100",Marine Shipping,Industrials,807.03B,22.28%,43.30B,335.23B
+CAKK,PT Cahayaputra Asa Keramik Tbk,212.98B,178.00,"166,6",Building Products & Equipment,Industrials,314.82B,45.47%,-38.67B,-25.27B
+HELI,PT Jaya Trishindo Tbk,201.55B,242.00,"348,2",Airports & Air Services,Industrials,155.36B,20.83%,19.52B,17.26B
+MDRN,PT Modern Internasional Tbk,343.45B,42.00,"19,103,800",Business Equipment & Supplies,Industrials,36.16B,-14.49%,36.00B,2.43B
+UNTD,PT Terang Dunia Internusa Tbk,566.67B,84.00,"7,000,600",Auto Manufacturers,Consumer Discretionary,505.07B,-8.88%,16.07B,-113.44B
+ACRO,PT Samcro Hyosung Adilestari Tbk,301.82B,88.00,"26,436,500",Apparel Manufacturing,Consumer Discretionary,41.56B,7.28%,8.84B,10.66B
+MPOW,PT Megapower Makmur Tbk,93.14B,118.00,"28,945,700",Utilities - Independent Power Producers,Utilities,31.09B,-5.61%,-8.27B,9.68B
+TIRT,PT Tirta Mahakam Resources Tbk,44.52B,44.00,"1,543,800",Lumber & Wood Production,Materials,40.72M,-40.19%,-51.50B,-
+ZYRX,PT Zyrexindo Mandiri Buana Tbk,189.33B,145.00,"62,692,200",Computer Hardware,Technology,388.92B,45.64%,15.73B,24.41B
+INAI,PT Indal Aluminium Industry Tbk,96.94B,152.00,"16,7",Aluminum,Materials,814.24B,-28.42%,-93.25B,55.53B
+AKSI,PT Mineral Sumberdaya Mandiri Tbk,266.40B,380.00,"230,1",Trucking,Industrials,438.29B,-4.64%,-9.99B,28.81B
+HOKI,PT Buyung Poetra Sembada Tbk,725.83B,74.00,"29,263,300",Packaged Foods,Consumer Staples,1.06T,-27.55%,-23.58B,64.71B
+PTIS,PT Indo Straits Tbk,223.37B,394.00,"2,1",Marine Shipping,Industrials,244.39B,-11.11%,871.60M,-32.41B
+SWAT,PT Sriwahana Adityakarta Tbk,48.31B,16.00,204,Packaging & Containers,Consumer Discretionary,181.94B,-32.33%,-29.76B,-28.83B
+SQMI,PT Wilton Makmur indonesia Tbk.,668.12B,43.00,"226,1",Gold,Materials,1.66B,-47.30%,-81.45B,-11.61B
+KOPI,PT Mitra Energi Persada Tbk,228.70B,326.00,"3,204,000",Oil & Gas Refining & Marketing,Energy,244.92B,10.08%,-20.52B,29.98B
+SURI,PT Maja Agung Latexindo Tbk,627.10B,99.00,"13,134,800",Medical Instruments & Supplies,Healthcare,148.51B,34.49%,-2.89B,5.27B
+DADA,PT Diamond Citra Propertindo Tbk,371.58B,50.00,"3,787,900",Real Estate Services,Real Estate,38.88B,378.16%,1.79B,-3.92B
+WTON,PT Wijaya Karya Beton Tbk,906.41B,102.00,"32,247,100",Building Materials,Materials,4.03T,-6.89%,39.89B,215.30B
+TIRA,PT Tira Austenite Tbk,834.96B,"1,410.00","172,7",Industrial Distribution,Industrials,280.34B,-1.45%,-18.82M,-991.24M
+LPLI,PT Star Pacific Tbk,608.63B,492.00,"1,224,400",Real Estate Services,Real Estate,19.03B,-5.04%,179.93B,-
+PPRI,PT Paperocks Indonesia Tbk,365.51B,326.00,"11,887,300",Packaging & Containers,Consumer Discretionary,160.68B,17.45%,4.54B,-8.59B
+LOPI,PT Logisticsplus International Tbk,95.70B,93.00,"1,988,000",Integrated Freight & Logistics,Industrials,105.96B,10.68%,4.58B,13.15B
+GRPM,PT Graha Prima Mentari Tbk,95.79B,62.00,"807,6",Beverages - Non-Alcoholic,Consumer Staples,642.65B,-3.13%,2.81B,-6.64B
+BTON,PT Betonjaya Manunggal Tbk,279.36B,388.00,"1,6",Steel,Materials,118.44B,-9.96%,33.42B,23.55B
+LMAX,PT Lupromax Pelumas Indonesia Tbk,52.00B,81.00,"1,026,400",Oil & Gas Refining & Marketing,Energy,72.61B,16.35%,508.80M,2.59B
+VIVA,PT Visi Media Asia Tbk,477.46B,29.00,"7,579,900",Broadcasting,Communication Services,1.07T,-5.92%,5.61T,51.30B
+INOV,PT Inocycle Technology Group Tbk,283.89B,150.00,"23,757,800",Waste Management,Industrials,678.49B,10.98%,69.38B,18.14B
+JECC,PT Jembo Cable Company Tbk,861.84B,"1,130.00",19,Electrical Equipment & Parts,Industrials,4.10T,20.00%,122.51B,-16.57B
+DKHH,PT Cipta Sarana Medika Tbk,229.50B,89.00,"64,443,800",Hospitals,-,134.19B,34.76%,3.54B,-16.41B
+OKAS,PT Ancora Indonesia Resources Tbk,339.40B,143.00,"3,895,900",Specialty Chemicals,Materials,2.72T,-13.55%,-2.74B,260.51B
+DPUM,PT Dua Putra Utama Makmur Tbk,270.70B,63.00,"105,930,400",Packaged Foods,Consumer Staples,1.19T,9.59%,-37.07B,20.18B
+WAPO,PT Wahana Pronatural Tbk,214.68B,173.00,"2,635,300",Packaged Foods,Consumer Staples,1.47T,-25.84%,-10.02B,-5.50B
+FWCT,PT Wijaya Cahaya Timber Tbk,270.00B,144.00,"2,166,800",Lumber & Wood Production,Materials,1.55T,28.71%,71.86B,59.73B
+TAYS,PT Jaya Swarasa Agung Tbk,79.12B,73.00,"48,041,500",Packaged Foods,Consumer Staples,103.44B,-51.23%,-74.37B,-5.16B
+DGIK,PT Nusa Konstruksi Enjiniring Tbk,493.53B,95.00,"5,315,800",Engineering & Construction,Industrials,885.19B,60.60%,60.88B,-220.97B
+AXIO,PT Tera Data Indonusa Tbk,724.18B,129.00,"15,722,700",Computer Hardware,Technology,1.57T,30.95%,56.82B,55.69B
+EKAD,PT Ekadharma International Tbk,646.37B,185.00,409,Specialty Chemicals,Materials,527.48B,0.63%,31.51B,75.80B
+PICO,PT Pelangi Indah Canindo Tbk,128.45B,232.00,"1,606,500",Packaging & Containers,Consumer Discretionary,591.54B,-1.55%,3.59B,173.17B
+GRPH,PT Griptha Putra Persada Tbk,65.00B,64.00,"31,462,000",Lodging,Consumer Discretionary,29.52B,4.09%,3.24B,-1.73B
+CASH,PT Cashlez Worldwide Indonesia Tbk,145.97B,112.00,"7,034,000",Business Equipment & Supplies,Industrials,140.96B,-5.49%,-37.96B,-30.57B
+LABA,PT Green Power Group Tbk,242.75B,199.00,"43,230,700",Steel,Materials,48.09B,513.67%,3.72B,-64.82B
+ICON,PT Island Concepts Indonesia Tbk,51.22B,46.00,"71,1",Oil & Gas Equipment & Services,Energy,222.15B,7.48%,-4.74B,15.11B
+RELF,PT Graha Mitra Asia Tbk,257.75B,44.00,"2,877,800",Real Estate - Development,Real Estate,49.31B,10.86%,11.94B,-4.63B
+HALO,PT Haloni Jane Tbk,598.90B,105.00,"16,112,300",Chemicals,Materials,215.74B,16.62%,-5.86B,-6.94B
+UVCR,PT Trimegah Karya Pratama Tbk,242.02B,125.00,"637,464,100",Software - Application,Technology,910.07B,18.92%,-84.11M,887.46M
+GTBO,PT Garda Tujuh Buana Tbk,530.00B,210.00,"1,063,600",Thermal Coal,Energy,227.24B,-64.34%,-74.99B,-52.13B
+SOSS,PT Shield On Service Tbk,719.47B,900.00,"20,1",Staffing & Employment Services,Industrials,1.98T,7.06%,-6.46B,41.05B
+PTPW,PT Pratama Widya Tbk,847.45B,965.00,"14,2",Engineering & Construction,Industrials,346.72B,-14.69%,44.63B,34.43B
+PCAR,PT Prima Cakrawala Abadi Tbk,39.67B,34.00,"1,832,700",Packaged Foods,Consumer Staples,235.46B,-10.65%,-3.20B,-4.17B
+GTRA,PT Grahaprima Suksesmandiri Tbk,663.03B,336.00,"11,691,600",Integrated Freight & Logistics,Industrials,563.43B,32.15%,56.23B,-4.69B
+TRJA,PT Transkon Jaya Tbk,235.59B,156.00,"322,2",Rental & Leasing Services,Industrials,528.72B,-12.77%,-3.36B,176.41B
+DEFI,PT Danasupra Erapacific Tbk,115.60B,171.00,"230,8",Credit Services,Financials,8.06B,120.72%,-3.34B,-4.13B
+ALKA,PT Alakasa Industrindo Tbk,185.81B,366.00,"2,830,300",Aluminum,Materials,148.38B,-24.57%,-5.22B,-147.02B
+AMAN,PT Makmur Berkah Amanda Tbk,592.65B,147.00,"3,623,900",Real Estate - Development,Real Estate,234.52B,8.56%,61.44B,-44.83B
+IDPR,PT Indonesia Pondasi Raya Tbk,604.91B,304.00,"1,625,800",Engineering & Construction,Industrials,1.22T,-1.56%,23.61B,48.27B
+URBN,PT Urban Jakarta Propertindo Tbk.,442.98B,140.00,"307,7",Real Estate - Development,Real Estate,-16.53B,-90.82%,-5.22B,-17.90B
+KBLV,PT First Media Tbk,247.39B,145.00,"205,338,800",Entertainment,Communication Services,2.72B,-96.08%,39.05B,-38.73B
+MDKI,PT Emdeki Utama Tbk,475.67B,190.00,"849,6",Specialty Chemicals,Materials,330.79B,-10.11%,32.36B,42.11B
+BKDP,PT Bukit Darmo Property Tbk,285.53B,40.00,"312,8",Real Estate Services,Real Estate,37.34B,42.96%,-36.50B,-15.35B
+ZINC,PT Kapuas Prima Coal Tbk,681.75B,28.00,"11,487,500",Other Industrial Metals & Mining,Materials,61.43B,-77.49%,-188.98B,-43.55B
+MSIE,PT Multisarana Intan Eduka Tbk,78.84B,51.00,"18,981,600",Real Estate Services,Real Estate,6.70B,2.02%,-1.16B,6.98B
+STAR,PT Buana Artha Anugerah Tbk,340.80B,74.00,"15,8",Asset Management,Financials,5.56B,29.48%,9.06B,-3.49B
+ITIC,PT Indonesian Tobacco Tbk,459.07B,476.00,"29,765,900",Tobacco,Consumer Staples,279.93B,-3.78%,21.20B,18.07B
+RICY,PT Ricky Putra Globalindo Tbk,37.22B,58.00,"233,1",Apparel Manufacturing,Consumer Discretionary,674.14B,-24.09%,-216.29B,25.89B
+LEAD,PT Logindo Samudramakmur Tbk.,458.17B,79.00,"8,529,700",Marine Shipping,Industrials,709.11B,0.67%,43.80B,282.70B
+BCIP,PT Bumi Citra Permai Tbk,168.73B,113.00,"36,807,200",Real Estate - Development,Real Estate,118.04B,22.01%,16.99B,5.76B
+SLIS,PT Gaya Abadi Sempurna Tbk,194.60B,80.00,"54,149,200",Electronics & Computer Distribution,Technology,227.40B,-57.22%,-9.46B,54.04B
+LFLO,PT Imago Mulia Persada Tbk,745.41B,565.00,"68,6","Furnishings, Fixtures & Appliances",Consumer Discretionary,148.13B,62.56%,18.48B,-2.52B
+BEER,PT Jobubu Jarum Minahasa Tbk,500.00B,121.00,"1,589,600",Beverages - Wineries & Distilleries,Consumer Staples,50.93B,28.28%,7.06B,-13.20B
+BINO,PT Perma Plasindo Tbk,291.24B,127.00,"555,3",Business Equipment & Supplies,Industrials,339.46B,-10.35%,-48.32B,-6.70B
+IOTF,PT Sumber Sinergi Makmur Tbk,449.68B,87.00,"21,670,000",Communication Equipment,Technology,62.45B,-2.38%,521.69M,42.98B
+BELL,PT Trisula Textile Industries Tbk,468.80B,63.00,"24,928,600",Textile Manufacturing,Consumer Discretionary,571.86B,-5.56%,5.09B,16.79B
+NAYZ,PT Hassana Boga Sejahtera Tbk,433.50B,187.00,"8,814,700",Packaged Foods,Consumer Staples,27.44B,-46.30%,-2.22B,1.45B
+EAST,PT Eastparc Hotel Tbk,383.76B,93.00,"436,5",Lodging,Consumer Discretionary,97.31B,-6.04%,32.38B,36.18B
+IDEA,PT Idea Indonesia Akademi Tbk,71.18B,73.00,"10,186,800",Education & Training Services,Consumer Staples,24.18B,8.97%,1.95B,6.03B
+MKNT,PT Mitra Komunikasi Nusantara Tbk,5.50B,1.000,-,Communication Equipment,Technology,1.70T,-17.45%,-21.17B,29.49B
+KARW,PT Meratus Jasa Prima Tbk,299.45B,460.00,"91,8",Marine Shipping,Industrials,81.28B,-3.70%,-4.86B,30.87B
+IPOL,PT Indopoly Swakarsa Industry Tbk,882.74B,137.00,"374,2",Packaging & Containers,Consumer Discretionary,3.92T,12.86%,17.11B,-199.70B
+MDLN,PT Modernland Realty Tbk,681.00B,56.00,"18,932,600",Real Estate - Development,Real Estate,1.15T,-5.48%,728.28B,-290.33B
+CGAS,PT Citra Nusantara Gemilang Tbk,258.64B,146.00,"6,672,700",Oil & Gas Refining & Marketing,Energy,559.29B,15.82%,9.54B,-27.82B
+PTPS,PT Pulau Subur Tbk,427.00B,198.00,"13,007,300",Farm Products,Consumer Staples,79.11B,62.81%,38.46B,5.14B
+ESTI,PT Ever Shine Tex Tbk,255.93B,127.00,"741,8",Textile Manufacturing,Consumer Discretionary,448.59B,8.77%,17.35B,25.66B
+SPRE,PT Soraya Berjaya Indonesia Tbk,95.20B,130.00,"17,537,700","Furnishings, Fixtures & Appliances",Consumer Discretionary,46.89B,-0.89%,2.59B,1.26B
+ASBI,PT Asuransi Bintang Tbk,163.04B,476.00,"111,4",Insurance - Diversified,Financials,168.44B,-44.66%,14.64B,-2.27B
+JAYA,PT Armada Berjaya Trans Tbk,83.84B,104.00,"266,9",Trucking,Industrials,77.26B,-21.76%,2.38B,-51.51B
+MICE,PT Multi Indocitra Tbk,372.90B,625.00,"72,4",Household & Personal Products,Consumer Staples,1.15T,6.24%,45.26B,51.06M
+COAL,PT Black Diamond Resources Tbk,350.00B,57.00,"5,519,600",Thermal Coal,Energy,426.89B,-12.25%,24.08B,-23.81B
+MGNA,PT Magna Investama Mandiri Tbk,245.55B,75.00,"3,033,800",Credit Services,Financials,44.97B,9.05%,6.19B,3.69B
+TELE,PT Omni Inovasi Indonesia Tbk,65.80B,9.00,"779,3",Telecom Services,Communication Services,885.30B,-67.45%,-30.72B,445.00M
+WICO,Pt Wicaksana Overseas International Tbk,294.43B,123.00,200,Food Distribution,Consumer Staples,820.04B,-39.39%,-175.50B,-39.68B
+GUNA,PT Gunanusa Eramandiri Tbk,685.00B,272.00,"226,7",Packaged Foods,Consumer Staples,1.66T,21.86%,72.79B,-4.05B
+SOUL,PT Mitra Tirta Buwana Tbk,84.44B,78.00,"863,4",Specialty Business Services,Industrials,2.96B,-33.13%,-3.75B,-7.98B
+APLI,PT Asiaplast Industries Tbk,621.38B,456.00,81,Packaging & Containers,Consumer Discretionary,313.39B,-26.45%,-708.02M,23.89B
+IGAR,PT Champion Pacific Indonesia Tbk,463.89B,500.00,"5,3",Packaging & Containers,Consumer Discretionary,899.70B,2.80%,54.80B,44.82B
+DOSS,PT Global Sukses Digital Tbk,255.30B,148.00,"2,657,400",Specialty Retail,Consumer Discretionary,714.54B,17.22%,22.04B,31.83B
+VAST,PT Vastland Indonesia Tbk,449.19B,149.00,"113,8",Real Estate Services,Real Estate,39.39B,13.23%,16.81B,38.46B
+HADE,PT Himalaya Energi Perkasa Tbk,50.88B,24.00,"3,412,100",Specialty Retail,Consumer Discretionary,4.13B,4.72%,-2.95B,85.78M
+OBMD,PT OBM Drilchem Tbk,201.50B,250.00,"423,7",Specialty Chemicals,Materials,159.94B,-3.11%,32.94B,54.77B
+PART,PT Cipta Perdana Lancar Tbk,402.56B,136.00,"90,138,000",Auto Parts,Consumer Discretionary,293.03B,14.42%,27.58B,-46.40B
+AKPI,PT Argha Karya Prima Industry Tbk,355.10B,590.00,"13,5",Packaging & Containers,Consumer Discretionary,2.94T,-1.56%,7.03B,-18.51B
+LMPI,PT Langgeng Makmur Industri Tbk,146.24B,145.00,"46,3","Furnishings, Fixtures & Appliances",Consumer Discretionary,494.09B,-6.71%,-40.32B,1.44B
+DSFI,PT Dharma Samudera Fishing Industries Tbk,156.00B,85.00,"3,793,300",Farm Products,Consumer Staples,626.85B,10.48%,15.18B,4.11B
+SRSN,PT Indo Acidatama Tbk,385.28B,66.00,"37,439,200",Chemicals,Materials,1.30T,19.90%,48.22B,122.80B
+POLY,PT Asia Pacific Fibers Tbk,69.88B,28.00,711,Specialty Chemicals,Materials,957.25B,-75.04%,-743.51B,315.77B
+PTMR,PT Master Print Tbk,713.22B,374.00,"18,583,100",Packaging & Containers,Consumer Discretionary,141.81B,35.96%,5.53B,-23.15B
+GEMA,PT Gema Grahasarana Tbk,139.20B,86.00,"4,856,300","Furnishings, Fixtures & Appliances",Consumer Discretionary,1.47T,6.46%,18.59B,94.77B
+WOWS,PT Ginting Jaya Energi Tbk,195.58B,79.00,"178,626,800",Oil & Gas Equipment & Services,Energy,220.83B,40.71%,8.16B,21.53B
+AMIN,PT Ateliers Mecaniques D'Indonesie Tbk,274.32B,254.00,"148,5",Specialty Industrial Machinery,Industrials,380.78B,6.72%,20.04B,52.04B
+PTDU,PT Djasa Ubersakti Tbk,24.00B,16.00,"292,8",Engineering & Construction,Industrials,73.67B,32.35%,-25.32B,-
+ADMG,PT. Polychem Indonesia Tbk,587.27B,148.00,616,Chemicals,Materials,2.30T,31.39%,-83.21B,137.19B
+BATR,PT Benteng Api Technic Tbk,323.68B,108.00,"466,4",Building Materials,Materials,120.23B,6.38%,11.66B,6.59B
+AIMS,PT Artha Mahiya Investama Tbk,83.16B,392.00,"359,8",Thermal Coal,Energy,1.37B,674.47%,-795.32M,-
+AYAM,PT Janu Putra Sejahtera Tbk.,712.00B,178.00,"68,912,400",Farm Products,Consumer Staples,318.60B,-13.98%,-16.04B,-23.85B
+SMKL,PT Satyamitra Kemas Lestari Tbk,560.57B,164.00,"14,1",Packaging & Containers,Consumer Discretionary,1.87T,8.65%,18.72B,-241.97B
+PRIM,PT Royal Prima Tbk,256.75B,77.00,"2,692,100",Medical Care Facilities,Healthcare,332.14B,11.50%,-7.20B,-8.38B
+MCAS,PT M Cash Integrasi Tbk,693.60B,790.00,"142,4",Business Equipment & Supplies,Industrials,4.93T,-40.15%,-33.73B,-59.48B
+MRAT,PT Mustika Ratu Tbk,165.21B,386.00,"684,5",Household & Personal Products,Consumer Staples,355.21B,17.96%,-5.04B,-1.35B
+TAXI,PT Express Transindo Utama Tbk,132.91B,13.00,"33,431,400",Railroads,Industrials,3.18B,-23.42%,-3.29B,-8.89B
+PMUI,PT Prima Multi Usaha Indonesia Tbk,864.20B,146.00,"5,936,000",Electronics & Computer Distribution,Technology,3.06T,-12.36%,56.35B,103.01B
+ENZO,PT Morenzo Abadi Perkasa Tbk,90.83B,42.00,961,Packaged Foods,Consumer Staples,381.59B,-34.69%,-10.27B,-88.59B
+PBRX,PT Pan Brothers Tbk,730.39B,34.00,"3,641,500",Apparel Manufacturing,Consumer Discretionary,4.60T,-30.49%,1.49T,52.00B
+PLAN,PT Planet Properindo Jaya Tbk,43.04B,49.00,"5,001,800",Lodging,Consumer Discretionary,14.82B,12.44%,-4.44B,677.07M
+MTSM,PT Metro Realty Tbk,116.42B,500.00,"8,7",Real Estate Services,Real Estate,27.83B,11.24%,-2.86B,-
+IRRA,PT Itama Ranoraya Tbk,672.49B,448.00,"866,5",Medical Distribution,Healthcare,1.41T,44.33%,77.79B,-571.62B
+PPGL,PT Prima Globalindo Logistik Tbk,104.11B,136.00,"6,921,500",Integrated Freight & Logistics,Industrials,195.76B,-0.07%,8.09B,-35.27B
+PADI,PT Minna Padi Investama Sekuritas Tbk,859.35B,75.00,"7,600,100",Capital Markets,Financials,35.14B,-91.74%,20.17B,7.91B
+LPPS,PT Lenox Pasifik Investama Tbk,274.35B,106.00,"12,427,500",Financial - Capital Markets,Financials,13.21B,-69.37%,132.97B,-
+MTPS,PT Meta Epsi Tbk.,168.87B,81.00,"1,710,800",Engineering & Construction,Industrials,66.40M,55.55%,-9.66B,14.54B
+RUIS,PT Radiant Utama Interinsco Tbk,150.92B,196.00,"250,4",Oil & Gas Equipment & Services,Energy,2.03T,-1.95%,15.20B,65.44B
+WINR,PT Winner Nusantara Jaya Tbk,198.94B,38.00,"7,126,000",Real Estate - Development,Real Estate,62.53B,55.09%,22.95B,1.25B
+MSKY,PT MNC Sky Vision Tbk,777.80B,78.00,"17,689,500",Entertainment,Communication Services,497.01B,-22.27%,-133.11B,80.02B
+PDES,PT Destinasi Tirta Nusantara Tbk,421.85B,620.00,"1,040,300",Travel Services,Consumer Discretionary,526.40B,29.98%,24.92B,36.78B
+INPS,PT Indah Prakasa Sentosa Tbk,114.40B,159.00,"718,9",Trucking,Industrials,276.20B,2.62%,-23.73B,-4.43B
+SATU,PT Kota Satu Properti Tbk,346.50B,252.00,"2,918,300",Real Estate - Development,Real Estate,26.08B,-9.12%,-8.16B,1.71B
+BAYU,PT Bayu Buana Tbk,473.32B,"1,340.00","50,7",Travel Services,Consumer Discretionary,2.60T,5.87%,104.44B,-24.96B
+BPFI,PT Woori Finance Indonesia Tbk,861.03B,320.00,"944,4",Credit Services,Financials,363.22B,22.36%,78.22B,-217.60B
+YELO,PT Yelooo Integra Datanet Tbk,130.07B,68.00,"4,341,700",Travel Services,Consumer Discretionary,90.80B,-73.57%,-4.30B,6.16B
+BMSR,PT Bintang Mitra Semestaraya Tbk,363.99B,314.00,"64,5",Chemicals,Materials,3.42T,11.62%,-82.35B,-77.27B
+ROCK,PT Rockfields Properti Indonesia Tbk.,711.85B,470.00,"23,6",Real Estate Services,Real Estate,130.59B,11.64%,10.08B,50.56B
+GDYR,PT Goodyear Indonesia Tbk,455.10B,"1,110.00","14,1",Auto Parts,Consumer Discretionary,2.89T,4.05%,58.55B,-12.71B
+BTEK,PT Bumi Teknokultura Unggul Tbk,601.61B,13.00,"212,704,900",Farm Products,Consumer Staples,253.10B,-50.92%,-753.77B,-48.46B
+KOTA,PT DMS Propertindo Tbk,358.57B,34.00,"4,984,800",Real Estate Services,Real Estate,37.01B,25.28%,-23.06B,-213.45B
+DEWI,PT Dewi Shri Farmindo Tbk.,232.00B,119.00,"75,055,100",Farm Products,Consumer Staples,87.54B,6.49%,6.67B,-
+LAPD,PT Leyand International Tbk,729.81B,184.00,"18,748,600",Electrical Utilities & IPPs,Utilities,268.75B,0.64%,-13.18B,-29.68B
+PMMP,PT Panca Mitra Multiperdana Tbk,129.42B,50.00,"1,092,000",Packaged Foods,Consumer Staples,1.52T,-50.06%,-309.96B,-314.83B
+PAMG,PT Bima Sakti Pertiwi Tbk,209.38B,66.00,"3,997,900",Real Estate - Diversified,Real Estate,51.10B,-1.80%,4.87B,-3.08B
+BBRM,PT Pelayaran Nasional Bina Buana Raya Tbk,729.24B,86.00,"5,945,900",Marine Shipping,Industrials,238.62B,18.17%,109.81B,37.09B
+ELTY,PT Bakrieland Development Tbk,826.92B,19.00,"24,861,000",Real Estate Services,Real Estate,1.37T,15.17%,5.35B,152.18B
+PZZA,PT Sarimelati Kencana Tbk,715.31B,232.00,977,Restaurants,Consumer Discretionary,3.03T,6.94%,39.79B,420.46B
+JATI,PT Informasi Teknologi Indonesia Tbk,398.03B,131.00,"326,639,900",Information Technology Services,Technology,600.75B,15.34%,19.80B,-478.36M
+FIRE,PT Alfa Energi Investama Tbk,126.88B,86.00,"24,303,900",Thermal Coal,Energy,433.04B,8.53%,1.60B,18.23B
+RODA,PT Pikko Land Development Tbk,625.24B,45.00,"59,2",Real Estate - Development,Real Estate,164.70B,99.68%,-60.51B,-24.40B
+SAPX,PT Satria Antaran Prima Tbk,245.00B,294.00,"1,564,900",Integrated Freight & Logistics,Industrials,561.47B,-19.40%,926.23M,-20.28B
+DART,PT Duta Anggada Realty Tbk.,518.33B,164.00,"14,8",Real Estate Services,Real Estate,508.61B,0.68%,-271.09B,38.60B
+ASRM,PT Asuransi Ramayana Tbk,418.69B,342.00,"60,2",Insurance - Property & Casualty,Financials,1.37T,-7.97%,42.06B,-110.87B
+OBAT,PT Brigit Biofarmaka Technologi Tbk,258.00B,430.00,"6,536,500",Packaged Foods,Consumer Staples,142.43B,54.09%,34.42B,-2.14B
+BLUE,PT Berkah Prima Perkasa Tbk,821.37B,"2,160.00","200,3",Electronics & Computer Distribution,Technology,148.81B,-2.92%,14.77B,18.00B
+TGUK,PT Platinum Wahab Nusantara Tbk,489.29B,137.00,-,Food Distribution,Consumer Staples,7.21B,-94.55%,-91.46B,-6.57B
+FLMC,PT Falmaco Nonwoven Industri Tbk,167.19B,214.00,"14,983,200",Household & Personal Products,Consumer Staples,21.18B,-55.05%,-40.45B,-20.78B
+ZBRA,PT Dosni Roha Indonesia Tbk,125.54B,50.00,"3,1",Medical Distribution,Healthcare,940.81B,-49.49%,-315.87B,355.92B
+IKAN,PT Era Mandiri Cemerlang Tbk,95.83B,115.00,"365,224,100",Farm Products,Consumer Staples,125.11B,-1.61%,780.99M,2.02B
+ABBA,PT Mahaka Media Tbk,228.28B,58.00,"1,134,900",Publishing,Communication Services,206.41B,4.13%,-5.70B,13.12B
+OLIV,PT Oscar Mitra Sukses Sejahtera Tbk,199.51B,102.00,"12,474,200","Furnishings, Fixtures & Appliances",Consumer Discretionary,10.34B,-29.30%,-6.08B,1.43B
+ZATA,PT Bersama Zatta Jaya Tbk,552.24B,70.00,"402,666,700",Apparel Retail,Consumer Discretionary,190.89B,-7.88%,1.79B,15.60B
+KIOS,PT Kioson Komersial Indonesia Tbk,83.92B,78.00,"61,215,300",Software - Application,Technology,38.25B,-70.74%,-4.92B,-
+ASDM,PT Asuransi Dayin Mitra Tbk,226.56B,585.00,"28,8",Insurance - Diversified,Financials,243.12B,11.37%,31.84B,29.50B
+PGLI,PT Pembangunan Graha Lestari Indah Tbk,241.07B,540.00,"1,888,200",Lodging,Consumer Discretionary,18.79B,-8.26%,-617.30M,-1.04B
+LUCY,PT Lima Dua Lima Tiga Tbk,156.02B,107.00,818,Restaurants,Consumer Discretionary,103.03B,-31.00%,-16.03B,27.58B
+TOSK,PT Topindo Solusi Komunika Tbk,341.27B,77.00,"77,334,900",Software - Application,Technology,1.94T,-19.08%,7.58B,-3.06B
+HDIT,PT Hensel Davest Indonesia Tbk,71.66B,48.00,"1,936,500",Software - Infrastructure,Technology,34.94B,-87.51%,-23.08B,-
+TMPO,PT Tempo Inti Media Tbk,178.86B,172.00,"2,600,100",Publishing,Communication Services,199.94B,-21.97%,-1.93B,1.11B
+INTA,PT Intraco Penta Tbk,130.41B,42.00,"574,2",Industrial Distribution,Industrials,1.03T,-0.63%,-66.88B,19.01B
+RGAS,PT Kian Santang Muliatama Tbk,140.09B,102.00,"69,417,900",Oil & Gas Equipment & Services,Energy,195.02B,115.87%,3.58B,-15.49B
+MREI,PT Maskapai Reasuransi Indonesia Tbk,502.26B,975.00,"66,4",Insurance - Reinsurance,Financials,2.35T,1.82%,92.10B,-31.64B
+NAIK,PT Adiwarna Anugerah Abadi Tbk,382.64B,115.00,"6,291,400",Building Materials,Materials,239.20B,92.19%,36.91B,34.09B
+BRNA,PT Berlina Tbk,685.38B,725.00,"47,8",Packaging & Containers,Consumer Discretionary,1.05T,2.87%,15.71B,-43.43B
+DYAN,PT Dyandra Media International Tbk,376.02B,88.00,"3,637,200",Entertainment,Communication Services,1.29T,-18.00%,52.21B,122.80B
+SMLE,PT Sinergi Multi Lestarindo Tbk,726.38B,304.00,"2,955,600",Specialty Chemicals,Materials,209.51B,-2.41%,-1.13B,-18.84B
+KING,PT Hoffmen Cleanindo Tbk,525.24B,204.00,"352,6",Specialty Business Services,Industrials,141.40B,-44.47%,5.84B,23.14B
+TRIS,PT Trisula International Tbk,556.77B,180.00,"248,5",Apparel Manufacturing,Consumer Discretionary,1.59T,6.76%,55.12B,75.32B
+HAIS,PT Hasnur Internasional Shipping Tbk,551.51B,210.00,"9,814,400",Marine Shipping,Industrials,913.99B,-10.95%,100.16B,-125.20B
+KOBX,PT Kobexindo Tractors Tbk,374.96B,163.00,"3,527,000",Farm & Heavy Construction Machinery,Industrials,1.76T,-13.59%,-177.98B,468.39B
+INCF,PT Indo Komoditi Korpora Tbk,79.13B,45.00,"406,3",Specialty Chemicals,Materials,130.38B,-34.11%,-844.10M,14.20B
+BMBL,PT Lavender Bina Cendikia Tbk,43.26B,42.00,"8,120,300",Education & Training Services,Consumer Staples,11.58B,-30.73%,-9.08B,-42.56M
+HOPE,PT Harapan Duta Pertiwi Tbk,259.90B,119.00,"6,976,600",Metal Fabrication,Industrials,35.06B,262.66%,-27.29B,26.57B
+XCIS,DIRE Ciptadana Properti Ritel Indonesia,82.95B,79.00,"30,3","Unit Investment Trusts, Face-Amount Certificate Offices, and Closed-End Management Investment Offices",-,-,-,-,-
+EMDE,PT Megapolitan Developments Tbk,312.14B,96.00,"2,445,500",Real Estate Services,Real Estate,526.75B,-47.66%,71.70B,-423.52B
+MYTX,PT Asia Pacific Investama Tbk,278.90B,36.00,700,Textile Manufacturing,Consumer Discretionary,1.05T,-21.71%,-10.88B,54.73B
+ASHA,PT Cilacap Samudera Fishing Industry Tbk,225.00B,43.00,"67,709,600",Farm Products,Consumer Staples,200.32B,-29.29%,-38.52B,-7.55B
+PUDP,PT Pudjiadi Prestige Tbk,458.09B,695.00,"205,1",Real Estate Services,Real Estate,40.45B,2.05%,-194.59M,-36.07B
+DFAM,PT Dafam Property Indonesia Tbk,138.69B,73.00,"70,231,200",Real Estate Services,Real Estate,60.83B,-6.46%,-13.67B,41.94B
+AHAP,PT Asuransi Harta Aman Pratama Tbk,426.30B,88.00,"20,208,800",Insurance - Property & Casualty,Financials,274.23B,-3.54%,-2.35B,-
+PURI,PT Puri Global Sukses Tbk,464.00B,510.00,"4,751,400",Real Estate - Development,Real Estate,28.87B,-56.26%,-7.02B,-79.59B
+NELY,PT Pelayaran Nelly Dwi Putri Tbk,813.10B,348.00,"1,013,700",Marine Shipping,Industrials,446.14B,-7.34%,111.82B,-106.71B
+HOMI,PT Grand House Mulia Tbk,705.60B,515.00,"5,524,100",Real Estate - Development,Real Estate,38.69B,0.74%,-2.63B,-5.73B
+CSIS,PT Cahayasakti Investindo Sukses Tbk,316.29B,240.00,"4,553,800",Real Estate - Development,Real Estate,86.94B,-3.85%,8.34B,15.60B
+TARA,PT Agung Semesta Sejahtera Tbk,251.74B,24.00,"1,056,500",Real Estate - Diversified,Real Estate,3.79B,-11.62%,-2.28B,-2.14B
+CTTH,PT Citatah Tbk,104.62B,85.00,"3,636,600",Building Materials,Materials,123.95B,-16.09%,-29.97B,-3.03B
+RBMS,PT Ristia Bintang Mahkotasejati Tbk,90.31B,35.00,"807,5",Real Estate - Development,Real Estate,190.84B,22.21%,-10.94B,22.06B
+COCO,PT Wahana Interfood Nusantara Tbk,361.28B,410.00,"81,226,600",Confectioners,Consumer Staples,152.40B,-0.28%,-116.21B,-49.39B
+CSMI,PT Cipta Selera Murni Tbk,195.85B,240.00,"32,389,000",Restaurants,Consumer Discretionary,1.52B,-50.50%,-3.36B,-
+EPAC,PT Megalestari Epack Sentosaraya Tbk,69.37B,21.00,"694,9",Packaging & Containers,Consumer Discretionary,160.10B,20.88%,-10.65B,10.30B
+POLA,PT Pool Advista Finance Tbk,123.99B,37.00,"2,565,800",Credit Services,Financials,12.58B,5.19%,-11.93B,47.15B
+ELIT,PT Data Sinergitama Jaya Tbk,359.55B,178.00,"2,131,600",Information Technology Services,Technology,492.31B,14.75%,29.69B,-4.19B
+ARKA,PT Arkha Jayanti Persada Tbk,56.00B,28.00,"1,020,200",Specialty Business Services,Industrials,154.25B,34.88%,3.87B,-4.63B
+WMUU,PT Widodo Makmur Unggas Tbk,375.29B,28.00,"37,123,700",Farm Products,Consumer Staples,645.14B,114.56%,-88.40B,-4.55B
+KKES,PT Kusuma Kemindo Sentosa Tbk,40.50B,27.00,"1,699,500",Specialty Chemicals,Materials,194.90B,-14.73%,-6.10B,-6.91B
+LAJU,PT Jasa Berdikari Logistics Tbk,146.20B,68.00,"45,036,600",Integrated Freight & Logistics,Industrials,209.78B,16.45%,-1.77B,25.75B
+REAL,PT Repower Asia Indonesia Tbk,470.99B,71.00,"125,967,000",Real Estate - Diversified,Real Estate,112.99B,843.03%,24.25B,-
+IBFN,PT Intan Baru Prana Tbk,77.38B,55.00,"516,7",Credit Services,Financials,97.97B,-,-54.05B,21.56B
+APEX,PT Apexindo Pratama Duta Tbk,471.68B,131.00,"21,370,300",Oil & Gas Drilling,Energy,1.46T,14.76%,18.19B,313.72B
+SDMU,PT Sidomulyo Selaras Tbk,71.52B,59.00,"617,2",Trucking,Industrials,78.32B,-7.97%,-12.03B,-3.08B
+BAIK,PT Bersama Mencapai Puncak Tbk,111.38B,101.00,"993,7",Restaurants,Consumer Discretionary,217.21B,11.92%,3.22B,6.65B
+BOBA,PT Formosa Ingredient Factory Tbk,233.46B,208.00,"190,2",Packaged Foods,Consumer Staples,181.88B,2.90%,20.52B,14.64B
+HAJJ,PT Arsy Buana Travelindo Tbk,293.72B,123.00,"34,602,300",Travel Services,Consumer Discretionary,909.98B,5.13%,20.06B,-83.31B
+KJEN,PT Krida Jaringan Nusantara Tbk,93.00B,180.00,"1,832,700",Integrated Freight & Logistics,Industrials,4.35B,-42.35%,62.54M,2.54B
+VTNY,PT Venteny Fortuna International Tbk,576.40B,93.00,"15,913,700",Staffing & Employment Services,Industrials,254.12B,-5.16%,17.10B,-394.31B
+INDX,PT Tanah Laut Tbk,69.19B,154.00,"100,144,900",Marine Shipping,Industrials,188.84M,-78.57%,-8.63B,-6.77B
+WIDI,PT Widiant Jaya Krenindo Tbk,65.60B,42.00,"4,557,500",Rental & Leasing Services,Industrials,15.17B,47.24%,-1.72B,-1.22B
+DIGI,PT Arkadia Digital Media Tbk,53.63B,34.00,"1,145,900",Internet Content & Information,Communication Services,52.52B,0.77%,619.98M,-109.22M
+GOLD,PT Visi Telekomunikasi Infrastruktur Tbk,378.07B,292.00,"107,5",Telecom Services,Communication Services,54.71B,8.46%,17.66B,5.50B
+CANI,PT Capitol Nusantara Indonesia Tbk,35.00B,42.00,"75,6",Marine Shipping,Industrials,53.67B,-5.57%,-36.94B,-
+SOFA,PT Boston Furniture Industries Tbk,482.84B,278.00,"30,843,600","Furnishings, Fixtures & Appliances",Consumer Discretionary,49.46B,0.41%,-880.52M,-4.64B
+LPIN,PT Multi Prima Sejahtera Tbk,192.95B,454.00,"564,3",Auto Parts,Consumer Discretionary,164.87B,8.54%,30.51B,10.73B
+ASPR,PT Asia Pramulia Tbk,268.49B,100.00,"6,033,300",Packaging & Containers,Consumer Discretionary,234.18B,0.99%,8.25B,-53.23B
+KBAG,PT Karya Bersama Anugerah Tbk,300.30B,42.00,"3,081,400",Residential Construction,Consumer Discretionary,12.52B,-44.39%,-21.36B,3.56B
+BOAT,PT Newport Marine Services TBK,423.70B,120.00,"1,467,500",Oil & Gas Drilling,Energy,275.69B,73.10%,30.15B,14.76B
+ALTO,PT Tri Banyan Tirta Tbk,39.45B,18.00,"44,8",Beverages - Non-Alcoholic,Consumer Staples,113.17B,-64.50%,-42.54B,-7.93B
+TALF,PT Tunas Alfin Tbk,660.48B,472.00,"468,1",Packaging & Containers,Consumer Discretionary,1.41T,8.47%,33.80B,50.18B
+PADA,PT Personel Alih Daya Tbk,286.65B,93.00,-,Staffing & Employment Services,Industrials,966.01B,12.37%,-10.57B,-50.70B
+HRME,PT Menteng Heritage Realty Tbk,232.39B,37.00,"1,326,900",Lodging,Consumer Discretionary,113.07B,-0.16%,-28.19B,-70.43B
+PGJO,PT Bahtera Bumi Raya Tbk,827.69B,"1,000.00","335,3",Software - Application,Technology,714.03M,-93.24%,-4.44B,-2.02B
+VERN,PT Verona Indah Pictures Tbk,562.34B,117.00,"2,512,700",Entertainment,Communication Services,64.20B,-74.07%,-2.13B,-146.42B
+AWAN,PT Era Digital Media Tbk,803.79B,234.00,"18,556,600",Internet Content & Information,Communication Services,52.93B,1.17%,3.11B,24.56B
+PTMP,PT Mitra Pack Tbk,272.55B,86.00,"21,194,000",Specialty Industrial Machinery,Industrials,207.24B,23.17%,12.37B,12.85B
+CINT,PT Chitose Internasional Tbk,190.00B,190.00,"24,247,000","Furnishings, Fixtures & Appliances",Consumer Discretionary,466.05B,-3.32%,19.13B,2.10B
+MERI,PT Merry Riana Edukasi Tbk,221.52B,214.00,"397,9",Education & Training Services,Consumer Staples,42.01B,52.74%,9.37B,5.99B
+SICO,PT Sigma Energy Compressindo Tbk,123.77B,134.00,"7,612,700",Oil & Gas Equipment & Services,Energy,156.22B,44.65%,12.49B,278.75M
+WEHA,PT WEHA Transportasi Indonesia Tbk,153.36B,105.00,"425,4",Railroads,Industrials,312.80B,4.97%,22.94B,7.78B
+RCCC,PT Utama Radar Cahaya Tbk,162.23B,206.00,"2,834,000",Trucking,Industrials,95.94B,7.07%,3.68B,-6.28B
+SMKM,PT Sumber Mas Konstruksi Tbk,187.95B,151.00,"19,901,200",Engineering & Construction,Industrials,76.49B,-21.52%,3.23B,-55.14B
+KOIN,PT Kokoh Inti Arebama Tbk,71.60B,73.00,"58,2",Building Products & Equipment,Industrials,3.12T,-1.95%,-15.89B,-10.14B
+PKPK,PT Paragon Karya Perkasa Tbk,738.00B,615.00,"904,8",Engineering & Construction,Industrials,750.02B,678.14%,24.40B,-74.52B
+ISEA,PT Indo American Seafoods Tbk,113.98B,84.00,"2,413,900",Packaged Foods,Consumer Staples,524.05B,149.56%,2.25B,-47.70B
+ANDI,"PT Andira Agro, Tbk",224.40B,23.00,"8,652,600",Farm Products,Consumer Staples,288.09B,86.88%,-11.02B,-18.43B
+ZONE,PT Mega Perintis Tbk,509.05B,585.00,"51,2",Apparel Retail,Consumer Discretionary,699.58B,-5.25%,8.09B,45.94B
+SAFE,PT Steady Safe Tbk,113.19B,248.00,"35,169,500",Railroads,Industrials,219.44B,-6.54%,17.68B,28.44B
+BAUT,PT Mitra Angkasa Sejahtera Tbk,172.81B,36.00,"5,508,200",Tools & Accessories,Industrials,133.83B,-15.61%,-19.15B,2.23B
+AKKU,PT Anugerah Kagum Karya Utama Tbk,309.57B,48.00,"2,920,300",Real Estate Services,Real Estate,8.36B,6.61%,-9.02B,-8.31B
+SAGE,PT Saptausaha Gemilangindah Tbk,265.10B,31.00,-,Real Estate - Development,Real Estate,5.54B,-66.56%,-4.29B,-
+UFOE,PT Damai Sejahtera Abadi Tbk,539.08B,183.00,"9,213,500",Department Stores,Consumer Discretionary,1.11T,16.07%,18.96B,-7.32B
+ESIP,PT Sinergi Inti Plastindo Tbk,126.53B,110.00,"3,913,500",Packaging & Containers,Consumer Discretionary,59.36B,-6.17%,1.37B,4.06B
+LABS,PT UBC Medical Indonesia Tbk,568.80B,144.00,"828,4",Medical Devices,Healthcare,176.64B,29.22%,9.30B,16.51B
+ALMI,PT Alumindo Light Metal Industry Tbk,282.38B,74.00,"67,1",Aluminum,Materials,2.26B,-99.55%,-200.53B,-
+RAFI,PT Sari Kreasi Boga Tbk,122.00B,39.00,"20,912,900",Restaurants,Consumer Discretionary,507.12B,32.58%,-29.32B,-17.01B
+MUTU,PT Mutuagung Lestari Tbk,352.01B,112.00,"8,873,000",Specialty Business Services,Industrials,330.18B,6.24%,18.65B,-15.58B
+FORU,PT Fortune Indonesia Tbk,537.33B,"1,155.00","108,4",Advertising Agencies,Communication Services,47.70B,27.35%,-3.75B,-430.24M
+HITS,PT Humpuss Intermoda Transportasi Tbk.,823.73B,116.00,"16,009,800",Marine Shipping,Industrials,2.30T,16.93%,-83.83B,337.27B
+PURA,PT Putra Rajawali Kencana Tbk,163.85B,26.00,"1,175,100",Trucking,Industrials,362.09B,44.84%,6.44B,16.73B
+NTBK,PT Nusatama Berkah Tbk,418.51B,155.00,"1,300,007,500",Farm & Heavy Construction Machinery,Industrials,112.47B,28.19%,821.48M,-5.95B
+OILS,PT Indo Oil Perkasa Tbk,90.81B,200.00,"2,259,000",Packaged Foods,Consumer Staples,915.03B,51.59%,8.02B,3.60B
+SNLK,PT Sunter Lakeside Hotel Tbk,184.50B,404.00,"6,963,100",Lodging,Consumer Discretionary,45.07B,-15.00%,-5.21B,5.74B
+AEGS,PT. Anugerah Spareparts Sejahtera Tbk,63.38B,64.00,"39,348,900",Auto Parts,Consumer Discretionary,28.89B,-8.24%,597.62M,-4.90B
+PNSE,PT Pudjiadi and Sons Tbk,574.43B,715.00,"9,6",Resorts & Casinos,Consumer Discretionary,238.14B,-1.57%,-5.83B,13.49B
+ESTA,PT Esta Multi Usaha Tbk,533.58B,214.00,"14,508,200",Lodging,Consumer Discretionary,50.03B,-3.38%,-5.07B,-29.72B
+HYGN,PT Ecocare Indo Pasifik Tbk,429.17B,171.00,"312,9",Specialty Business Services,Industrials,350.11B,21.46%,18.91B,22.73B
+GULA,PT Aman Agrindo Tbk,411.02B,388.00,"2,838,300",Farm Products,Consumer Staples,203.66B,-25.68%,-6.73B,13.64B
+NASA,PT Andalan Perkasa Abadi Tbk,363.16B,31.00,"1,101,300",Real Estate - Development,Real Estate,13.14B,-14.28%,6.23B,-983.81M
+BIPP,PT Bhuwanatala Indah Permai Tbk,216.23B,41.00,"282,7",Real Estate - Diversified,Real Estate,241.52B,-5.80%,11.50B,-137.57B
+KICI,PT Kedaung Indah Can Tbk,84.46B,306.00,"29,964,100","Furnishings, Fixtures & Appliances",Consumer Discretionary,80.16B,15.13%,-9.43B,-6.01B
+PTSP,PT Pioneerindo Gourmet International Tbk,317.96B,"1,440.00","1,416,800",Restaurants,Consumer Discretionary,707.97B,3.57%,18.72B,81.82B
+TOOL,PT Rohartindo Nusantara Luas Tbk,135.30B,66.00,"534,808,800","Furnishings, Fixtures & Appliances",Consumer Discretionary,63.25B,-48.73%,-6.15B,-39.14B
+NANO,PT Nanotech Indonesia Global Tbk,235.70B,55.00,"7,924,100",Medical Devices,Healthcare,118.29B,7.14%,829.83M,-8.54B
+CBPE,PT Citra Buana Prasida Tbk,363.48B,262.00,"136,7",Real Estate - Development,Real Estate,90.52B,-23.08%,44.40B,26.99B
+MEDS,PT Hetzer Medical Indonesia Tbk,96.88B,61.00,"17,401,400",Medical Instruments & Supplies,Healthcare,4.58B,-78.08%,-8.74B,-3.30B
+DIVA,PT Distribusi Voucher Nusantara Tbk,267.40B,190.00,"2,847,000",Software - Application,Technology,3.57T,-15.36%,1.47B,51.68B
+BAPA,PT Bekasi Asri Pemula Tbk,60.88B,92.00,"380,316,800",Real Estate - Development,Real Estate,3.61B,89.68%,-4.76B,-437.49M
+BDKR,PT Berdikari Pondasi Perkasa Tbk,812.72B,172.00,"25,813,400",Engineering & Construction,Industrials,411.50B,-21.39%,-17.35B,271.59B
+SDPC,PT Millennium Pharmacon International Tbk,171.99B,136.00,"131,1",Medical Distribution,Healthcare,3.99T,3.82%,16.80B,-681.07M
+WINE,PT HATTEN BALI Tbk,547.42B,200.00,"3,394,300",Beverages - Wineries & Distilleries,Consumer Staples,289.98B,4.99%,40.00B,29.78B
+MPXL,PT MPX Logistics International Tbk,464.00B,232.00,"6,359,300",Trucking,Industrials,144.12B,-24.33%,-5.37B,29.49B
+MPPA,PT Matahari Putra Prima Tbk,778.00B,60.00,"27,241,300",Department Stores,Consumer Discretionary,7.15T,1.61%,-117.50B,376.04B
+WGSH,PT Wira Global Solusi Tbk,289.82B,274.00,"589,1",Software - Infrastructure,Technology,30.36B,-20.81%,5.27B,-5.75B
+KMDS,"PT Kurniamitra Duta Sentosa, Tbk",572.00B,700.00,"118,2",Food Distribution,Consumer Staples,406.08B,11.90%,60.43B,7.36B
+LCKM,PT LCK Global Kedaton Tbk,206.00B,210.00,"119,5",Telecom Services,Communication Services,17.73B,"1,000.37%",2.21B,-33.51B
+KUAS,PT Ace Oldfields Tbk,84.03B,67.00,"13,532,700",Building Products & Equipment,Industrials,193.31B,12.24%,11.53B,-10.03B
+KBLM,PT Kabelindo Murni Tbk,396.48B,350.00,"188,8",Electrical Equipment & Parts,Industrials,1.91T,2.81%,46.20B,117.77B
+SOLA,PT Xolare RCR Energy TBK,430.27B,130.00,"4,541,900",Engineering & Construction,Industrials,219.36B,101.66%,28.37B,-33.63B
+PEVE,PT. Penta Valent Tbk,891.64B,500.00,"958,2",Pharmaceutical Retailers,Healthcare,3.41T,18.39%,59.85B,-169.20B
+BRRC,PT Raja Roti Cemerlang Tbk,140.40B,136.00,"93,159,400",Packaged Foods,Consumer Staples,112.60B,18.49%,1.56B,-60.09B
