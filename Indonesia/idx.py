@@ -71,7 +71,7 @@ class ParsingCompaniesBio:
                 try:
                     elements = driver.find_elements(By.CSS_SELECTOR, selector)
                     if elements:
-                        definition_text = " ".join(element.text.strip() for element in elements)
+                        definition_text = elements[0].text.strip()
                         data[term] = definition_text
                     else:
                         data[term] = None

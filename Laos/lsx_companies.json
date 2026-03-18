@@ -1,0 +1,110 @@
+[
+    {
+        "Ticker": "BCEL",
+        "Full Company Name": "Banque pour le Commerce Extérieur Lao Public",
+        "Sector": "Financial Services",
+        "Industry": "Banking",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Largest commercial bank in Laos, state-owned"
+    },
+    {
+        "Ticker": "EDL-Gen",
+        "Full Company Name": "EDL-Generation Public Company",
+        "Sector": "Utilities",
+        "Industry": "Electric Utilities",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Electricity generation subsidiary of Electricite du Laos"
+    },
+    {
+        "Ticker": "LWPC",
+        "Full Company Name": "Lao World Public Company",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Resorts & Casinos",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Hospitality and duty-free retail"
+    },
+    {
+        "Ticker": "PTL",
+        "Full Company Name": "Petroleum Trading Lao Public Company",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Distribution",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Petroleum products distribution"
+    },
+    {
+        "Ticker": "SVN",
+        "Full Company Name": "Souvanny Home Center Public Company",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Home Improvement Retail",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Home improvement and construction materials retail"
+    },
+    {
+        "Ticker": "STPE",
+        "Full Company Name": "Sitthi Tham Phatthana Education Public Company",
+        "Sector": "Education",
+        "Industry": "Education Services",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Private education services"
+    },
+    {
+        "Ticker": "LAT",
+        "Full Company Name": "Lao Telecom Public Company",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Telecommunications services provider"
+    },
+    {
+        "Ticker": "BCL",
+        "Full Company Name": "BCL Lao Public Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Beverage production and distribution"
+    },
+    {
+        "Ticker": "LHB",
+        "Full Company Name": "Lao Brewery Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages — Brewers",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Beer and beverage production (Carlsberg partnership)"
+    },
+    {
+        "Ticker": "MJLK",
+        "Full Company Name": "Mekong Jiulong Lao Logistics Public Company",
+        "Sector": "Industrials",
+        "Industry": "Logistics & Transportation",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Logistics and freight transportation"
+    },
+    {
+        "Ticker": "MHP",
+        "Full Company Name": "Mahathuen Public Company",
+        "Sector": "Financial Services",
+        "Industry": "Microfinance",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Microfinance and lending services"
+    },
+    {
+        "Ticker": "CML",
+        "Full Company Name": "Comrade Microfinance Lao Public Company",
+        "Sector": "Financial Services",
+        "Industry": "Microfinance",
+        "Incorporated in": "LAOS",
+        "Exchange": "LSX",
+        "Description": "Microfinance institution"
+    }
+]

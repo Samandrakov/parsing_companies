@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(done)",
+      "Bash(python3:*)",
+      "Bash(find /c/Users/Данила/Desktop/parsing_companies -maxdepth 2 -type f \\\\\\(-name README* -o -name *.md -o -name requirements* -o -name *.txt -o -name .env* -o -name *.config \\\\\\))",
+      "Bash(python:*)",
+      "Bash(mkdir -p Indonesia/old)",
+      "Bash(mv Indonesia/*.json Indonesia/*.csv Indonesia/old/)",
+      "Bash(pip show:*)",
+      "Bash(tasklist)",
+      "Bash(ls:*)",
+      "WebFetch(domain:www.malaysiastock.biz)",
+      "WebFetch(domain:www.klsescreener.com)",
+      "WebFetch(domain:api-finfo2.vndirect.com.vn)",
+      "WebFetch(domain:finance.vietstock.vn)",
+      "Bash(for dir:*)",
+      "Bash(do echo:*)",
+      "Read(//c/Users/Данила/Desktop/parsing_companies/$dir/**)"
+    ]
+  }
+}

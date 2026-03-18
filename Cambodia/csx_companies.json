@@ -1,0 +1,122 @@
+[
+    {
+        "Ticker": "PPWSA",
+        "Full Company Name": "Phnom Penh Water Supply Authority",
+        "Sector": "Utilities",
+        "Industry": "Water Utilities",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Public water supply for Phnom Penh"
+    },
+    {
+        "Ticker": "GTI",
+        "Full Company Name": "Grand Twins International (Cambodia) Plc",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Textile Manufacturing",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Garment and textile manufacturing"
+    },
+    {
+        "Ticker": "PPAP",
+        "Full Company Name": "Phnom Penh Autonomous Port",
+        "Sector": "Industrials",
+        "Industry": "Marine Ports & Services",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Port operations and logistics in Phnom Penh"
+    },
+    {
+        "Ticker": "PAS",
+        "Full Company Name": "Pestech (Cambodia) Plc",
+        "Sector": "Utilities",
+        "Industry": "Electrical Equipment",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Power transmission and distribution infrastructure"
+    },
+    {
+        "Ticker": "ABC",
+        "Full Company Name": "Angkor Beer (Cambodia Brewery Ltd)",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages — Brewers",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Beer and beverage production"
+    },
+    {
+        "Ticker": "MJQE",
+        "Full Company Name": "MJQE Holdings Plc",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Development",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Real estate development and property"
+    },
+    {
+        "Ticker": "DBDE",
+        "Full Company Name": "DBD Engineering Plc",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Civil engineering and construction"
+    },
+    {
+        "Ticker": "CGSM",
+        "Full Company Name": "CGS Motors Plc",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Dealers",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Automobile dealership and distribution"
+    },
+    {
+        "Ticker": "PEPC",
+        "Full Company Name": "Phnom Penh SEZ Plc",
+        "Sector": "Real Estate",
+        "Industry": "Industrial REIT",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Special economic zone management"
+    },
+    {
+        "Ticker": "JSL",
+        "Full Company Name": "JS Land Plc",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Development",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Residential real estate development"
+    },
+    {
+        "Ticker": "ACLEDA",
+        "Full Company Name": "ACLEDA Bank Plc",
+        "Sector": "Financial Services",
+        "Industry": "Banking",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Largest commercial bank in Cambodia"
+    },
+    {
+        "Ticker": "PWSA",
+        "Full Company Name": "Siem Reap Water Supply Authority",
+        "Sector": "Utilities",
+        "Industry": "Water Utilities",
+        "Incorporated in": "CAMBODIA",
+        "Exchange": "CSX",
+        "Listing Board": "Main Board",
+        "Description": "Water supply for Siem Reap province"
+    }
+]
