@@ -17,7 +17,8 @@
       "WebFetch(domain:finance.vietstock.vn)",
       "Bash(for dir:*)",
       "Bash(do echo:*)",
-      "Read(//c/Users/Данила/Desktop/parsing_companies/$dir/**)"
+      "Read(//c/Users/Данила/Desktop/parsing_companies/$dir/**)",
+      "WebFetch(domain:edge.pse.com.ph)"
     ]
   }
 }

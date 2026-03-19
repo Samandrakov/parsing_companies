@@ -7,8 +7,6 @@
     "Listing Date": "Mar 22, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -20,10 +18,10 @@
     "Listing Date": "Jan 08, 1948",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AbaCore Capital Holdings, Inc.",
@@ -33,10 +31,10 @@
     "Listing Date": "Oct 28, 1987",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asiabest Group International Inc.",
@@ -55,10 +53,10 @@
     "Listing Date": "Jul 08, 1992",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "ABS-CBN Holdings Corporation",
@@ -68,10 +66,10 @@
     "Listing Date": "Oct 07, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "Ayala Corporation",
@@ -81,10 +79,10 @@
     "Listing Date": "Nov 08, 1976",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Acesite (Phils.) Hotel Corporation",
@@ -102,7 +100,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jan 05, 1970",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Renewable"
   },
   {
     "Full Company Name": "Alsons Consolidated Resources, Inc.",
@@ -112,10 +112,10 @@
     "Listing Date": "Apr 12, 1993",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Aboitiz Equity Ventures, Inc.",
@@ -125,10 +125,10 @@
     "Listing Date": "Nov 16, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "Alliance Global Group, Inc.",
@@ -138,10 +138,10 @@
     "Listing Date": "Apr 19, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Arthaland Corporation",
@@ -159,7 +159,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 08, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Ayala Land, Inc.",
@@ -169,10 +171,10 @@
     "Listing Date": "Jul 05, 1991",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Real Estate",
+    "Industry_YF": "Real Estate—Development"
   },
   {
     "Full Company Name": "AllDay Marts, Inc.",
@@ -181,7 +183,9 @@
     "Subsector": "Retail",
     "Listing Date": "Nov 03, 2021",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AyalaLand Logistics Holdings Corp.",
@@ -208,7 +212,9 @@
     "Subsector": "Food, Beverage & Tobacco",
     "Listing Date": "May 25, 2009",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "A. Soriano Corporation",
@@ -218,8 +224,6 @@
     "Listing Date": "Oct 25, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -230,7 +234,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jul 16, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "APC Group, Inc.",
@@ -240,10 +246,10 @@
     "Listing Date": "Mar 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apollo Global Capital, Inc.",
@@ -252,7 +258,9 @@
     "Subsector": "Information Technology",
     "Listing Date": "Oct 18, 2012",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Anglo Philippine Holdings Corporation",
@@ -262,8 +270,6 @@
     "Listing Date": "Jul 31, 1959",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -274,7 +280,9 @@
     "Subsector": "Property",
     "Listing Date": "Jun 26, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apex Mining Co., Inc.",
@@ -284,10 +292,10 @@
     "Listing Date": "Mar 07, 1974",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Gold"
   },
   {
     "Full Company Name": "Abra Mining and Industrial Corporation",
@@ -297,8 +305,6 @@
     "Listing Date": "Dec 24, 1969",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -310,10 +316,10 @@
     "Listing Date": "Nov 14, 1989",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AREIT, Inc.",
@@ -322,7 +328,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 13, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Raslag Corp.",
@@ -341,10 +349,10 @@
     "Listing Date": "Nov 17, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Copper"
   },
   {
     "Full Company Name": "Asian Terminals, Inc.",
@@ -354,10 +362,10 @@
     "Listing Date": "Jan 25, 1996",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "ATN Holdings, Inc.",
@@ -367,10 +375,10 @@
     "Listing Date": "Sep 24, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asia United Bank Corporation",
@@ -407,8 +415,6 @@
     "Listing Date": "Jan 04, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -429,10 +435,10 @@
     "Listing Date": "May 21, 2002",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "Belle Corporation",
@@ -442,8 +448,6 @@
     "Listing Date": "Feb 02, 1977",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -455,10 +459,10 @@
     "Listing Date": "Nov 02, 1966",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Boulevard Holdings, Inc.",
@@ -468,10 +472,10 @@
     "Listing Date": "Apr 28, 1997",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bright Kindle Resources & Investments Inc.",
@@ -489,7 +493,9 @@
     "Subsector": "Casinos & Gaming",
     "Listing Date": "Oct 17, 2000",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Consumer Cyclical",
+    "Industry_YF": "Resorts & Casinos"
   },
   {
     "Full Company Name": "Bogo-Medellin Milling Company, Inc.",
@@ -499,10 +505,10 @@
     "Listing Date": "Nov 16, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bank of Commerce",
@@ -511,7 +517,9 @@
     "Subsector": "Banks",
     "Listing Date": "Mar 31, 2022",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Diversified"
   },
   {
     "Full Company Name": "Bank of the Philippine Islands",
@@ -521,10 +529,10 @@
     "Listing Date": "Oct 12, 1971",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "A Brown Company, Inc.",
@@ -534,10 +542,10 @@
     "Listing Date": "Feb 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Basic Energy Corporation",
@@ -547,8 +555,6 @@
     "Listing Date": "Oct 16, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -569,8 +575,6 @@
     "Listing Date": "Mar 22, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -582,10 +586,10 @@
     "Listing Date": "Jan 08, 1948",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AbaCore Capital Holdings, Inc.",
@@ -595,10 +599,10 @@
     "Listing Date": "Oct 28, 1987",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asiabest Group International Inc.",
@@ -617,10 +621,10 @@
     "Listing Date": "Jul 08, 1992",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "ABS-CBN Holdings Corporation",
@@ -630,10 +634,10 @@
     "Listing Date": "Oct 07, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "Ayala Corporation",
@@ -643,10 +647,10 @@
     "Listing Date": "Nov 08, 1976",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Acesite (Phils.) Hotel Corporation",
@@ -664,7 +668,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jan 05, 1970",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Renewable"
   },
   {
     "Full Company Name": "Alsons Consolidated Resources, Inc.",
@@ -674,10 +680,10 @@
     "Listing Date": "Apr 12, 1993",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Aboitiz Equity Ventures, Inc.",
@@ -687,10 +693,10 @@
     "Listing Date": "Nov 16, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "Alliance Global Group, Inc.",
@@ -700,10 +706,10 @@
     "Listing Date": "Apr 19, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Arthaland Corporation",
@@ -721,7 +727,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 08, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Ayala Land, Inc.",
@@ -731,10 +739,10 @@
     "Listing Date": "Jul 05, 1991",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Real Estate",
+    "Industry_YF": "Real Estate—Development"
   },
   {
     "Full Company Name": "AllDay Marts, Inc.",
@@ -743,7 +751,9 @@
     "Subsector": "Retail",
     "Listing Date": "Nov 03, 2021",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AyalaLand Logistics Holdings Corp.",
@@ -770,7 +780,9 @@
     "Subsector": "Food, Beverage & Tobacco",
     "Listing Date": "May 25, 2009",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "A. Soriano Corporation",
@@ -780,8 +792,6 @@
     "Listing Date": "Oct 25, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -792,7 +802,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jul 16, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "APC Group, Inc.",
@@ -802,10 +814,10 @@
     "Listing Date": "Mar 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apollo Global Capital, Inc.",
@@ -814,7 +826,9 @@
     "Subsector": "Information Technology",
     "Listing Date": "Oct 18, 2012",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Anglo Philippine Holdings Corporation",
@@ -824,8 +838,6 @@
     "Listing Date": "Jul 31, 1959",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -836,7 +848,9 @@
     "Subsector": "Property",
     "Listing Date": "Jun 26, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apex Mining Co., Inc.",
@@ -846,10 +860,10 @@
     "Listing Date": "Mar 07, 1974",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Gold"
   },
   {
     "Full Company Name": "Abra Mining and Industrial Corporation",
@@ -859,8 +873,6 @@
     "Listing Date": "Dec 24, 1969",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -872,10 +884,10 @@
     "Listing Date": "Nov 14, 1989",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AREIT, Inc.",
@@ -884,7 +896,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 13, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Raslag Corp.",
@@ -903,10 +917,10 @@
     "Listing Date": "Nov 17, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Copper"
   },
   {
     "Full Company Name": "Asian Terminals, Inc.",
@@ -916,10 +930,10 @@
     "Listing Date": "Jan 25, 1996",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "ATN Holdings, Inc.",
@@ -929,10 +943,10 @@
     "Listing Date": "Sep 24, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asia United Bank Corporation",
@@ -969,8 +983,6 @@
     "Listing Date": "Jan 04, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -991,10 +1003,10 @@
     "Listing Date": "May 21, 2002",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "Belle Corporation",
@@ -1004,8 +1016,6 @@
     "Listing Date": "Feb 02, 1977",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1017,10 +1027,10 @@
     "Listing Date": "Nov 02, 1966",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Boulevard Holdings, Inc.",
@@ -1030,10 +1040,10 @@
     "Listing Date": "Apr 28, 1997",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bright Kindle Resources & Investments Inc.",
@@ -1051,7 +1061,9 @@
     "Subsector": "Casinos & Gaming",
     "Listing Date": "Oct 17, 2000",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Consumer Cyclical",
+    "Industry_YF": "Resorts & Casinos"
   },
   {
     "Full Company Name": "Bogo-Medellin Milling Company, Inc.",
@@ -1061,10 +1073,10 @@
     "Listing Date": "Nov 16, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bank of Commerce",
@@ -1073,7 +1085,9 @@
     "Subsector": "Banks",
     "Listing Date": "Mar 31, 2022",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Diversified"
   },
   {
     "Full Company Name": "Bank of the Philippine Islands",
@@ -1083,10 +1097,10 @@
     "Listing Date": "Oct 12, 1971",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "A Brown Company, Inc.",
@@ -1096,10 +1110,10 @@
     "Listing Date": "Feb 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Basic Energy Corporation",
@@ -1109,8 +1123,6 @@
     "Listing Date": "Oct 16, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1131,8 +1143,6 @@
     "Listing Date": "Mar 22, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1144,10 +1154,10 @@
     "Listing Date": "Jan 08, 1948",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AbaCore Capital Holdings, Inc.",
@@ -1157,10 +1167,10 @@
     "Listing Date": "Oct 28, 1987",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asiabest Group International Inc.",
@@ -1179,10 +1189,10 @@
     "Listing Date": "Jul 08, 1992",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "ABS-CBN Holdings Corporation",
@@ -1192,10 +1202,10 @@
     "Listing Date": "Oct 07, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "Ayala Corporation",
@@ -1205,10 +1215,10 @@
     "Listing Date": "Nov 08, 1976",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Acesite (Phils.) Hotel Corporation",
@@ -1226,7 +1236,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jan 05, 1970",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Renewable"
   },
   {
     "Full Company Name": "Alsons Consolidated Resources, Inc.",
@@ -1236,10 +1248,10 @@
     "Listing Date": "Apr 12, 1993",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Aboitiz Equity Ventures, Inc.",
@@ -1249,10 +1261,10 @@
     "Listing Date": "Nov 16, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "Alliance Global Group, Inc.",
@@ -1262,10 +1274,10 @@
     "Listing Date": "Apr 19, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Arthaland Corporation",
@@ -1283,7 +1295,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 08, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Ayala Land, Inc.",
@@ -1293,10 +1307,10 @@
     "Listing Date": "Jul 05, 1991",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Real Estate",
+    "Industry_YF": "Real Estate—Development"
   },
   {
     "Full Company Name": "AllDay Marts, Inc.",
@@ -1305,7 +1319,9 @@
     "Subsector": "Retail",
     "Listing Date": "Nov 03, 2021",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AyalaLand Logistics Holdings Corp.",
@@ -1332,7 +1348,9 @@
     "Subsector": "Food, Beverage & Tobacco",
     "Listing Date": "May 25, 2009",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "A. Soriano Corporation",
@@ -1342,8 +1360,6 @@
     "Listing Date": "Oct 25, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1354,7 +1370,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jul 16, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "APC Group, Inc.",
@@ -1364,10 +1382,10 @@
     "Listing Date": "Mar 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apollo Global Capital, Inc.",
@@ -1376,7 +1394,9 @@
     "Subsector": "Information Technology",
     "Listing Date": "Oct 18, 2012",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Anglo Philippine Holdings Corporation",
@@ -1386,8 +1406,6 @@
     "Listing Date": "Jul 31, 1959",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1398,7 +1416,9 @@
     "Subsector": "Property",
     "Listing Date": "Jun 26, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apex Mining Co., Inc.",
@@ -1408,10 +1428,10 @@
     "Listing Date": "Mar 07, 1974",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Gold"
   },
   {
     "Full Company Name": "Abra Mining and Industrial Corporation",
@@ -1421,8 +1441,6 @@
     "Listing Date": "Dec 24, 1969",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1434,10 +1452,10 @@
     "Listing Date": "Nov 14, 1989",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AREIT, Inc.",
@@ -1446,7 +1464,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 13, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Raslag Corp.",
@@ -1465,10 +1485,10 @@
     "Listing Date": "Nov 17, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Copper"
   },
   {
     "Full Company Name": "Asian Terminals, Inc.",
@@ -1478,10 +1498,10 @@
     "Listing Date": "Jan 25, 1996",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "ATN Holdings, Inc.",
@@ -1491,10 +1511,10 @@
     "Listing Date": "Sep 24, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asia United Bank Corporation",
@@ -1531,8 +1551,6 @@
     "Listing Date": "Jan 04, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1553,10 +1571,10 @@
     "Listing Date": "May 21, 2002",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "Belle Corporation",
@@ -1566,8 +1584,6 @@
     "Listing Date": "Feb 02, 1977",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1579,10 +1595,10 @@
     "Listing Date": "Nov 02, 1966",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Boulevard Holdings, Inc.",
@@ -1592,10 +1608,10 @@
     "Listing Date": "Apr 28, 1997",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bright Kindle Resources & Investments Inc.",
@@ -1613,7 +1629,9 @@
     "Subsector": "Casinos & Gaming",
     "Listing Date": "Oct 17, 2000",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Consumer Cyclical",
+    "Industry_YF": "Resorts & Casinos"
   },
   {
     "Full Company Name": "Bogo-Medellin Milling Company, Inc.",
@@ -1623,10 +1641,10 @@
     "Listing Date": "Nov 16, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bank of Commerce",
@@ -1635,7 +1653,9 @@
     "Subsector": "Banks",
     "Listing Date": "Mar 31, 2022",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Diversified"
   },
   {
     "Full Company Name": "Bank of the Philippine Islands",
@@ -1645,10 +1665,10 @@
     "Listing Date": "Oct 12, 1971",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "A Brown Company, Inc.",
@@ -1658,10 +1678,10 @@
     "Listing Date": "Feb 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Basic Energy Corporation",
@@ -1671,8 +1691,6 @@
     "Listing Date": "Oct 16, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1693,8 +1711,6 @@
     "Listing Date": "Mar 22, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1706,10 +1722,10 @@
     "Listing Date": "Jan 08, 1948",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AbaCore Capital Holdings, Inc.",
@@ -1719,10 +1735,10 @@
     "Listing Date": "Oct 28, 1987",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asiabest Group International Inc.",
@@ -1741,10 +1757,10 @@
     "Listing Date": "Jul 08, 1992",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "ABS-CBN Holdings Corporation",
@@ -1754,10 +1770,10 @@
     "Listing Date": "Oct 07, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "Ayala Corporation",
@@ -1767,10 +1783,10 @@
     "Listing Date": "Nov 08, 1976",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Acesite (Phils.) Hotel Corporation",
@@ -1788,7 +1804,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jan 05, 1970",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Renewable"
   },
   {
     "Full Company Name": "Alsons Consolidated Resources, Inc.",
@@ -1798,10 +1816,10 @@
     "Listing Date": "Apr 12, 1993",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Aboitiz Equity Ventures, Inc.",
@@ -1811,10 +1829,10 @@
     "Listing Date": "Nov 16, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "Alliance Global Group, Inc.",
@@ -1824,10 +1842,10 @@
     "Listing Date": "Apr 19, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Arthaland Corporation",
@@ -1845,7 +1863,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 08, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Ayala Land, Inc.",
@@ -1855,10 +1875,10 @@
     "Listing Date": "Jul 05, 1991",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Real Estate",
+    "Industry_YF": "Real Estate—Development"
   },
   {
     "Full Company Name": "AllDay Marts, Inc.",
@@ -1867,7 +1887,9 @@
     "Subsector": "Retail",
     "Listing Date": "Nov 03, 2021",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AyalaLand Logistics Holdings Corp.",
@@ -1894,7 +1916,9 @@
     "Subsector": "Food, Beverage & Tobacco",
     "Listing Date": "May 25, 2009",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "A. Soriano Corporation",
@@ -1904,8 +1928,6 @@
     "Listing Date": "Oct 25, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1916,7 +1938,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jul 16, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "APC Group, Inc.",
@@ -1926,10 +1950,10 @@
     "Listing Date": "Mar 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apollo Global Capital, Inc.",
@@ -1938,7 +1962,9 @@
     "Subsector": "Information Technology",
     "Listing Date": "Oct 18, 2012",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Anglo Philippine Holdings Corporation",
@@ -1948,8 +1974,6 @@
     "Listing Date": "Jul 31, 1959",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1960,7 +1984,9 @@
     "Subsector": "Property",
     "Listing Date": "Jun 26, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apex Mining Co., Inc.",
@@ -1970,10 +1996,10 @@
     "Listing Date": "Mar 07, 1974",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Gold"
   },
   {
     "Full Company Name": "Abra Mining and Industrial Corporation",
@@ -1983,8 +2009,6 @@
     "Listing Date": "Dec 24, 1969",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -1996,10 +2020,10 @@
     "Listing Date": "Nov 14, 1989",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AREIT, Inc.",
@@ -2008,7 +2032,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 13, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Raslag Corp.",
@@ -2027,10 +2053,10 @@
     "Listing Date": "Nov 17, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Copper"
   },
   {
     "Full Company Name": "Asian Terminals, Inc.",
@@ -2040,10 +2066,10 @@
     "Listing Date": "Jan 25, 1996",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "ATN Holdings, Inc.",
@@ -2053,10 +2079,10 @@
     "Listing Date": "Sep 24, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asia United Bank Corporation",
@@ -2093,8 +2119,6 @@
     "Listing Date": "Jan 04, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2115,10 +2139,10 @@
     "Listing Date": "May 21, 2002",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "Belle Corporation",
@@ -2128,8 +2152,6 @@
     "Listing Date": "Feb 02, 1977",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2141,10 +2163,10 @@
     "Listing Date": "Nov 02, 1966",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Boulevard Holdings, Inc.",
@@ -2154,10 +2176,10 @@
     "Listing Date": "Apr 28, 1997",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bright Kindle Resources & Investments Inc.",
@@ -2175,7 +2197,9 @@
     "Subsector": "Casinos & Gaming",
     "Listing Date": "Oct 17, 2000",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Consumer Cyclical",
+    "Industry_YF": "Resorts & Casinos"
   },
   {
     "Full Company Name": "Bogo-Medellin Milling Company, Inc.",
@@ -2185,10 +2209,10 @@
     "Listing Date": "Nov 16, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bank of Commerce",
@@ -2197,7 +2221,9 @@
     "Subsector": "Banks",
     "Listing Date": "Mar 31, 2022",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Diversified"
   },
   {
     "Full Company Name": "Bank of the Philippine Islands",
@@ -2207,10 +2233,10 @@
     "Listing Date": "Oct 12, 1971",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "A Brown Company, Inc.",
@@ -2220,10 +2246,10 @@
     "Listing Date": "Feb 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Basic Energy Corporation",
@@ -2233,8 +2259,6 @@
     "Listing Date": "Oct 16, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2255,8 +2279,6 @@
     "Listing Date": "Mar 22, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2268,10 +2290,10 @@
     "Listing Date": "Jan 08, 1948",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AbaCore Capital Holdings, Inc.",
@@ -2281,10 +2303,10 @@
     "Listing Date": "Oct 28, 1987",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asiabest Group International Inc.",
@@ -2303,10 +2325,10 @@
     "Listing Date": "Jul 08, 1992",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "ABS-CBN Holdings Corporation",
@@ -2316,10 +2338,10 @@
     "Listing Date": "Oct 07, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "Ayala Corporation",
@@ -2329,10 +2351,10 @@
     "Listing Date": "Nov 08, 1976",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Acesite (Phils.) Hotel Corporation",
@@ -2350,7 +2372,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jan 05, 1970",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Renewable"
   },
   {
     "Full Company Name": "Alsons Consolidated Resources, Inc.",
@@ -2360,10 +2384,10 @@
     "Listing Date": "Apr 12, 1993",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Aboitiz Equity Ventures, Inc.",
@@ -2373,10 +2397,10 @@
     "Listing Date": "Nov 16, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "Alliance Global Group, Inc.",
@@ -2386,10 +2410,10 @@
     "Listing Date": "Apr 19, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Arthaland Corporation",
@@ -2407,7 +2431,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 08, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Ayala Land, Inc.",
@@ -2417,10 +2443,10 @@
     "Listing Date": "Jul 05, 1991",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Real Estate",
+    "Industry_YF": "Real Estate—Development"
   },
   {
     "Full Company Name": "AllDay Marts, Inc.",
@@ -2429,7 +2455,9 @@
     "Subsector": "Retail",
     "Listing Date": "Nov 03, 2021",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AyalaLand Logistics Holdings Corp.",
@@ -2456,7 +2484,9 @@
     "Subsector": "Food, Beverage & Tobacco",
     "Listing Date": "May 25, 2009",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "A. Soriano Corporation",
@@ -2466,8 +2496,6 @@
     "Listing Date": "Oct 25, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2478,7 +2506,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jul 16, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "APC Group, Inc.",
@@ -2488,10 +2518,10 @@
     "Listing Date": "Mar 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apollo Global Capital, Inc.",
@@ -2500,7 +2530,9 @@
     "Subsector": "Information Technology",
     "Listing Date": "Oct 18, 2012",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Anglo Philippine Holdings Corporation",
@@ -2510,8 +2542,6 @@
     "Listing Date": "Jul 31, 1959",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2522,7 +2552,9 @@
     "Subsector": "Property",
     "Listing Date": "Jun 26, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apex Mining Co., Inc.",
@@ -2532,10 +2564,10 @@
     "Listing Date": "Mar 07, 1974",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Gold"
   },
   {
     "Full Company Name": "Abra Mining and Industrial Corporation",
@@ -2545,8 +2577,6 @@
     "Listing Date": "Dec 24, 1969",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2558,10 +2588,10 @@
     "Listing Date": "Nov 14, 1989",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AREIT, Inc.",
@@ -2570,7 +2600,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 13, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Raslag Corp.",
@@ -2589,10 +2621,10 @@
     "Listing Date": "Nov 17, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Copper"
   },
   {
     "Full Company Name": "Asian Terminals, Inc.",
@@ -2602,10 +2634,10 @@
     "Listing Date": "Jan 25, 1996",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "ATN Holdings, Inc.",
@@ -2615,10 +2647,10 @@
     "Listing Date": "Sep 24, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asia United Bank Corporation",
@@ -2655,8 +2687,6 @@
     "Listing Date": "Jan 04, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2677,10 +2707,10 @@
     "Listing Date": "May 21, 2002",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "Belle Corporation",
@@ -2690,8 +2720,6 @@
     "Listing Date": "Feb 02, 1977",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2703,10 +2731,10 @@
     "Listing Date": "Nov 02, 1966",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Boulevard Holdings, Inc.",
@@ -2716,10 +2744,10 @@
     "Listing Date": "Apr 28, 1997",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bright Kindle Resources & Investments Inc.",
@@ -2737,7 +2765,9 @@
     "Subsector": "Casinos & Gaming",
     "Listing Date": "Oct 17, 2000",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Consumer Cyclical",
+    "Industry_YF": "Resorts & Casinos"
   },
   {
     "Full Company Name": "Bogo-Medellin Milling Company, Inc.",
@@ -2747,10 +2777,10 @@
     "Listing Date": "Nov 16, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bank of Commerce",
@@ -2759,7 +2789,9 @@
     "Subsector": "Banks",
     "Listing Date": "Mar 31, 2022",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Diversified"
   },
   {
     "Full Company Name": "Bank of the Philippine Islands",
@@ -2769,10 +2801,10 @@
     "Listing Date": "Oct 12, 1971",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "A Brown Company, Inc.",
@@ -2782,10 +2814,10 @@
     "Listing Date": "Feb 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Basic Energy Corporation",
@@ -2795,8 +2827,6 @@
     "Listing Date": "Oct 16, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2817,8 +2847,6 @@
     "Listing Date": "Mar 22, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -2830,10 +2858,10 @@
     "Listing Date": "Jan 08, 1948",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AbaCore Capital Holdings, Inc.",
@@ -2843,10 +2871,10 @@
     "Listing Date": "Oct 28, 1987",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asiabest Group International Inc.",
@@ -2865,10 +2893,10 @@
     "Listing Date": "Jul 08, 1992",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "ABS-CBN Holdings Corporation",
@@ -2878,10 +2906,10 @@
     "Listing Date": "Oct 07, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Capital Markets"
   },
   {
     "Full Company Name": "Ayala Corporation",
@@ -2891,10 +2919,10 @@
     "Listing Date": "Nov 08, 1976",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Acesite (Phils.) Hotel Corporation",
@@ -2912,7 +2940,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jan 05, 1970",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Renewable"
   },
   {
     "Full Company Name": "Alsons Consolidated Resources, Inc.",
@@ -2922,10 +2952,10 @@
     "Listing Date": "Apr 12, 1993",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Aboitiz Equity Ventures, Inc.",
@@ -2935,10 +2965,10 @@
     "Listing Date": "Nov 16, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "Alliance Global Group, Inc.",
@@ -2948,10 +2978,10 @@
     "Listing Date": "Apr 19, 1999",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Industrials",
+    "Industry_YF": "Conglomerates"
   },
   {
     "Full Company Name": "Arthaland Corporation",
@@ -2969,7 +2999,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 08, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Ayala Land, Inc.",
@@ -2979,10 +3011,10 @@
     "Listing Date": "Jul 05, 1991",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Real Estate",
+    "Industry_YF": "Real Estate—Development"
   },
   {
     "Full Company Name": "AllDay Marts, Inc.",
@@ -2991,7 +3023,9 @@
     "Subsector": "Retail",
     "Listing Date": "Nov 03, 2021",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AyalaLand Logistics Holdings Corp.",
@@ -3018,7 +3052,9 @@
     "Subsector": "Food, Beverage & Tobacco",
     "Listing Date": "May 25, 2009",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "A. Soriano Corporation",
@@ -3028,8 +3064,6 @@
     "Listing Date": "Oct 25, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -3040,7 +3074,9 @@
     "Subsector": "Electricity, Energy, Power & Water",
     "Listing Date": "Jul 16, 2007",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Utilities",
+    "Industry_YF": "Utilities—Regulated Electric"
   },
   {
     "Full Company Name": "APC Group, Inc.",
@@ -3050,10 +3086,10 @@
     "Listing Date": "Mar 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apollo Global Capital, Inc.",
@@ -3062,7 +3098,9 @@
     "Subsector": "Information Technology",
     "Listing Date": "Oct 18, 2012",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Anglo Philippine Holdings Corporation",
@@ -3072,8 +3110,6 @@
     "Listing Date": "Jul 31, 1959",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -3084,7 +3120,9 @@
     "Subsector": "Property",
     "Listing Date": "Jun 26, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Apex Mining Co., Inc.",
@@ -3094,10 +3132,10 @@
     "Listing Date": "Mar 07, 1974",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Gold"
   },
   {
     "Full Company Name": "Abra Mining and Industrial Corporation",
@@ -3107,8 +3145,6 @@
     "Listing Date": "Dec 24, 1969",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -3120,10 +3156,10 @@
     "Listing Date": "Nov 14, 1989",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "AREIT, Inc.",
@@ -3132,7 +3168,9 @@
     "Subsector": "Property",
     "Listing Date": "Aug 13, 2020",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Raslag Corp.",
@@ -3151,10 +3189,10 @@
     "Listing Date": "Nov 17, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Basic Materials",
+    "Industry_YF": "Copper"
   },
   {
     "Full Company Name": "Asian Terminals, Inc.",
@@ -3164,10 +3202,10 @@
     "Listing Date": "Jan 25, 1996",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "ATN Holdings, Inc.",
@@ -3177,10 +3215,10 @@
     "Listing Date": "Sep 24, 1970",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Asia United Bank Corporation",
@@ -3217,8 +3255,6 @@
     "Listing Date": "Jan 04, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -3239,10 +3275,10 @@
     "Listing Date": "May 21, 2002",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "Belle Corporation",
@@ -3252,8 +3288,6 @@
     "Listing Date": "Feb 02, 1977",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },
@@ -3265,10 +3299,10 @@
     "Listing Date": "Nov 02, 1966",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Boulevard Holdings, Inc.",
@@ -3278,10 +3312,10 @@
     "Listing Date": "Apr 28, 1997",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bright Kindle Resources & Investments Inc.",
@@ -3299,7 +3333,9 @@
     "Subsector": "Casinos & Gaming",
     "Listing Date": "Oct 17, 2000",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Consumer Cyclical",
+    "Industry_YF": "Resorts & Casinos"
   },
   {
     "Full Company Name": "Bogo-Medellin Milling Company, Inc.",
@@ -3309,10 +3345,10 @@
     "Listing Date": "Nov 16, 1950",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Bank of Commerce",
@@ -3321,7 +3357,9 @@
     "Subsector": "Banks",
     "Listing Date": "Mar 31, 2022",
     "Incorporated in": "PHILIPPINES",
-    "Exchange": "PSE"
+    "Exchange": "PSE",
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Diversified"
   },
   {
     "Full Company Name": "Bank of the Philippine Islands",
@@ -3331,10 +3369,10 @@
     "Listing Date": "Oct 12, 1971",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Financial Services",
+    "Industry_YF": "Banks—Regional"
   },
   {
     "Full Company Name": "A Brown Company, Inc.",
@@ -3344,10 +3382,10 @@
     "Listing Date": "Feb 08, 1994",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
-    "Week52_Low": null
+    "Week52_Low": null,
+    "Sector_YF": "Technology",
+    "Industry_YF": "Software—Infrastructure"
   },
   {
     "Full Company Name": "Basic Energy Corporation",
@@ -3357,8 +3395,6 @@
     "Listing Date": "Oct 16, 1973",
     "Incorporated in": "PHILIPPINES",
     "Exchange": "PSE",
-    "Stock_Price": null,
-    "Volume": null,
     "Week52_High": null,
     "Week52_Low": null
   },

@@ -320,6 +320,110 @@ def chart_sgx_country_pie():
     print("Saved 06_sgx_country_origin.png")
 
 
+def chart_market_cap_by_country(data):
+    """Bar chart: total market capitalization per ASEAN country ($ billions)."""
+    # Approximate USD conversion rates (for relative comparison)
+    CURRENCY_TO_USD = {
+        'Indonesia': 1 / 16000,    # IDR
+        'Singapore': 0.74,          # SGD
+        'Thailand': 1 / 35,         # THB
+        'Malaysia': 1 / 4.5,        # MYR
+        'Vietnam': 1 / 25000,       # VND
+        'Philippines': 1 / 56,      # PHP
+        'Myanmar': 1 / 2100,        # MMK
+        'Cambodia': 1 / 4100,       # KHR
+        'Laos': 1 / 20000,          # LAK
+    }
+
+    mcap_by_country = {}
+    active_by_country = {}
+    for c in data:
+        country = c['Country']
+        mcap = c.get('Market_Cap')
+        if mcap and mcap > 0:
+            rate = CURRENCY_TO_USD.get(country, 1)
+            # Malaysia: already in MYR (converted from MYR_M * 1e6 in consolidate)
+            mcap_usd = mcap * rate
+            mcap_by_country[country] = mcap_by_country.get(country, 0) + mcap_usd
+            active_by_country[country] = active_by_country.get(country, 0) + 1
+
+    countries = [c for c in COUNTRY_ORDER if c in mcap_by_country]
+    values_b = [mcap_by_country[c] / 1e9 for c in countries]
+    active = [active_by_country.get(c, 0) for c in countries]
+
+    fig, ax = plt.subplots(figsize=(10, 5))
+    bars = ax.bar(countries, values_b, color='#2a9d8f', edgecolor='white', linewidth=0.5)
+
+    for bar, val, act in zip(bars, values_b, active):
+        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + max(values_b) * 0.02,
+                f'${val:,.0f}B\n({act})', ha='center', va='bottom', fontsize=8, fontweight='bold')
+
+    ax.set_ylabel('Total Market Capitalization ($ billion)', fontsize=11)
+    ax.set_title('ASEAN Stock Exchanges: Total Market Capitalization', fontsize=14, fontweight='bold')
+    ax.set_ylim(0, max(values_b) * 1.2)
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+    ax.yaxis.set_major_formatter(mticker.FuncFormatter(lambda x, _: f'${x:,.0f}B'))
+    plt.xticks(rotation=30, ha='right')
+    plt.tight_layout()
+    plt.savefig(f'{OUTPUT_DIR}/07_market_cap_by_country.png', dpi=150)
+    plt.close()
+    print("Saved 07_market_cap_by_country.png")
+
+
+def chart_top_companies(data):
+    """Horizontal bar chart: top 20 companies by market cap across ASEAN."""
+    CURRENCY_TO_USD = {
+        'Indonesia': 1 / 16000, 'Singapore': 0.74, 'Thailand': 1 / 35,
+        'Malaysia': 1 / 4.5, 'Vietnam': 1 / 25000, 'Philippines': 1 / 56,
+        'Myanmar': 1 / 2100, 'Cambodia': 1 / 4100, 'Laos': 1 / 20000,
+    }
+
+    COUNTRY_COLORS = {
+        'Indonesia': '#e63946', 'Singapore': '#457b9d', 'Thailand': '#f4a261',
+        'Malaysia': '#2a9d8f', 'Vietnam': '#e76f51', 'Philippines': '#6a0572',
+    }
+
+    enriched = []
+    for c in data:
+        mcap = c.get('Market_Cap')
+        if mcap and mcap > 0:
+            rate = CURRENCY_TO_USD.get(c['Country'], 1)
+            mcap_usd = mcap * rate / 1e9
+            enriched.append({**c, 'Market_Cap_USD_B': mcap_usd})
+
+    top = sorted(enriched, key=lambda x: x['Market_Cap_USD_B'], reverse=True)[:20]
+    top.reverse()  # For horizontal bar (bottom to top)
+
+    labels = [f"{c['Ticker'] or c.get('Full Company Name', '?')[:15]} ({c['Country'][:3]})" for c in top]
+    values = [c['Market_Cap_USD_B'] for c in top]
+    colors = [COUNTRY_COLORS.get(c['Country'], '#adb5bd') for c in top]
+
+    fig, ax = plt.subplots(figsize=(10, 8))
+    bars = ax.barh(labels, values, color=colors, edgecolor='white', linewidth=0.5)
+
+    for bar, val in zip(bars, values):
+        ax.text(bar.get_width() + max(values) * 0.01, bar.get_y() + bar.get_height() / 2,
+                f'${val:,.1f}B', ha='left', va='center', fontsize=8)
+
+    ax.set_xlabel('Market Capitalization ($ billion)', fontsize=11)
+    ax.set_title('Top 20 ASEAN Companies by Market Cap', fontsize=14, fontweight='bold')
+    ax.spines['top'].set_visible(False)
+    ax.spines['right'].set_visible(False)
+
+    # Legend for countries
+    from matplotlib.patches import Patch
+    legend_elements = [Patch(facecolor=col, label=cnt)
+                       for cnt, col in COUNTRY_COLORS.items()
+                       if any(c['Country'] == cnt for c in top)]
+    ax.legend(handles=legend_elements, loc='lower right', fontsize=9)
+
+    plt.tight_layout()
+    plt.savefig(f'{OUTPUT_DIR}/08_top_companies_mcap.png', dpi=150, bbox_inches='tight')
+    plt.close()
+    print("Saved 08_top_companies_mcap.png")
+
+
 def generate_all():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     data = load_consolidated()
@@ -331,6 +435,8 @@ def generate_all():
     chart_cooperation_potential(data)
     chart_sector_trade_heatmap(data)
     chart_sgx_country_pie()
+    chart_market_cap_by_country(data)
+    chart_top_companies(data)
 
     print(f"\nAll charts saved to {OUTPUT_DIR}/")
 

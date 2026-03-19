@@ -5531,7 +5531,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
     "AUDITORS": "36 Robinson Road, #20-01 City House, Singapore 068877",
-    "Search_Status": "not_found"
+    "Search_Status": "not_found",
+    "YF_Ticker": "B73.SI",
+    "Market_Cap": 215817856,
+    "Stock_Price": 0.129,
+    "Volume": 254100
   },
   {
     "Full Company Name": "GLOBAL TESTING CORPORATION LIMITED",
@@ -13105,7 +13109,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
     "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
-    "Search_Status": "not_found"
+    "Search_Status": "not_found",
+    "YF_Ticker": "U96.SI",
+    "Market_Cap": 10845799424,
+    "Stock_Price": 6.1,
+    "Volume": 11295300
   },
   {
     "Full Company Name": "SEN YUE HOLDINGS LIMITED",
@@ -13778,7 +13786,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "KCK CORPSERVE PTE. LTD.",
-    "AUDITORS": "1 Raffles Place, One Raffles Place (Tower 2) #04-63, Singapore 048616"
+    "AUDITORS": "1 Raffles Place, One Raffles Place (Tower 2) #04-63, Singapore 048616",
+    "YF_Ticker": "U06.SI",
+    "Market_Cap": 4972036096,
+    "Stock_Price": 3.47,
+    "Volume": 261400
   },
   {
     "Full Company Name": "SINGAPORE PAINCARE HOLDINGS LIMITED",
@@ -13795,7 +13807,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "FRQ.SI",
+    "Market_Cap": 15219580,
+    "Stock_Price": 0.089,
+    "Volume": 10000
   },
   {
     "Full Company Name": "SINGAPORE POST LIMITED",
@@ -13812,7 +13828,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "S08.SI",
+    "Market_Cap": 776687296,
+    "Stock_Price": 0.345,
+    "Volume": 5534400
   },
   {
     "Full Company Name": "SINGAPORE SHIPPING CORPORATION LIMITED",
@@ -13829,7 +13849,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "S19.SI",
+    "Market_Cap": 122175856,
+    "Stock_Price": 0.305,
+    "Volume": 100
   },
   {
     "Full Company Name": "SINGAPORE TECHNOLOGIES ENGINEERING LTD",
@@ -13846,7 +13870,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "S63.SI",
+    "Market_Cap": 34759581696,
+    "Stock_Price": 11.15,
+    "Volume": 5283541
   },
   {
     "Full Company Name": "SINGAPURA FINANCE LTD",
@@ -13863,7 +13891,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "S23.SI",
+    "Market_Cap": 127742144,
+    "Stock_Price": 0.805,
+    "Volume": 10200
   },
   {
     "Full Company Name": "SINGAPORE TELECOMMUNICATIONS LIMITED",
@@ -13880,7 +13912,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "Z74.SI",
+    "Market_Cap": 84561010688,
+    "Stock_Price": 5.13,
+    "Volume": 28695700
   },
   {
     "Full Company Name": "SINO GRANDNESS FOOD INDUSTRY GROUP LIMITED",
@@ -13935,7 +13971,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
-    "AUDITORS": "36 Robinson Road, #20-01 City House, Singapore 068877"
+    "AUDITORS": "36 Robinson Road, #20-01 City House, Singapore 068877",
+    "YF_Ticker": "C9Q.SI",
+    "Market_Cap": 89280000,
+    "Stock_Price": 0.093,
+    "Volume": 4100
   },
   {
     "Full Company Name": "SITRA HOLDINGS (INTERNATIONAL) LIMITED",
@@ -13952,7 +13992,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place Republic Plaza, Tower I, #26-01 Singapore 048619"
+    "AUDITORS": "9 Raffles Place Republic Plaza, Tower I, #26-01 Singapore 048619",
+    "YF_Ticker": "5LE.SI",
+    "Market_Cap": 20766200,
+    "Stock_Price": 0.014,
+    "Volume": 1480000
   },
   {
     "Full Company Name": "SLB DEVELOPMENT LTD.",
@@ -14021,7 +14065,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "5MD.SI",
+    "Market_Cap": 34020000,
+    "Stock_Price": 0.315,
+    "Volume": 21800
   },
   {
     "Full Company Name": "SOUP HOLDINGS LIMITED",
@@ -14038,7 +14086,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "5KI.SI",
+    "Market_Cap": 20390922,
+    "Stock_Price": 0.073,
+    "Volume": 8100
   },
   {
     "Full Company Name": "SOUTHERN ALLIANCE MINING LTD.",
@@ -14055,7 +14107,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "QNS.SI",
+    "Market_Cap": 273798784,
+    "Stock_Price": 0.43,
+    "Volume": 85000
   },
   {
     "Full Company Name": "SOUTHERN ARCHIPELAGO LTD.",
@@ -14072,7 +14128,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "A33.SI",
+    "Market_Cap": 55141528,
+    "Stock_Price": 0.002,
+    "Volume": 5300
   },
   {
     "Full Company Name": "SOUTHERN PACKAGING GROUP LIMITED",
@@ -14089,7 +14149,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "BQP.SI",
+    "Market_Cap": 20744154,
+    "Stock_Price": 0.295,
+    "Volume": 400
   },
   {
     "Full Company Name": "SPACKMAN ENTERTAINMENT GROUP LIMITED",
@@ -14212,7 +14276,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "STOCK EXCHANGE OF THAILAND|*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "THAILAND SECURITIES DEPOSITORY CO LTD \\ BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "62 The Stock Exchange of Thailand Building Rachadaphisek Road Klongtoey, Bangkok 10110 Thailand/1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "62 The Stock Exchange of Thailand Building Rachadaphisek Road Klongtoey, Bangkok 10110 Thailand/1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "STG.SI",
+    "Market_Cap": 703249216,
+    "Stock_Price": 0.355,
+    "Volume": 14200
   },
   {
     "Full Company Name": "ST GROUP FOOD INDUSTRIES HOLDINGS LIMITED",
@@ -14229,7 +14297,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "DRX.SI",
+    "Market_Cap": 31581156,
+    "Stock_Price": 0.124,
+    "Volume": 200
   },
   {
     "Full Company Name": "STAMFORD LAND CORPORATION LTD",
@@ -14246,7 +14318,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "H07.SI",
+    "Market_Cap": 689878656,
+    "Stock_Price": 0.465,
+    "Volume": 105600
   },
   {
     "Full Company Name": "STAMFORD TYRES CORPORATION LIMITED",
@@ -14264,7 +14340,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "S29.SI",
+    "Market_Cap": 46290316,
+    "Stock_Price": 0.195,
+    "Volume": 39300
   },
   {
     "Full Company Name": "YTL STARHILL GLOBAL REIT MANAGEMENT LIMITED",
@@ -14299,7 +14379,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Information and communication"
+    "Sector_YF": "Information and communication",
+    "YF_Ticker": "CC3.SI",
+    "Market_Cap": 1758758400,
+    "Stock_Price": 1.02,
+    "Volume": 826900
   },
   {
     "Full Company Name": "STATE STREET GLOBAL ADVISORS SINGAPORE LIMITED",
@@ -14351,7 +14435,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
     "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
-    "Sector_YF": "Arts, entertainment and recreation"
+    "Sector_YF": "Arts, entertainment and recreation",
+    "YF_Ticker": "S85.SI",
+    "Market_Cap": 320799616,
+    "Stock_Price": 0.375,
+    "Volume": 40000
   },
   {
     "Full Company Name": "THE STRAITS TRADING COMPANY LIMITED",
@@ -14368,7 +14456,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "S20.SI",
+    "Market_Cap": 787720576,
+    "Stock_Price": 1.68,
+    "Volume": 208800
   },
   {
     "Full Company Name": "SUNMOON FOOD COMPANY LIMITED",
@@ -14385,7 +14477,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "AAJ.SI",
+    "Market_Cap": 21678542,
+    "Stock_Price": 0.024,
+    "Volume": 250200
   },
   {
     "Full Company Name": "SUNPOWER GROUP LTD.",
@@ -14406,7 +14502,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "OCORIAN MANAGEMENT (BERMUDA) LIMITED \\ IN.CORP CORPORATE SERVICES PTE. LTD.",
-    "AUDITORS": "VICTORIA PLACE, 5/F, 31 VICTORIA STREET, HAMILTON HM10, BERMUDA/36 Robinson Road #20-01 City House, Singapore 068877"
+    "AUDITORS": "VICTORIA PLACE, 5/F, 31 VICTORIA STREET, HAMILTON HM10, BERMUDA/36 Robinson Road #20-01 City House, Singapore 068877",
+    "YF_Ticker": "5GD.SI",
+    "Market_Cap": 392832576,
+    "Stock_Price": 0.48,
+    "Volume": 433500
   },
   {
     "Full Company Name": "SUNRIGHT LIMITED",
@@ -14424,7 +14524,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "S71.SI",
+    "Market_Cap": 47894340,
+    "Stock_Price": 0.39,
+    "Volume": 621200
   },
   {
     "Full Company Name": "SUNRISE SHARES HOLDINGS LTD.",
@@ -14441,7 +14545,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
-    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877"
+    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877",
+    "YF_Ticker": "581.SI",
+    "Market_Cap": 8851547,
+    "Stock_Price": 0.03,
+    "Volume": 100
   },
   {
     "Full Company Name": "SUNTAR ECO-CITY LIMITED",
@@ -14458,7 +14566,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "BKZ.SI",
+    "Market_Cap": 31380000,
+    "Stock_Price": 0.5,
+    "Volume": 2000
   },
   {
     "Full Company Name": "ESR TRUST MANAGEMENT (SUNTEC) LIMITED",
@@ -14493,7 +14605,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Accommodation and food service activities"
+    "Sector_YF": "Accommodation and food service activities",
+    "YF_Ticker": "BHU.SI",
+    "Market_Cap": 76362760,
+    "Stock_Price": 0.86,
+    "Volume": 5000
   },
   {
     "Full Company Name": "TA CORPORATION LTD.",
@@ -14510,7 +14626,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "PA3.SI",
+    "Market_Cap": 54760144,
+    "Stock_Price": 0.105,
+    "Volume": 76400
   },
   {
     "Full Company Name": "TAI SIN ELECTRIC LIMITED",
@@ -14529,7 +14649,11 @@
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
     "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
     "Sector_Inferred": "D",
-    "Sector_YF": "Electricity, gas, steam and air conditioning supply"
+    "Sector_YF": "Electricity, gas, steam and air conditioning supply",
+    "YF_Ticker": "500.SI",
+    "Market_Cap": 237034848,
+    "Stock_Price": 0.515,
+    "Volume": 189800
   },
   {
     "Full Company Name": "TAKA JEWELLERY HOLDINGS LIMITED",
@@ -14546,7 +14670,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "42L.SI",
+    "Market_Cap": 111881208,
+    "Stock_Price": 0.2,
+    "Volume": 86000
   },
   {
     "Full Company Name": "TALKMED GROUP LIMITED",
@@ -14586,7 +14714,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "HONG KONG EXCHANGES AND CLEARING LTD",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "CONYERS CORPORATE SERVICES (BERMUDA) LIMITED",
     "AUDITORS": "Clarendon House 2 Church Street Hamilton HM 11 Bermuda",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "T15.SI",
+    "Market_Cap": 3609882624,
+    "Stock_Price": 1.71,
+    "Volume": 106000
   },
   {
     "Full Company Name": "TAT SENG PACKAGING GROUP LTD",
@@ -14607,7 +14739,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "T12.SI",
+    "Market_Cap": 187068016,
+    "Stock_Price": 1.19,
+    "Volume": 79100
   },
   {
     "Full Company Name": "TEHO INTERNATIONAL INC LTD.",
@@ -14624,7 +14760,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
-    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877"
+    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877",
+    "YF_Ticker": "5OQ.SI",
+    "Market_Cap": 14627325,
+    "Stock_Price": 0.062,
+    "Volume": 10100
   },
   {
     "Full Company Name": "TELECHOICE INTERNATIONAL LIMITED",
@@ -14642,7 +14782,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
     "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
-    "Sector_YF": "Information and communication"
+    "Sector_YF": "Information and communication",
+    "YF_Ticker": "T41.SI",
+    "Market_Cap": 87694552,
+    "Stock_Price": 0.193,
+    "Volume": 210000
   },
   {
     "Full Company Name": "PHILLIP SECURITIES PTE LTD",
@@ -14698,7 +14842,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
     "AUDITORS": "36 Robinson Road, #20-01 City House, Singapore 068877",
-    "Sector_YF": "Wholesale and retail trade"
+    "Sector_YF": "Wholesale and retail trade",
+    "YF_Ticker": "AWI.SI",
+    "Market_Cap": 226168784,
+    "Stock_Price": 1.78,
+    "Volume": 116200
   },
   {
     "Full Company Name": "THE HOUR GLASS LIMITED",
@@ -14732,7 +14880,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "E27.SI",
+    "Market_Cap": 17641964,
+    "Stock_Price": 0.003,
+    "Volume": 4776100
   },
   {
     "Full Company Name": "THE TRENDLINES GROUP LTD.",
@@ -14749,7 +14901,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "42T.SI",
+    "Market_Cap": 81507640,
+    "Stock_Price": 0.056,
+    "Volume": 556000
   },
   {
     "Full Company Name": "THOMSON MEDICAL GROUP LIMITED",
@@ -14770,7 +14926,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "A50.SI",
+    "Market_Cap": 1533581824,
+    "Stock_Price": 0.058,
+    "Volume": 5278300
   },
   {
     "Full Company Name": "TIANJIN PHARMACEUTICAL DA REN TANG GROUP CORPORATION LIMITED",
@@ -14793,7 +14953,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "T14.SI",
+    "Market_Cap": 4357338112,
+    "Stock_Price": 3.41,
+    "Volume": 32300
   },
   {
     "Full Company Name": "TIH LIMITED",
@@ -14810,7 +14974,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "T55.SI",
+    "Market_Cap": 48337128,
+    "Stock_Price": 0.2,
+    "Volume": 3000
   },
   {
     "Full Company Name": "TIONG SENG HOLDINGS LIMITED",
@@ -14827,7 +14995,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "BFI.SI",
+    "Market_Cap": 43802280,
+    "Stock_Price": 0.095,
+    "Volume": 700
   },
   {
     "Full Company Name": "TIONG WOON CORPORATION HOLDING LTD",
@@ -14844,7 +15016,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "BQM.SI",
+    "Market_Cap": 227198544,
+    "Stock_Price": 0.98,
+    "Volume": 114900
   },
   {
     "Full Company Name": "TOP GLOVE CORPORATION BHD",
@@ -14866,7 +15042,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "BURSA MALAYSIA",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "SECURITIES SERVICES (HOLDINGS) SDN BHD \\ BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "Level 7, Menara Milenium Jalan Damanlela Pusat Bandar Damansara Damansara Heights 50490 Kuala Lumpur, Malaysia/1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "BVA.SI",
+    "Market_Cap": 1492551552,
+    "Stock_Price": 0.186,
+    "Volume": 19435900
   },
   {
     "Full Company Name": "TOSEI CORPORATION",
@@ -14901,7 +15081,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "42F.SI",
+    "Market_Cap": 37499776,
+    "Stock_Price": 0.025,
+    "Volume": 474700
   },
   {
     "Full Company Name": "TOYOTA MOTOR",
@@ -14936,7 +15120,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
-    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877"
+    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877",
+    "YF_Ticker": "VI2.SI",
+    "Market_Cap": 17688454,
+    "Stock_Price": 0.03,
+    "Volume": 258800
   },
   {
     "Full Company Name": "TRAVELITE HOLDINGS LTD.",
@@ -14953,7 +15141,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "BCZ.SI",
+    "Market_Cap": 10979123,
+    "Stock_Price": 0.116,
+    "Volume": 70000
   },
   {
     "Full Company Name": "TREK 2000 INTERNATIONAL LTD",
@@ -14971,7 +15163,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Information and communication"
+    "Sector_YF": "Information and communication",
+    "YF_Ticker": "5AB.SI",
+    "Market_Cap": 31494136,
+    "Stock_Price": 0.103,
+    "Volume": 455000
   },
   {
     "Full Company Name": "TRICKLESTAR LIMITED",
@@ -14989,7 +15185,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
     "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "CYW.SI",
+    "Market_Cap": 4745013,
+    "Stock_Price": 0.03,
+    "Volume": 2108000
   },
   {
     "Full Company Name": "TRIP.COM GROUP LIMITED",
@@ -15024,7 +15224,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
-    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877"
+    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877",
+    "YF_Ticker": "5G9.SI",
+    "Market_Cap": 15061846,
+    "Stock_Price": 0.008,
+    "Volume": 11300
   },
   {
     "Full Company Name": "TRIYARDS HOLDINGS LIMITED",
@@ -15059,7 +15263,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "KUH.SI",
+    "Market_Cap": 8693676,
+    "Stock_Price": 0.196,
+    "Volume": 1300
   },
   {
     "Full Company Name": "TSH RESOURCES BERHAD",
@@ -15078,7 +15286,11 @@
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
     "Sector_Inferred": "B",
-    "Sector_YF": "Mining and quarrying"
+    "Sector_YF": "Mining and quarrying",
+    "YF_Ticker": "TSH.SI",
+    "Market_Cap": 534571232,
+    "Stock_Price": 0.425,
+    "Volume": 96100
   },
   {
     "Full Company Name": "TT INTERNATIONAL LIMITED",
@@ -15117,7 +15329,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "T24.SI",
+    "Market_Cap": 406056640,
+    "Stock_Price": 0.325,
+    "Volume": 267000
   },
   {
     "Full Company Name": "TUNG LOK RESTAURANTS (2000) LTD",
@@ -15138,7 +15354,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "540.SI",
+    "Market_Cap": 17561600,
+    "Stock_Price": 0.064,
+    "Volume": 62000
   },
   {
     "Full Company Name": "TYE SOON LIMITED",
@@ -15156,7 +15376,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
     "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "BFU.SI",
+    "Market_Cap": 27924810,
+    "Stock_Price": 0.32,
+    "Volume": 101900
   },
   {
     "Full Company Name": "UG HEALTHCARE CORPORATION LIMITED",
@@ -15173,7 +15397,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "8K7.SI",
+    "Market_Cap": 45539284,
+    "Stock_Price": 0.073,
+    "Volume": 579000
   },
   {
     "Full Company Name": "UMS INTEGRATION LIMITED",
@@ -15191,7 +15419,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
     "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "558.SI",
+    "Market_Cap": 1402254848,
+    "Stock_Price": 1.58,
+    "Volume": 13018500
   },
   {
     "Full Company Name": "UNI-ASIA GROUP LIMITED",
@@ -15209,7 +15441,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
     "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
-    "Sector_YF": "Financial and insurance activities"
+    "Sector_YF": "Financial and insurance activities",
+    "YF_Ticker": "CHJ.SI",
+    "Market_Cap": 69167984,
+    "Stock_Price": 0.88,
+    "Volume": 4000
   },
   {
     "Full Company Name": "UNION GAS HOLDINGS LIMITED",
@@ -15226,7 +15462,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "1F2.SI",
+    "Market_Cap": 144483264,
+    "Stock_Price": 0.455,
+    "Volume": 3976600
   },
   {
     "Full Company Name": "UNION STEEL HOLDINGS LIMITED",
@@ -15243,7 +15483,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "ZB9.SI",
+    "Market_Cap": 60248492,
+    "Stock_Price": 0.51,
+    "Volume": 19000
   },
   {
     "Full Company Name": "UNITED FOOD HOLDINGS LIMITED",
@@ -15299,7 +15543,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "ASX - ALL MARKETS",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "XCEND PTY LTD \\ BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Real estate activities"
+    "Sector_YF": "Real estate activities",
+    "YF_Ticker": "EH5.SI",
+    "Market_Cap": 1037030144,
+    "Stock_Price": 0.59,
+    "Volume": 3300
   },
   {
     "Full Company Name": "UNITED OVERSEAS BANK LIMITED",
@@ -15316,7 +15564,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "U11.SI",
+    "Market_Cap": 61775257600,
+    "Stock_Price": 37.21,
+    "Volume": 4539068
   },
   {
     "Full Company Name": "UNITED OVERSEAS INSURANCE LIMITED",
@@ -15333,7 +15585,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "U13.SI",
+    "Market_Cap": 495967040,
+    "Stock_Price": 8.11,
+    "Volume": 11100
   },
   {
     "Full Company Name": "UOB ASSET MANAGEMENT LTD",
@@ -15385,7 +15641,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
     "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
-    "Sector_YF": "Arts, entertainment and recreation"
+    "Sector_YF": "Arts, entertainment and recreation",
+    "YF_Ticker": "1D1.SI",
+    "Market_Cap": 25553462,
+    "Stock_Price": 0.025,
+    "Volume": 335100
   },
   {
     "Full Company Name": "UOB ASSET MANAGEMENT LTD",
@@ -15419,7 +15679,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "U10.SI",
+    "Market_Cap": 3156369920,
+    "Stock_Price": 3.24,
+    "Volume": 2046400
   },
   {
     "Full Company Name": "UOB ASSET MANAGEMENT LTD",
@@ -15454,7 +15718,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Real estate activities"
+    "Sector_YF": "Real estate activities",
+    "YF_Ticker": "U14.SI",
+    "Market_Cap": 8628615168,
+    "Stock_Price": 10.2,
+    "Volume": 3308500
   },
   {
     "Full Company Name": "UPL LIMITED",
@@ -15527,7 +15795,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "WPC.SI",
+    "Market_Cap": 70273984,
+    "Stock_Price": 0.058,
+    "Volume": 198100
   },
   {
     "Full Company Name": "VALUEMAX GROUP LIMITED",
@@ -15545,7 +15817,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
     "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
-    "Sector_YF": "Wholesale and retail trade"
+    "Sector_YF": "Wholesale and retail trade",
+    "YF_Ticker": "T6I.SI",
+    "Market_Cap": 999978624,
+    "Stock_Price": 1.06,
+    "Volume": 272300
   },
   {
     "Full Company Name": "VALUETRONICS HOLDINGS LIMITED",
@@ -15566,7 +15842,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "OCORIAN MANAGEMENT (BERMUDA) LIMITED \\ B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "VICTORIA PLACE, 5/F, 31 VICTORIA STREET, HAMILTON HM10, BERMUDA/77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "VICTORIA PLACE, 5/F, 31 VICTORIA STREET, HAMILTON HM10, BERMUDA/77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "BN2.SI",
+    "Market_Cap": 348352992,
+    "Stock_Price": 0.85,
+    "Volume": 271100
   },
   {
     "Full Company Name": "VCPLUS LIMITED",
@@ -15583,7 +15863,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "43E.SI",
+    "Market_Cap": 17011746,
+    "Stock_Price": 0.003,
+    "Volume": 3679100
   },
   {
     "Full Company Name": "VENTURE CORPORATION LIMITED",
@@ -15601,7 +15885,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
     "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "V03.SI",
+    "Market_Cap": 4633197056,
+    "Stock_Price": 16.1,
+    "Volume": 1078200
   },
   {
     "Full Company Name": "",
@@ -15634,7 +15922,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "40N.SI",
+    "Market_Cap": 8775000,
+    "Stock_Price": 0.065,
+    "Volume": 900
   },
   {
     "Full Company Name": "VIBRANT GROUP LIMITED",
@@ -15652,7 +15944,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
     "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
-    "Sector_YF": "Transportation and storage"
+    "Sector_YF": "Transportation and storage",
+    "YF_Ticker": "BIP.SI",
+    "Market_Cap": 96447240,
+    "Stock_Price": 0.142,
+    "Volume": 200
   },
   {
     "Full Company Name": "VIBROPOWER CORPORATION LIMITED",
@@ -15669,7 +15965,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "BJD.SI",
+    "Market_Cap": 2947844,
+    "Stock_Price": 0.04,
+    "Volume": 90000
   },
   {
     "Full Company Name": "VICOM LTD",
@@ -15687,7 +15987,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
     "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
-    "Sector_YF": "Professional, scientific and technical activities"
+    "Sector_YF": "Professional, scientific and technical activities",
+    "YF_Ticker": "WJP.SI",
+    "Market_Cap": 638222400,
+    "Stock_Price": 1.8,
+    "Volume": 143600
   },
   {
     "Full Company Name": "VICPLAS INTERNATIONAL LTD",
@@ -15705,7 +16009,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
     "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "569.SI",
+    "Market_Cap": 45996904,
+    "Stock_Price": 0.09,
+    "Volume": 50000
   },
   {
     "Full Company Name": "VIVIDTHREE HOLDINGS LTD.",
@@ -15722,7 +16030,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "OMK.SI",
+    "Market_Cap": 6015043,
+    "Stock_Price": 0.01,
+    "Volume": 5000
   },
   {
     "Full Company Name": "WEE HUR HOLDINGS LTD.",
@@ -15739,7 +16051,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "E3B.SI",
+    "Market_Cap": 648067776,
+    "Stock_Price": 0.705,
+    "Volume": 4703800
   },
   {
     "Full Company Name": "ABACUS CAPITAL (S) PTE LTD",
@@ -15796,7 +16112,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
     "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "F34.SI",
+    "Market_Cap": 24346658816,
+    "Stock_Price": 3.9,
+    "Volume": 7180700
   },
   {
     "Full Company Name": "WILTON RESOURCES CORPORATION LIMITED",
@@ -15815,7 +16135,11 @@
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
     "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877",
     "Sector_Inferred": "B",
-    "Sector_YF": "Mining and quarrying"
+    "Sector_YF": "Mining and quarrying",
+    "YF_Ticker": "5F7.SI",
+    "Market_Cap": 36735764,
+    "Stock_Price": 0.014,
+    "Volume": 57948800
   },
   {
     "Full Company Name": "WING TAI HOLDINGS LIMITED",
@@ -15832,7 +16156,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "W05.SI",
+    "Market_Cap": 1260419328,
+    "Stock_Price": 1.65,
+    "Volume": 263800
   },
   {
     "Full Company Name": "WINKING STUDIOS LIMITED",
@@ -15890,7 +16218,11 @@
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
     "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
     "Sector_Inferred": "C",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "B49.SI",
+    "Market_Cap": 60800000,
+    "Stock_Price": 0.152,
+    "Volume": 11800
   },
   {
     "Full Company Name": "PHILLIP SECURITIES PTE LTD",
@@ -15924,7 +16256,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
-    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619"
+    "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
+    "YF_Ticker": "BQF.SI",
+    "Market_Cap": 208323440,
+    "Stock_Price": 1.9,
+    "Volume": 67700
   },
   {
     "Full Company Name": "DEUTSCHE BANK AG",
@@ -16026,7 +16362,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
-    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877"
+    "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877",
+    "YF_Ticker": "1F1.SI",
+    "Market_Cap": 3949664,
+    "Stock_Price": 0.008,
+    "Volume": 3600
   },
   {
     "Full Company Name": "YAMADA GREEN RESOURCES LIMITED",
@@ -16045,7 +16385,11 @@
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
     "AUDITORS": "36 Robinson Road #20-01 City House, Singapore 068877",
     "Sector_Inferred": "B",
-    "Sector_YF": "Mining and quarrying"
+    "Sector_YF": "Mining and quarrying",
+    "YF_Ticker": "BJV.SI",
+    "Market_Cap": 21711734,
+    "Stock_Price": 0.123,
+    "Volume": 500
   },
   {
     "Full Company Name": "YANGZIJIANG FINANCIAL HOLDING LTD.",
@@ -16062,7 +16406,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "YF8.SI",
+    "Market_Cap": 889717568,
+    "Stock_Price": 0.255,
+    "Volume": 25721200
   },
   {
     "Full Company Name": "YANGZIJIANG SHIPBUILDING (HOLDINGS) LTD.",
@@ -16079,7 +16427,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "BS6.SI",
+    "Market_Cap": 16175271936,
+    "Stock_Price": 4.11,
+    "Volume": 22121500
   },
   {
     "Full Company Name": "YANLORD LAND GROUP LIMITED",
@@ -16096,7 +16448,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "Z25.SI",
+    "Market_Cap": 1265155584,
+    "Stock_Price": 0.655,
+    "Volume": 2383000
   },
   {
     "Full Company Name": "YEO HIAP SENG LTD",
@@ -16136,7 +16492,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "TRICOR BARBINDER SHARE REGISTRATION SERVICES",
     "AUDITORS": "9 Raffles Place, Republic Plaza Tower I #26-01, Singapore 048619",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "BPF.SI",
+    "Market_Cap": 113821424,
+    "Stock_Price": 0.39,
+    "Volume": 200
   },
   {
     "Full Company Name": "YING LI INTERNATIONAL REAL ESTATE LIMITED",
@@ -16157,7 +16517,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "5DM.SI",
+    "Market_Cap": 63926004,
+    "Stock_Price": 0.025,
+    "Volume": 55200
   },
   {
     "Full Company Name": "YKGI LIMITED",
@@ -16175,7 +16539,11 @@
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "IN.CORP CORPORATE SERVICES PTE. LTD.",
     "AUDITORS": "36 Robinson Road, #20-01 City House, Singapore 068877",
-    "Sector_YF": "Manufacturing"
+    "Sector_YF": "Manufacturing",
+    "YF_Ticker": "YK9.SI",
+    "Market_Cap": 61625000,
+    "Stock_Price": 0.145,
+    "Volume": 46100
   },
   {
     "Full Company Name": "YOMA STRATEGIC HOLDINGS LTD.",
@@ -16192,7 +16560,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "Z59.SI",
+    "Market_Cap": 183914832,
+    "Stock_Price": 0.077,
+    "Volume": 1158100
   },
   {
     "Full Company Name": "YONGMAO HOLDINGS LIMITED",
@@ -16251,7 +16623,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "BWM.SI",
+    "Market_Cap": 927025344,
+    "Stock_Price": 0.645,
+    "Volume": 15500
   },
   {
     "Full Company Name": "ZHONGMIN BAIHUI RETAIL GROUP LTD.",
@@ -16268,7 +16644,11 @@
     "LISTING BOARD": "MAINBOARD",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE LTD.",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "5SR.SI",
+    "Market_Cap": 97731000,
+    "Stock_Price": 0.51,
+    "Volume": 60000
   },
   {
     "Full Company Name": "ZHONGXIN FRUIT AND JUICE LIMITED",
@@ -16285,7 +16665,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "5EG.SI",
+    "Market_Cap": 37996528,
+    "Stock_Price": 0.036,
+    "Volume": 300
   },
   {
     "Full Company Name": "ZICO HOLDINGS INC.",
@@ -16302,7 +16686,11 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "B.A.C.S. PRIVATE LIMITED",
-    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896"
+    "AUDITORS": "77 Robinson Road, #06-03 Robinson 77, Singapore 068896",
+    "YF_Ticker": "40W.SI",
+    "Market_Cap": 20939006,
+    "Stock_Price": 0.051,
+    "Volume": 3000
   },
   {
     "Full Company Name": "ZIXIN GROUP HOLDINGS LIMITED",
@@ -16319,6 +16707,10 @@
     "LISTING BOARD": "CATALIST",
     "OTHER STOCK EXCHANGE LISTINGS": "*SINGAPORE EXCHANGE (CATALIST)",
     "REGISTRARS / TRANSFER AGENTS & ADDRESS": "BOARDROOM CORPORATE & ADVISORY SERVICES PTE. LTD.",
-    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632"
+    "AUDITORS": "1 Harbourfront Avenue, Keppel Bay Tower, #14-07, Singapore 098632",
+    "YF_Ticker": "42W.SI",
+    "Market_Cap": 66345396,
+    "Stock_Price": 0.033,
+    "Volume": 2643600
   }
 ]
