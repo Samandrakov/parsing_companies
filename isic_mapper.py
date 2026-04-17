@@ -49,6 +49,9 @@ KEYWORD_TO_ISIC = {
     # Indonesian
     'pertanian': 'A', 'perkebunan': 'A', 'peternakan': 'A', 'perikanan': 'A',
     'kelapa sawit': 'A', 'tanaman pangan': 'A',
+    'produk makanan pertanian': 'A', 'perkebunan & tanaman pangan': 'A',
+    'ikan, daging & produk unggas': 'A', 'barang kimia pertanian': 'A',
+    'perhutanan': 'A',
     # Thai
     'agro': 'A', 'agribusiness': 'A',
 
@@ -58,6 +61,7 @@ KEYWORD_TO_ISIC = {
     'tin': 'B', 'copper': 'B', 'bauxite': 'B',
     # Indonesian
     'pertambangan': 'B', 'batu bara': 'B', 'minyak': 'B',
+    'minyak & gas': 'B', 'logam & mineral': 'B', 'bahan tambang': 'B',
 
     # C - Manufacturing
     'manufacturing': 'C', 'industrial': 'C', 'factory': 'C', 'production': 'C',
@@ -109,6 +113,7 @@ KEYWORD_TO_ISIC = {
     'food service': 'I', 'catering': 'I', 'tourism': 'I',
     # Indonesian
     'perhotelan': 'I', 'pariwisata': 'I', 'restoran': 'I',
+    'barang konsumen non-primer': 'I',  # IDX: hotels, restaurants, leisure
 
     # J - Information/Communication
     'technology': 'J', 'tech': 'J', 'software': 'J', 'it ': 'J',
@@ -207,10 +212,12 @@ def classify_company(company: Dict, field_priority: List[str] = None) -> Dict:
     if field_priority is None:
         field_priority = [
             'Sector_YF', 'Industry_YF',  # Yahoo Finance (English, standardized)
-            'Sector', 'Industry',          # Exchange-native
+            'Sub-industry', 'Sub_Industry',  # Most specific local field first
+            'Industry',                       # Specific local field
+            'Subsector',                      # Semi-specific local field
+            'Sector',                         # Broad local field — checked AFTER specific ones
             'Sector_CSV', 'Industry_CSV',
             'Sector_JSON', 'Industry_JSON',
-            'Subsector', 'Sub-industry', 'Sub_Industry',
             'Main Business Fields', 'Main_Business_Fields',
             'DESCRIPTION', 'Description',
             'Full Company Name',  # Last resort: infer from company name
